@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-07T07:34:18.544Z",
+  "generated_at": "2026-03-07T15:34:17.386Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -6002,6 +6002,30 @@
           "size": "XL",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-cb02232a-SUELA-XL"
+        },
+        {
+          "color": "Blanco",
+          "size": "S",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-cb02232a-Blanco-S"
+        },
+        {
+          "color": "Blanco",
+          "size": "M",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-cb02232a-Blanco-M"
+        },
+        {
+          "color": "Blanco",
+          "size": "L",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-cb02232a-Blanco-L"
+        },
+        {
+          "color": "Blanco",
+          "size": "XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-cb02232a-Blanco-XL"
         }
       ]
     },
@@ -6612,6 +6636,30 @@
           "size": "XL",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-e6d9f5e3-SUELA-XL"
+        },
+        {
+          "color": "Blanco",
+          "size": "S",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-e6d9f5e3-Blanco-S"
+        },
+        {
+          "color": "Blanco",
+          "size": "M",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-e6d9f5e3-Blanco-M"
+        },
+        {
+          "color": "Blanco",
+          "size": "L",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-e6d9f5e3-Blanco-L"
+        },
+        {
+          "color": "Blanco",
+          "size": "XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-e6d9f5e3-Blanco-XL"
         }
       ]
     },
@@ -10635,6 +10683,65 @@
           "size": "S/T",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-36030008-Rosa-S/T"
+        }
+      ]
+    },
+    {
+      "id": "1a29e5f3",
+      "model": "CINTO BROCHE",
+      "price": 3500,
+      "minor_surcharge": 2000,
+      "category_id": "CINT03",
+      "categoryName": "CINTURON DE MUJER",
+      "store_id": "DSC-02",
+      "variations": [
+        {
+          "color": "Negro",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-1a29e5f3-Negro-S/T"
+        },
+        {
+          "color": "Blanco",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-1a29e5f3-Blanco-S/T"
+        },
+        {
+          "color": "Azul",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-1a29e5f3-Azul-S/T"
+        },
+        {
+          "color": "Rosa",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-1a29e5f3-Rosa-S/T"
+        },
+        {
+          "color": "Violeta",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-1a29e5f3-Violeta-S/T"
+        },
+        {
+          "color": "Verde",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-1a29e5f3-Verde-S/T"
+        },
+        {
+          "color": "Rojo",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-1a29e5f3-Rojo-S/T"
+        },
+        {
+          "color": "Bordo",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-1a29e5f3-Bordo-S/T"
         }
       ]
     }
