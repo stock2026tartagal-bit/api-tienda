@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-10T11:34:16.604Z",
+  "generated_at": "2026-03-10T15:34:22.360Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -8136,12 +8136,6 @@
       "categoryName": "FAJA DE MUJER",
       "store_id": "DSC-02",
       "variations": [
-        {
-          "color": "ANIMAL PRINT",
-          "size": "S/T",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-66d88db1-ANIMAL PRINT-S/T"
-        },
         {
           "color": "Blanco",
           "size": "S/T",
