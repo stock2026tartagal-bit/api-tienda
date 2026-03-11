@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-11T11:34:17.713Z",
+  "generated_at": "2026-03-11T15:34:18.943Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -9331,7 +9331,7 @@
     {
       "id": "4c06deef",
       "model": "MOCHI ABACO",
-      "price": 13000,
+      "price": 16000,
       "minor_surcharge": 2000,
       "category_id": "MOCH08",
       "categoryName": "MOCHILAS",
