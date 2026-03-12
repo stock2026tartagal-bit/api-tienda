@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-12T07:34:17.925Z",
+  "generated_at": "2026-03-12T11:34:16.415Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -10736,6 +10736,65 @@
           "size": "S/T",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-1a29e5f3-Bordo-S/T"
+        }
+      ]
+    },
+    {
+      "id": "a18464da",
+      "model": "OJALON 30",
+      "price": 4500,
+      "minor_surcharge": 2000,
+      "category_id": "CINT03",
+      "categoryName": "CINTURON DE MUJER",
+      "store_id": "DSC-02",
+      "variations": [
+        {
+          "color": "Negro",
+          "size": "S",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-a18464da-Negro-S"
+        },
+        {
+          "color": "Negro",
+          "size": "M",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-a18464da-Negro-M"
+        },
+        {
+          "color": "Negro",
+          "size": "L",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-a18464da-Negro-L"
+        },
+        {
+          "color": "Negro",
+          "size": "XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-a18464da-Negro-XL"
+        },
+        {
+          "color": "Blanco",
+          "size": "S",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-a18464da-Blanco-S"
+        },
+        {
+          "color": "Blanco",
+          "size": "M",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-a18464da-Blanco-M"
+        },
+        {
+          "color": "Blanco",
+          "size": "L",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-a18464da-Blanco-L"
+        },
+        {
+          "color": "Blanco",
+          "size": "XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-a18464da-Blanco-XL"
         }
       ]
     }
