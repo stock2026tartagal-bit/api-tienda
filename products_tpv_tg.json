@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-13T11:34:21.152Z",
+  "generated_at": "2026-03-13T15:34:20.542Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -10829,6 +10829,40 @@
           "size": "S/T",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-372a4b41-Negro-S/T"
+        }
+      ]
+    },
+    {
+      "id": "e4cf98df",
+      "model": "CHALINA ANIMAL",
+      "price": 13500,
+      "minor_surcharge": 1000,
+      "category_id": "IMPO09",
+      "categoryName": "IMPORTADOS",
+      "store_id": "DSC-02",
+      "variations": [
+        {
+          "color": "Negro",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-e4cf98df-Negro-S/T"
+        }
+      ]
+    },
+    {
+      "id": "4e584bc3",
+      "model": "CHALINA",
+      "price": 14500,
+      "minor_surcharge": 1000,
+      "category_id": "IMPO09",
+      "categoryName": "IMPORTADOS",
+      "store_id": "DSC-02",
+      "variations": [
+        {
+          "color": "Negro",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-4e584bc3-Negro-S/T"
         }
       ]
     }
