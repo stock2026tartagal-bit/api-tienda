@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-13T07:34:25.200Z",
+  "generated_at": "2026-03-13T11:34:21.152Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -10795,6 +10795,40 @@
           "size": "XL",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-a18464da-Blanco-XL"
+        }
+      ]
+    },
+    {
+      "id": "f4cb2f13",
+      "model": "PAÑUELO 70X70",
+      "price": 5500,
+      "minor_surcharge": 1000,
+      "category_id": "IMPO09",
+      "categoryName": "IMPORTADOS",
+      "store_id": "DSC-02",
+      "variations": [
+        {
+          "color": "Negro",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-f4cb2f13-Negro-S/T"
+        }
+      ]
+    },
+    {
+      "id": "372a4b41",
+      "model": "PAÑUELO 90X90",
+      "price": 6500,
+      "minor_surcharge": 1000,
+      "category_id": "IMPO09",
+      "categoryName": "IMPORTADOS",
+      "store_id": "DSC-02",
+      "variations": [
+        {
+          "color": "Negro",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-372a4b41-Negro-S/T"
         }
       ]
     }
