@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-14T11:34:16.025Z",
+  "generated_at": "2026-03-14T15:34:18.258Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -10863,6 +10863,53 @@
           "size": "S/T",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-4e584bc3-Negro-S/T"
+        }
+      ]
+    },
+    {
+      "id": "691fb022",
+      "model": "ESCOLAR SIMIL CUERO",
+      "price": 4500,
+      "minor_surcharge": 2000,
+      "category_id": "CINT05",
+      "categoryName": "CINTURON DE NIÑO",
+      "store_id": "DSC-02",
+      "variations": [
+        {
+          "color": "Negro",
+          "size": "55",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-691fb022-Negro-55"
+        },
+        {
+          "color": "Negro",
+          "size": "60",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-691fb022-Negro-60"
+        },
+        {
+          "color": "Negro",
+          "size": "65",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-691fb022-Negro-65"
+        },
+        {
+          "color": "Negro",
+          "size": "70",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-691fb022-Negro-70"
+        },
+        {
+          "color": "Negro",
+          "size": "75",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-691fb022-Negro-75"
+        },
+        {
+          "color": "Negro",
+          "size": "80",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-691fb022-Negro-80"
         }
       ]
     }
