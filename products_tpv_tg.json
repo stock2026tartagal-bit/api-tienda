@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-16T11:34:17.681Z",
+  "generated_at": "2026-03-16T15:34:20.070Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -10910,6 +10910,74 @@
           "size": "80",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-691fb022-Negro-80"
+        }
+      ]
+    },
+    {
+      "id": "c92d3c05",
+      "model": "BILLE DE TELA CHICA LISA",
+      "price": 4000,
+      "minor_surcharge": 2000,
+      "category_id": "RIÑO07",
+      "categoryName": "RIÑONERA Y MORRAL",
+      "store_id": "DSC-02",
+      "variations": [
+        {
+          "color": "Negro",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-c92d3c05-Negro-S/T"
+        }
+      ]
+    },
+    {
+      "id": "644bf960",
+      "model": "BILLE DE TELA CHICA ESTAMPADA",
+      "price": 4500,
+      "minor_surcharge": 2000,
+      "category_id": "RIÑO07",
+      "categoryName": "RIÑONERA Y MORRAL",
+      "store_id": "DSC-02",
+      "variations": [
+        {
+          "color": "ESTAMPADO",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-644bf960-ESTAMPADO-S/T"
+        }
+      ]
+    },
+    {
+      "id": "1f1c8516",
+      "model": "BILLE DE TELA GRANDE LISA",
+      "price": 4500,
+      "minor_surcharge": 2000,
+      "category_id": "RIÑO07",
+      "categoryName": "RIÑONERA Y MORRAL",
+      "store_id": "DSC-02",
+      "variations": [
+        {
+          "color": "Negro",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-1f1c8516-Negro-S/T"
+        }
+      ]
+    },
+    {
+      "id": "012d53d9",
+      "model": "BILLE DE TELA GRANDE ESTAM",
+      "price": 5000,
+      "minor_surcharge": 2000,
+      "category_id": "RIÑO07",
+      "categoryName": "RIÑONERA Y MORRAL",
+      "store_id": "DSC-02",
+      "variations": [
+        {
+          "color": "ESTAMPADO",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-012d53d9-ESTAMPADO-S/T"
         }
       ]
     }
