@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-17T15:34:25.455Z",
+  "generated_at": "2026-03-17T19:34:20.067Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -5075,7 +5075,7 @@
       "id": "8b7aeb56",
       "model": "HPP",
       "price": 3500,
-      "minor_surcharge": 2500,
+      "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
       "store_id": "DSC-02",
@@ -7162,7 +7162,7 @@
       "id": "59155920",
       "model": "ESCOLAR",
       "price": 2600,
-      "minor_surcharge": 2100,
+      "minor_surcharge": 1900,
       "category_id": "CINT05",
       "categoryName": "CINTURON DE NIÑO",
       "store_id": "DSC-02",
