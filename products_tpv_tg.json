@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-26T11:34:18.450Z",
+  "generated_at": "2026-03-26T15:34:16.719Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -8387,22 +8387,10 @@
       "store_id": "DSC-02",
       "variations": [
         {
-          "color": "ANIMAL PRINT",
-          "size": "S/T",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-ee05493a-ANIMAL PRINT-S/T"
-        },
-        {
           "color": "Blanco",
           "size": "S/T",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-ee05493a-Blanco-S/T"
-        },
-        {
-          "color": "ESTAMPADO",
-          "size": "S/T",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-ee05493a-ESTAMPADO-S/T"
         },
         {
           "color": "Negro",
@@ -8417,10 +8405,10 @@
           "variation_id": "DSC-02-ee05493a-SUELA-S/T"
         },
         {
-          "color": "Rojo",
+          "color": "Marron",
           "size": "S/T",
           "store_id": "DSC-02",
-          "variation_id": "DSC-02-ee05493a-Rojo-S/T"
+          "variation_id": "DSC-02-ee05493a-Marron-S/T"
         }
       ]
     },
