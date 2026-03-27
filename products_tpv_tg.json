@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-27T11:34:16.885Z",
+  "generated_at": "2026-03-27T15:34:18.264Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -1115,23 +1115,6 @@
       ]
     },
     {
-      "id": "a651b603",
-      "model": "DESCARNE TACHAS",
-      "price": 9000,
-      "minor_surcharge": 2000,
-      "category_id": "CINT02",
-      "categoryName": "CINTURON DE HOMBRE",
-      "store_id": "DSC-02",
-      "variations": [
-        {
-          "color": "Blanco",
-          "size": "S/T",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-a651b603-Blanco-S/T"
-        }
-      ]
-    },
-    {
       "id": "a7f6f1a2",
       "model": "PAMPA ORO VIEJO",
       "price": 4800,
@@ -1240,65 +1223,6 @@
           "size": "S/T",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-ae0e02bf-Verde-S/T"
-        }
-      ]
-    },
-    {
-      "id": "b50a12d4",
-      "model": "SUELA OPACO",
-      "price": 7000,
-      "minor_surcharge": 2000,
-      "category_id": "CINT02",
-      "categoryName": "CINTURON DE HOMBRE",
-      "store_id": "DSC-02",
-      "variations": [
-        {
-          "color": "SUELA",
-          "size": "100",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-b50a12d4-SUELA-100"
-        },
-        {
-          "color": "SUELA",
-          "size": "105",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-b50a12d4-SUELA-105"
-        },
-        {
-          "color": "SUELA",
-          "size": "110",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-b50a12d4-SUELA-110"
-        },
-        {
-          "color": "SUELA",
-          "size": "115",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-b50a12d4-SUELA-115"
-        },
-        {
-          "color": "SUELA",
-          "size": "120",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-b50a12d4-SUELA-120"
-        },
-        {
-          "color": "SUELA",
-          "size": "85",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-b50a12d4-SUELA-85"
-        },
-        {
-          "color": "SUELA",
-          "size": "90",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-b50a12d4-SUELA-90"
-        },
-        {
-          "color": "SUELA",
-          "size": "95",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-b50a12d4-SUELA-95"
         }
       ]
     },
@@ -2605,65 +2529,6 @@
           "size": "160",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-CO00114-Marron-160"
-        }
-      ]
-    },
-    {
-      "id": "CO00129",
-      "model": "CUERO LISO/ PITON ANCHO",
-      "price": 7500,
-      "minor_surcharge": 2000,
-      "category_id": "CINT02",
-      "categoryName": "CINTURON DE HOMBRE",
-      "store_id": "DSC-02",
-      "variations": [
-        {
-          "color": "Negro",
-          "size": "100",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-CO00129-Negro-100"
-        },
-        {
-          "color": "Negro",
-          "size": "105",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-CO00129-Negro-105"
-        },
-        {
-          "color": "Negro",
-          "size": "110",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-CO00129-Negro-110"
-        },
-        {
-          "color": "Negro",
-          "size": "115",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-CO00129-Negro-115"
-        },
-        {
-          "color": "Negro",
-          "size": "120",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-CO00129-Negro-120"
-        },
-        {
-          "color": "Negro",
-          "size": "85",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-CO00129-Negro-85"
-        },
-        {
-          "color": "Negro",
-          "size": "90",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-CO00129-Negro-90"
-        },
-        {
-          "color": "Negro",
-          "size": "95",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-CO00129-Negro-95"
         }
       ]
     },
@@ -8276,16 +8141,22 @@
           "variation_id": "DSC-02-9d3de0e9-Negro-S/T"
         },
         {
-          "color": "Rojo",
-          "size": "S/T",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-9d3de0e9-Rojo-S/T"
-        },
-        {
           "color": "SUELA",
           "size": "S/T",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-9d3de0e9-SUELA-S/T"
+        },
+        {
+          "color": "Marron",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-9d3de0e9-Marron-S/T"
+        },
+        {
+          "color": "ANIMAL PRINT",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-9d3de0e9-ANIMAL PRINT-S/T"
         }
       ]
     },
@@ -8756,23 +8627,6 @@
           "size": "S/T",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-260f57b6-Negro-S/T"
-        }
-      ]
-    },
-    {
-      "id": "e27f5ab4",
-      "model": "CADENA DIJES",
-      "price": 6000,
-      "minor_surcharge": 2000,
-      "category_id": "IMPO09",
-      "categoryName": "IMPORTADOS",
-      "store_id": "DSC-02",
-      "variations": [
-        {
-          "color": "Gris claro",
-          "size": "S/T",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-e27f5ab4-Gris claro-S/T"
         }
       ]
     },
@@ -10050,6 +9904,12 @@
           "size": "S/T",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-1de0382d-SUELA-S/T"
+        },
+        {
+          "color": "Marron",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-1de0382d-Marron-S/T"
         }
       ]
     },
@@ -10219,6 +10079,18 @@
           "size": "S/T",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-d730b2de-Negro-S/T"
+        },
+        {
+          "color": "Rojo",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-d730b2de-Rojo-S/T"
+        },
+        {
+          "color": "SUELA",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-d730b2de-SUELA-S/T"
         }
       ]
     },
