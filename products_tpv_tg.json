@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-01T07:34:24.916Z",
+  "generated_at": "2026-04-01T11:34:20.936Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -6892,6 +6892,54 @@
           "size": "XL",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-cb8423d5-Arena-XL"
+        },
+        {
+          "color": "SUELA",
+          "size": "S",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-cb8423d5-SUELA-S"
+        },
+        {
+          "color": "SUELA",
+          "size": "M",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-cb8423d5-SUELA-M"
+        },
+        {
+          "color": "SUELA",
+          "size": "L",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-cb8423d5-SUELA-L"
+        },
+        {
+          "color": "SUELA",
+          "size": "XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-cb8423d5-SUELA-XL"
+        },
+        {
+          "color": "Marron",
+          "size": "S",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-cb8423d5-Marron-S"
+        },
+        {
+          "color": "Marron",
+          "size": "M",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-cb8423d5-Marron-M"
+        },
+        {
+          "color": "Marron",
+          "size": "L",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-cb8423d5-Marron-L"
+        },
+        {
+          "color": "Marron",
+          "size": "XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-cb8423d5-Marron-XL"
         }
       ]
     },
@@ -10838,6 +10886,65 @@
           "size": "S/T",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-012d53d9-ESTAMPADO-S/T"
+        }
+      ]
+    },
+    {
+      "id": "104327d4",
+      "model": "OVALADA",
+      "price": 4500,
+      "minor_surcharge": 2000,
+      "category_id": "CINT03",
+      "categoryName": "CINTURON DE MUJER",
+      "store_id": "DSC-02",
+      "variations": [
+        {
+          "color": "Negro",
+          "size": "S",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-104327d4-Negro-S"
+        },
+        {
+          "color": "Negro",
+          "size": "M",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-104327d4-Negro-M"
+        },
+        {
+          "color": "Negro",
+          "size": "L",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-104327d4-Negro-L"
+        },
+        {
+          "color": "Negro",
+          "size": "XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-104327d4-Negro-XL"
+        },
+        {
+          "color": "Marron",
+          "size": "S",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-104327d4-Marron-S"
+        },
+        {
+          "color": "Marron",
+          "size": "M",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-104327d4-Marron-M"
+        },
+        {
+          "color": "Marron",
+          "size": "L",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-104327d4-Marron-L"
+        },
+        {
+          "color": "Marron",
+          "size": "XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-104327d4-Marron-XL"
         }
       ]
     }
