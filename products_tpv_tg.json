@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-01T11:34:20.936Z",
+  "generated_at": "2026-04-01T12:58:01.777Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -5201,6 +5201,18 @@
           "size": "3XL",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-920520be-Negro-3XL"
+        },
+        {
+          "color": "Blanco",
+          "size": "2XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-920520be-Blanco-2XL"
+        },
+        {
+          "color": "Blanco",
+          "size": "3XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-920520be-Blanco-3XL"
         }
       ]
     },
@@ -6324,6 +6336,18 @@
           "size": "3XL",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-e627a11c-Negro-3XL"
+        },
+        {
+          "color": "Blanco",
+          "size": "2XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-e627a11c-Blanco-2XL"
+        },
+        {
+          "color": "Blanco",
+          "size": "3XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-e627a11c-Blanco-3XL"
         }
       ]
     },
@@ -10945,6 +10969,207 @@
           "size": "XL",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-104327d4-Marron-XL"
+        }
+      ]
+    },
+    {
+      "id": "2a263584",
+      "model": "MATE NIÑO",
+      "price": 4000,
+      "minor_surcharge": 2000,
+      "category_id": "CINT05",
+      "categoryName": "CINTURON DE NIÑO",
+      "store_id": "DSC-02",
+      "variations": [
+        {
+          "color": "Negro",
+          "size": "55",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-2a263584-Negro-55"
+        },
+        {
+          "color": "Negro",
+          "size": "60",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-2a263584-Negro-60"
+        },
+        {
+          "color": "Negro",
+          "size": "65",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-2a263584-Negro-65"
+        },
+        {
+          "color": "Negro",
+          "size": "70",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-2a263584-Negro-70"
+        },
+        {
+          "color": "Negro",
+          "size": "75",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-2a263584-Negro-75"
+        },
+        {
+          "color": "Negro",
+          "size": "80",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-2a263584-Negro-80"
+        },
+        {
+          "color": "Negro",
+          "size": "85",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-2a263584-Negro-85"
+        },
+        {
+          "color": "Negro",
+          "size": "90",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-2a263584-Negro-90"
+        },
+        {
+          "color": "Negro",
+          "size": "95",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-2a263584-Negro-95"
+        },
+        {
+          "color": "Negro",
+          "size": "100",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-2a263584-Negro-100"
+        },
+        {
+          "color": "Marron",
+          "size": "55",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-2a263584-Marron-55"
+        },
+        {
+          "color": "Marron",
+          "size": "60",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-2a263584-Marron-60"
+        },
+        {
+          "color": "Marron",
+          "size": "65",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-2a263584-Marron-65"
+        },
+        {
+          "color": "Marron",
+          "size": "70",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-2a263584-Marron-70"
+        },
+        {
+          "color": "Marron",
+          "size": "75",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-2a263584-Marron-75"
+        },
+        {
+          "color": "Marron",
+          "size": "80",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-2a263584-Marron-80"
+        },
+        {
+          "color": "Marron",
+          "size": "85",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-2a263584-Marron-85"
+        },
+        {
+          "color": "Marron",
+          "size": "90",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-2a263584-Marron-90"
+        },
+        {
+          "color": "Marron",
+          "size": "95",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-2a263584-Marron-95"
+        },
+        {
+          "color": "Marron",
+          "size": "100",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-2a263584-Marron-100"
+        }
+      ]
+    },
+    {
+      "id": "d3ed10da",
+      "model": "OVALADA EXTRA",
+      "price": 6500,
+      "minor_surcharge": 2000,
+      "category_id": "CINT03",
+      "categoryName": "CINTURON DE MUJER",
+      "store_id": "DSC-02",
+      "variations": [
+        {
+          "color": "Negro",
+          "size": "2XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-d3ed10da-Negro-2XL"
+        },
+        {
+          "color": "Negro",
+          "size": "3XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-d3ed10da-Negro-3XL"
+        },
+        {
+          "color": "Marron",
+          "size": "2XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-d3ed10da-Marron-2XL"
+        },
+        {
+          "color": "Marron",
+          "size": "3XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-d3ed10da-Marron-3XL"
+        }
+      ]
+    },
+    {
+      "id": "90606a87",
+      "model": "CHAPON 35 O.V EXTRA",
+      "price": 9000,
+      "minor_surcharge": 2000,
+      "category_id": "CINT03",
+      "categoryName": "CINTURON DE MUJER",
+      "store_id": "DSC-02",
+      "variations": [
+        {
+          "color": "Negro",
+          "size": "2XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-90606a87-Negro-2XL"
+        },
+        {
+          "color": "Negro",
+          "size": "3XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-90606a87-Negro-3XL"
+        },
+        {
+          "color": "Marron",
+          "size": "2XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-90606a87-Marron-2XL"
+        },
+        {
+          "color": "Marron",
+          "size": "3XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-90606a87-Marron-3XL"
         }
       ]
     }
