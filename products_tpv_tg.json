@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-04T11:34:19.736Z",
+  "generated_at": "2026-04-04T15:34:19.412Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -11170,6 +11170,23 @@
           "size": "3XL",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-90606a87-Marron-3XL"
+        }
+      ]
+    },
+    {
+      "id": "fb495317",
+      "model": "PAÑUELO 30X30",
+      "price": 3500,
+      "minor_surcharge": 1000,
+      "category_id": "IMPO09",
+      "categoryName": "IMPORTADOS",
+      "store_id": "DSC-02",
+      "variations": [
+        {
+          "color": "Negro",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-fb495317-Negro-S/T"
         }
       ]
     }
