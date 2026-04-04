@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-04T15:34:19.412Z",
+  "generated_at": "2026-04-04T19:34:19.460Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -8496,7 +8496,7 @@
     {
       "id": "ae45ab6e",
       "model": "MARIPOSA STRASS",
-      "price": 6500,
+      "price": 7000,
       "minor_surcharge": 2000,
       "category_id": "IMPO09",
       "categoryName": "IMPORTADOS",
@@ -10783,7 +10783,7 @@
     },
     {
       "id": "4e584bc3",
-      "model": "CHALINA",
+      "model": "CHALINA CUADRILLE",
       "price": 14500,
       "minor_surcharge": 1000,
       "category_id": "IMPO09",
@@ -11187,6 +11187,81 @@
           "size": "S/T",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-fb495317-Negro-S/T"
+        }
+      ]
+    },
+    {
+      "id": "96578fb0",
+      "model": "CHALINA RAYADA",
+      "price": 5000,
+      "minor_surcharge": 1000,
+      "category_id": "IMPO09",
+      "categoryName": "IMPORTADOS",
+      "store_id": "DSC-02",
+      "variations": [
+        {
+          "color": "Negro",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-96578fb0-Negro-S/T"
+        }
+      ]
+    },
+    {
+      "id": "f95f4ad5",
+      "model": "CHALINA LISA",
+      "price": 6000,
+      "minor_surcharge": 1000,
+      "category_id": "IMPO09",
+      "categoryName": "IMPORTADOS",
+      "store_id": "DSC-02",
+      "variations": [
+        {
+          "color": "Negro",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-f95f4ad5-Negro-S/T"
+        }
+      ]
+    },
+    {
+      "id": "eeb10781",
+      "model": "BUFANDON",
+      "price": 9500,
+      "minor_surcharge": 1000,
+      "category_id": "IMPO09",
+      "categoryName": "IMPORTADOS",
+      "store_id": "DSC-02",
+      "variations": [
+        {
+          "color": "Negro",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-eeb10781-Negro-S/T"
+        },
+        {
+          "color": "Verde",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-eeb10781-Verde-S/T"
+        },
+        {
+          "color": "Azul",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-eeb10781-Azul-S/T"
+        },
+        {
+          "color": "Gris",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-eeb10781-Gris-S/T"
+        },
+        {
+          "color": "Marron",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-eeb10781-Marron-S/T"
         }
       ]
     }
