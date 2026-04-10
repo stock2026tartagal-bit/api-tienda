@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-10T15:34:17.087Z",
+  "generated_at": "2026-04-10T19:34:16.899Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -988,113 +988,6 @@
           "size": "120",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-4fbdc260-Marron-120"
-        }
-      ]
-    },
-    {
-      "id": "818c4fc3",
-      "model": "CLÁSICO MATE",
-      "price": 7000,
-      "minor_surcharge": 2000,
-      "category_id": "CINT02",
-      "categoryName": "CINTURON DE HOMBRE",
-      "store_id": "DSC-02",
-      "variations": [
-        {
-          "color": "Negro",
-          "size": "100",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-818c4fc3-Negro-100"
-        },
-        {
-          "color": "Negro",
-          "size": "105",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-818c4fc3-Negro-105"
-        },
-        {
-          "color": "Negro",
-          "size": "110",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-818c4fc3-Negro-110"
-        },
-        {
-          "color": "Negro",
-          "size": "115",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-818c4fc3-Negro-115"
-        },
-        {
-          "color": "Negro",
-          "size": "120",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-818c4fc3-Negro-120"
-        },
-        {
-          "color": "Negro",
-          "size": "85",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-818c4fc3-Negro-85"
-        },
-        {
-          "color": "Negro",
-          "size": "90",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-818c4fc3-Negro-90"
-        },
-        {
-          "color": "Negro",
-          "size": "95",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-818c4fc3-Negro-95"
-        },
-        {
-          "color": "Marron",
-          "size": "85",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-818c4fc3-Marron-85"
-        },
-        {
-          "color": "Marron",
-          "size": "90",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-818c4fc3-Marron-90"
-        },
-        {
-          "color": "Marron",
-          "size": "95",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-818c4fc3-Marron-95"
-        },
-        {
-          "color": "Marron",
-          "size": "100",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-818c4fc3-Marron-100"
-        },
-        {
-          "color": "Marron",
-          "size": "105",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-818c4fc3-Marron-105"
-        },
-        {
-          "color": "Marron",
-          "size": "110",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-818c4fc3-Marron-110"
-        },
-        {
-          "color": "Marron",
-          "size": "115",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-818c4fc3-Marron-115"
-        },
-        {
-          "color": "Marron",
-          "size": "120",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-818c4fc3-Marron-120"
         }
       ]
     },
@@ -12477,6 +12370,123 @@
           "size": "19",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-0d9a1663-SUELA-19"
+        }
+      ]
+    },
+    {
+      "id": "923b6e81",
+      "model": "COSTURADO",
+      "price": 4500,
+      "minor_surcharge": 2000,
+      "category_id": "CINT02",
+      "categoryName": "CINTURON DE HOMBRE",
+      "store_id": "DSC-02",
+      "variations": []
+    },
+    {
+      "id": "bff5ccb9",
+      "model": "CLÁSICO MATE",
+      "price": 7000,
+      "minor_surcharge": 2000,
+      "category_id": "CINT02",
+      "categoryName": "CINTURON DE HOMBRE",
+      "store_id": "DSC-02",
+      "variations": [
+        {
+          "color": "Negro",
+          "size": "85",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-bff5ccb9-Negro-85"
+        },
+        {
+          "color": "Negro",
+          "size": "90",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-bff5ccb9-Negro-90"
+        },
+        {
+          "color": "Negro",
+          "size": "95",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-bff5ccb9-Negro-95"
+        },
+        {
+          "color": "Negro",
+          "size": "100",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-bff5ccb9-Negro-100"
+        },
+        {
+          "color": "Negro",
+          "size": "105",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-bff5ccb9-Negro-105"
+        },
+        {
+          "color": "Negro",
+          "size": "110",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-bff5ccb9-Negro-110"
+        },
+        {
+          "color": "Negro",
+          "size": "115",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-bff5ccb9-Negro-115"
+        },
+        {
+          "color": "Negro",
+          "size": "120",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-bff5ccb9-Negro-120"
+        },
+        {
+          "color": "Marron",
+          "size": "85",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-bff5ccb9-Marron-85"
+        },
+        {
+          "color": "Marron",
+          "size": "90",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-bff5ccb9-Marron-90"
+        },
+        {
+          "color": "Marron",
+          "size": "95",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-bff5ccb9-Marron-95"
+        },
+        {
+          "color": "Marron",
+          "size": "100",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-bff5ccb9-Marron-100"
+        },
+        {
+          "color": "Marron",
+          "size": "105",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-bff5ccb9-Marron-105"
+        },
+        {
+          "color": "Marron",
+          "size": "110",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-bff5ccb9-Marron-110"
+        },
+        {
+          "color": "Marron",
+          "size": "115",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-bff5ccb9-Marron-115"
+        },
+        {
+          "color": "Marron",
+          "size": "120",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-bff5ccb9-Marron-120"
         }
       ]
     }
