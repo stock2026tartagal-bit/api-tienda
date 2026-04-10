@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-10T11:34:17.453Z",
+  "generated_at": "2026-04-10T13:36:37.001Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -12417,7 +12417,68 @@
       "category_id": "FAJA04",
       "categoryName": "FAJA DE MUJER",
       "store_id": "DSC-02",
-      "variations": []
+      "variations": [
+        {
+          "color": "Negro",
+          "size": "17",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-0d9a1663-Negro-17"
+        },
+        {
+          "color": "Negro",
+          "size": "19",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-0d9a1663-Negro-19"
+        },
+        {
+          "color": "Blanco",
+          "size": "17",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-0d9a1663-Blanco-17"
+        },
+        {
+          "color": "Blanco",
+          "size": "19",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-0d9a1663-Blanco-19"
+        },
+        {
+          "color": "Marron",
+          "size": "17",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-0d9a1663-Marron-17"
+        },
+        {
+          "color": "Marron",
+          "size": "19",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-0d9a1663-Marron-19"
+        },
+        {
+          "color": "Beige",
+          "size": "17",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-0d9a1663-Beige-17"
+        },
+        {
+          "color": "Beige",
+          "size": "19",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-0d9a1663-Beige-19"
+        },
+        {
+          "color": "SUELA",
+          "size": "17",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-0d9a1663-SUELA-17"
+        },
+        {
+          "color": "SUELA",
+          "size": "19",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-0d9a1663-SUELA-19"
+        }
+      ]
     }
   ]
 }
