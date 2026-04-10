@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-10T07:34:21.866Z",
+  "generated_at": "2026-04-10T11:34:17.453Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -761,65 +761,6 @@
       ]
     },
     {
-      "id": "2ea036a4",
-      "model": "BORDADO",
-      "price": 13000,
-      "minor_surcharge": 2000,
-      "category_id": "CINT02",
-      "categoryName": "CINTURON DE HOMBRE",
-      "store_id": "DSC-02",
-      "variations": [
-        {
-          "color": "Negro",
-          "size": "100",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-2ea036a4-Negro-100"
-        },
-        {
-          "color": "Negro",
-          "size": "105",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-2ea036a4-Negro-105"
-        },
-        {
-          "color": "Negro",
-          "size": "110",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-2ea036a4-Negro-110"
-        },
-        {
-          "color": "Negro",
-          "size": "115",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-2ea036a4-Negro-115"
-        },
-        {
-          "color": "Negro",
-          "size": "120",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-2ea036a4-Negro-120"
-        },
-        {
-          "color": "Negro",
-          "size": "85",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-2ea036a4-Negro-85"
-        },
-        {
-          "color": "Negro",
-          "size": "90",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-2ea036a4-Negro-90"
-        },
-        {
-          "color": "Negro",
-          "size": "95",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-2ea036a4-Negro-95"
-        }
-      ]
-    },
-    {
       "id": "316736fd",
       "model": "GAMUZA EXTRA",
       "price": 11000,
@@ -999,6 +940,54 @@
           "size": "95",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-4fbdc260-Negro-95"
+        },
+        {
+          "color": "Marron",
+          "size": "85",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-4fbdc260-Marron-85"
+        },
+        {
+          "color": "Marron",
+          "size": "90",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-4fbdc260-Marron-90"
+        },
+        {
+          "color": "Marron",
+          "size": "95",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-4fbdc260-Marron-95"
+        },
+        {
+          "color": "Marron",
+          "size": "100",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-4fbdc260-Marron-100"
+        },
+        {
+          "color": "Marron",
+          "size": "105",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-4fbdc260-Marron-105"
+        },
+        {
+          "color": "Marron",
+          "size": "110",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-4fbdc260-Marron-110"
+        },
+        {
+          "color": "Marron",
+          "size": "115",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-4fbdc260-Marron-115"
+        },
+        {
+          "color": "Marron",
+          "size": "120",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-4fbdc260-Marron-120"
         }
       ]
     },
@@ -1058,6 +1047,54 @@
           "size": "95",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-818c4fc3-Negro-95"
+        },
+        {
+          "color": "Marron",
+          "size": "85",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-818c4fc3-Marron-85"
+        },
+        {
+          "color": "Marron",
+          "size": "90",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-818c4fc3-Marron-90"
+        },
+        {
+          "color": "Marron",
+          "size": "95",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-818c4fc3-Marron-95"
+        },
+        {
+          "color": "Marron",
+          "size": "100",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-818c4fc3-Marron-100"
+        },
+        {
+          "color": "Marron",
+          "size": "105",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-818c4fc3-Marron-105"
+        },
+        {
+          "color": "Marron",
+          "size": "110",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-818c4fc3-Marron-110"
+        },
+        {
+          "color": "Marron",
+          "size": "115",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-818c4fc3-Marron-115"
+        },
+        {
+          "color": "Marron",
+          "size": "120",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-818c4fc3-Marron-120"
         }
       ]
     },
@@ -3278,65 +3315,6 @@
           "size": "S/T",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-prueba5-Negro-S/T"
-        }
-      ]
-    },
-    {
-      "id": "22ffac00",
-      "model": "CLASICO MATE M",
-      "price": 7000,
-      "minor_surcharge": 2000,
-      "category_id": "CINT02",
-      "categoryName": "CINTURON DE HOMBRE",
-      "store_id": "DSC-02",
-      "variations": [
-        {
-          "color": "Marron",
-          "size": "85",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-22ffac00-Marron-85"
-        },
-        {
-          "color": "Marron",
-          "size": "90",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-22ffac00-Marron-90"
-        },
-        {
-          "color": "Marron",
-          "size": "95",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-22ffac00-Marron-95"
-        },
-        {
-          "color": "Marron",
-          "size": "100",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-22ffac00-Marron-100"
-        },
-        {
-          "color": "Marron",
-          "size": "105",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-22ffac00-Marron-105"
-        },
-        {
-          "color": "Marron",
-          "size": "110",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-22ffac00-Marron-110"
-        },
-        {
-          "color": "Marron",
-          "size": "115",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-22ffac00-Marron-115"
-        },
-        {
-          "color": "Marron",
-          "size": "120",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-22ffac00-Marron-120"
         }
       ]
     },
@@ -7116,6 +7094,30 @@
           "size": "80",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-59155920-Negro-80"
+        },
+        {
+          "color": "Negro",
+          "size": "85",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-59155920-Negro-85"
+        },
+        {
+          "color": "Negro",
+          "size": "90",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-59155920-Negro-90"
+        },
+        {
+          "color": "Blanco",
+          "size": "85",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-59155920-Blanco-85"
+        },
+        {
+          "color": "Blanco",
+          "size": "90",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-59155920-Blanco-90"
         }
       ]
     },
@@ -7199,6 +7201,30 @@
           "size": "80",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-59155920-Negro-80"
+        },
+        {
+          "color": "Negro",
+          "size": "85",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-59155920-Negro-85"
+        },
+        {
+          "color": "Negro",
+          "size": "90",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-59155920-Negro-90"
+        },
+        {
+          "color": "Blanco",
+          "size": "85",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-59155920-Blanco-85"
+        },
+        {
+          "color": "Blanco",
+          "size": "90",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-59155920-Blanco-90"
         }
       ]
     },
@@ -8175,7 +8201,7 @@
     },
     {
       "id": "ca6f10b6",
-      "model": "FAJA CIRCULAR",
+      "model": "FAJA CIRCULAR NIQUEL",
       "price": 7500,
       "minor_surcharge": 2000,
       "category_id": "FAJA04",
@@ -12382,6 +12408,16 @@
           "variation_id": "DSC-02-3d60bee2-Beige-XL"
         }
       ]
+    },
+    {
+      "id": "0d9a1663",
+      "model": "FAJA CIRCULAR O.V",
+      "price": 7500,
+      "minor_surcharge": 2000,
+      "category_id": "FAJA04",
+      "categoryName": "FAJA DE MUJER",
+      "store_id": "DSC-02",
+      "variations": []
     }
   ]
 }
