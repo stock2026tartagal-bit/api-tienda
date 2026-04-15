@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-15T15:34:17.663Z",
+  "generated_at": "2026-04-15T15:41:49.991Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -12672,6 +12672,41 @@
           "size": "XL",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-b8fff7e6-Beige-XL"
+        }
+      ]
+    },
+    {
+      "id": "2742b698",
+      "model": "GOLPEADA O.V",
+      "price": 4000,
+      "minor_surcharge": 2000,
+      "category_id": "CINT03",
+      "categoryName": "CINTURON DE MUJER",
+      "store_id": "DSC-02",
+      "variations": [
+        {
+          "color": "Marron",
+          "size": "S",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-2742b698-Marron-S"
+        },
+        {
+          "color": "Marron",
+          "size": "M",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-2742b698-Marron-M"
+        },
+        {
+          "color": "Marron",
+          "size": "L",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-2742b698-Marron-L"
+        },
+        {
+          "color": "Marron",
+          "size": "XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-2742b698-Marron-XL"
         }
       ]
     }
