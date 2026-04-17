@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-17T15:34:18.314Z",
+  "generated_at": "2026-04-17T16:02:35.270Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -12707,6 +12707,65 @@
           "size": "XL",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-2742b698-Marron-XL"
+        }
+      ]
+    },
+    {
+      "id": "83fbfbac",
+      "model": "CHALINA POMPON",
+      "price": 10500,
+      "minor_surcharge": 1000,
+      "category_id": "IMPO09",
+      "categoryName": "IMPORTADOS",
+      "store_id": "DSC-02",
+      "variations": [
+        {
+          "color": "Negro",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-83fbfbac-Negro-S/T"
+        },
+        {
+          "color": "Blanco",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-83fbfbac-Blanco-S/T"
+        },
+        {
+          "color": "Marron",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-83fbfbac-Marron-S/T"
+        },
+        {
+          "color": "Celeste",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-83fbfbac-Celeste-S/T"
+        },
+        {
+          "color": "Beige",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-83fbfbac-Beige-S/T"
+        },
+        {
+          "color": "Esmeralda",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-83fbfbac-Esmeralda-S/T"
+        },
+        {
+          "color": "Turquesa Claro",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-83fbfbac-Turquesa Claro-S/T"
+        },
+        {
+          "color": "Gris claro",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-83fbfbac-Gris claro-S/T"
         }
       ]
     }
