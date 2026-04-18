@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-18T11:34:16.187Z",
+  "generated_at": "2026-04-18T14:03:57.577Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -4482,6 +4482,18 @@
           "size": "3XL",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-5cf74bd0-Negro-3XL"
+        },
+        {
+          "color": "Marron",
+          "size": "2XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-5cf74bd0-Marron-2XL"
+        },
+        {
+          "color": "Marron",
+          "size": "3XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-5cf74bd0-Marron-3XL"
         }
       ]
     },
@@ -4762,6 +4774,36 @@
           "size": "XL",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-6f803bb5-SUELA-XL"
+        },
+        {
+          "color": "Beige",
+          "size": "S",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-6f803bb5-Beige-S"
+        },
+        {
+          "color": "Marron",
+          "size": "S",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-6f803bb5-Marron-S"
+        },
+        {
+          "color": "Marron",
+          "size": "M",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-6f803bb5-Marron-M"
+        },
+        {
+          "color": "Marron",
+          "size": "L",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-6f803bb5-Marron-L"
+        },
+        {
+          "color": "Marron",
+          "size": "XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-6f803bb5-Marron-XL"
         }
       ]
     },
@@ -7854,6 +7896,24 @@
           "size": "75/80",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-fb87af34-Beige-75/80"
+        },
+        {
+          "color": "Marron",
+          "size": "55/60",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-fb87af34-Marron-55/60"
+        },
+        {
+          "color": "Marron",
+          "size": "65/70",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-fb87af34-Marron-65/70"
+        },
+        {
+          "color": "Marron",
+          "size": "75/80",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-fb87af34-Marron-75/80"
         }
       ]
     },
