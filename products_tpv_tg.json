@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-25T07:34:19.473Z",
+  "generated_at": "2026-04-25T11:10:58.461Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -13243,6 +13243,16 @@
           "variation_id": "DSC-02-3a6ff211-Arena-XL"
         }
       ]
+    },
+    {
+      "id": "402564de",
+      "model": "OJALON 30 GAMUZA",
+      "price": 5500,
+      "minor_surcharge": 2000,
+      "category_id": "CINT03",
+      "categoryName": "CINTURON DE MUJER",
+      "store_id": "DSC-02",
+      "variations": []
     }
   ]
 }
