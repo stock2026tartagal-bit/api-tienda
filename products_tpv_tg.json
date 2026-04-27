@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-27T14:34:51.377Z",
+  "generated_at": "2026-04-27T14:42:12.060Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -13359,7 +13359,56 @@
       "category_id": "MOCH08",
       "categoryName": "MOCHILAS",
       "store_id": "DSC-02",
-      "variations": []
+      "variations": [
+        {
+          "color": "Negro",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-1172a666-Negro-S/T"
+        },
+        {
+          "color": "Blanco",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-1172a666-Blanco-S/T"
+        },
+        {
+          "color": "Gris",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-1172a666-Gris-S/T"
+        },
+        {
+          "color": "Gris claro",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-1172a666-Gris claro-S/T"
+        },
+        {
+          "color": "Marron",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-1172a666-Marron-S/T"
+        },
+        {
+          "color": "Beige",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-1172a666-Beige-S/T"
+        },
+        {
+          "color": "Celeste",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-1172a666-Celeste-S/T"
+        },
+        {
+          "color": "Rosa",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-1172a666-Rosa-S/T"
+        }
+      ]
     }
   ]
 }
