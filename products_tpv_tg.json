@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-29T12:51:11.828Z",
+  "generated_at": "2026-04-29T13:05:15.864Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -13246,7 +13246,7 @@
     },
     {
       "id": "402564de",
-      "model": "OJALON 30 GAMUZA",
+      "model": "OJALON 30 GAMUZA O.V",
       "price": 5500,
       "minor_surcharge": 2000,
       "category_id": "CINT03",
@@ -13418,7 +13418,163 @@
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
       "store_id": "DSC-02",
-      "variations": []
+      "variations": [
+        {
+          "color": "Negro",
+          "size": "2XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-1185e8a2-Negro-2XL"
+        },
+        {
+          "color": "Negro",
+          "size": "3XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-1185e8a2-Negro-3XL"
+        },
+        {
+          "color": "Blanco",
+          "size": "2XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-1185e8a2-Blanco-2XL"
+        },
+        {
+          "color": "Blanco",
+          "size": "3XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-1185e8a2-Blanco-3XL"
+        },
+        {
+          "color": "Marron",
+          "size": "2XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-1185e8a2-Marron-2XL"
+        },
+        {
+          "color": "Marron",
+          "size": "3XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-1185e8a2-Marron-3XL"
+        },
+        {
+          "color": "Beige",
+          "size": "2XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-1185e8a2-Beige-2XL"
+        },
+        {
+          "color": "Beige",
+          "size": "3XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-1185e8a2-Beige-3XL"
+        }
+      ]
+    },
+    {
+      "id": "d5f88d6b",
+      "model": "OJALON 30 GAMUZA NIQUEL",
+      "price": 5500,
+      "minor_surcharge": 2000,
+      "category_id": "CINT03",
+      "categoryName": "CINTURON DE MUJER",
+      "store_id": "DSC-02",
+      "variations": [
+        {
+          "color": "Negro",
+          "size": "S",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-d5f88d6b-Negro-S"
+        },
+        {
+          "color": "Negro",
+          "size": "M",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-d5f88d6b-Negro-M"
+        },
+        {
+          "color": "Negro",
+          "size": "L",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-d5f88d6b-Negro-L"
+        },
+        {
+          "color": "Negro",
+          "size": "XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-d5f88d6b-Negro-XL"
+        },
+        {
+          "color": "Blanco",
+          "size": "S",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-d5f88d6b-Blanco-S"
+        },
+        {
+          "color": "Blanco",
+          "size": "M",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-d5f88d6b-Blanco-M"
+        },
+        {
+          "color": "Blanco",
+          "size": "L",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-d5f88d6b-Blanco-L"
+        },
+        {
+          "color": "Blanco",
+          "size": "XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-d5f88d6b-Blanco-XL"
+        },
+        {
+          "color": "Marron",
+          "size": "S",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-d5f88d6b-Marron-S"
+        },
+        {
+          "color": "Marron",
+          "size": "M",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-d5f88d6b-Marron-M"
+        },
+        {
+          "color": "Marron",
+          "size": "L",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-d5f88d6b-Marron-L"
+        },
+        {
+          "color": "Marron",
+          "size": "XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-d5f88d6b-Marron-XL"
+        },
+        {
+          "color": "Beige",
+          "size": "S",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-d5f88d6b-Beige-S"
+        },
+        {
+          "color": "Beige",
+          "size": "M",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-d5f88d6b-Beige-M"
+        },
+        {
+          "color": "Beige",
+          "size": "L",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-d5f88d6b-Beige-L"
+        },
+        {
+          "color": "Beige",
+          "size": "XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-d5f88d6b-Beige-XL"
+        }
+      ]
     }
   ]
 }
