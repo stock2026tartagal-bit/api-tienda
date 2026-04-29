@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-29T11:34:16.721Z",
+  "generated_at": "2026-04-29T12:51:11.828Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -13409,6 +13409,16 @@
           "variation_id": "DSC-02-1172a666-Rosa-S/T"
         }
       ]
+    },
+    {
+      "id": "1185e8a2",
+      "model": "GAMUZA MUJER EXTRA",
+      "price": 8500,
+      "minor_surcharge": 2000,
+      "category_id": "CINT03",
+      "categoryName": "CINTURON DE MUJER",
+      "store_id": "DSC-02",
+      "variations": []
     }
   ]
 }
