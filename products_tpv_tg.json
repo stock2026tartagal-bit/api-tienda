@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-30T15:34:17.417Z",
+  "generated_at": "2026-04-30T15:55:55.535Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -7971,7 +7971,7 @@
     },
     {
       "id": "21564f47",
-      "model": "FAJA CIRCULAR EXTRA",
+      "model": "FAJA CIRCULAR EXTRA NIQUEL",
       "price": 9500,
       "minor_surcharge": 2000,
       "category_id": "FAJA04",
@@ -13573,6 +13573,41 @@
           "size": "XL",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-d5f88d6b-Beige-XL"
+        }
+      ]
+    },
+    {
+      "id": "a27b736e",
+      "model": "FAJA CIRCULAR O.V EXTRA",
+      "price": 9500,
+      "minor_surcharge": 2000,
+      "category_id": "FAJA04",
+      "categoryName": "FAJA DE MUJER",
+      "store_id": "DSC-02",
+      "variations": [
+        {
+          "color": "Negro",
+          "size": "21",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-a27b736e-Negro-21"
+        },
+        {
+          "color": "Negro",
+          "size": "23",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-a27b736e-Negro-23"
+        },
+        {
+          "color": "Marron",
+          "size": "21",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-a27b736e-Marron-21"
+        },
+        {
+          "color": "Marron",
+          "size": "23",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-a27b736e-Marron-23"
         }
       ]
     }
