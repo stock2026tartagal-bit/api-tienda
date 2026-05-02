@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-02T11:34:16.734Z",
+  "generated_at": "2026-05-02T14:43:11.113Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -13610,6 +13610,16 @@
           "variation_id": "DSC-02-a27b736e-Marron-23"
         }
       ]
+    },
+    {
+      "id": "c6326b28",
+      "model": "OVALADA NIQUEL",
+      "price": 3500,
+      "minor_surcharge": 1500,
+      "category_id": "CINT03",
+      "categoryName": "CINTURON DE MUJER",
+      "store_id": "DSC-02",
+      "variations": []
     }
   ]
 }
