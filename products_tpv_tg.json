@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-02T14:43:11.113Z",
+  "generated_at": "2026-05-02T14:43:59.056Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -13619,7 +13619,32 @@
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
       "store_id": "DSC-02",
-      "variations": []
+      "variations": [
+        {
+          "color": "Negro",
+          "size": "S",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-c6326b28-Negro-S"
+        },
+        {
+          "color": "Negro",
+          "size": "M",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-c6326b28-Negro-M"
+        },
+        {
+          "color": "Negro",
+          "size": "L",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-c6326b28-Negro-L"
+        },
+        {
+          "color": "Negro",
+          "size": "XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-c6326b28-Negro-XL"
+        }
+      ]
     }
   ]
 }
