@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-08T11:21:06.095Z",
+  "generated_at": "2026-05-08T11:34:17.606Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -5912,6 +5912,30 @@
           "size": "XL",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-cb02232a-Beige-XL"
+        },
+        {
+          "color": "Arena",
+          "size": "S",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-cb02232a-Arena-S"
+        },
+        {
+          "color": "Arena",
+          "size": "M",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-cb02232a-Arena-M"
+        },
+        {
+          "color": "Arena",
+          "size": "L",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-cb02232a-Arena-L"
+        },
+        {
+          "color": "Arena",
+          "size": "XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-cb02232a-Arena-XL"
         }
       ]
     },
@@ -11367,6 +11391,30 @@
           "size": "XL",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-f3674427-Beige-XL"
+        },
+        {
+          "color": "Arena",
+          "size": "S",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-f3674427-Arena-S"
+        },
+        {
+          "color": "Arena",
+          "size": "M",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-f3674427-Arena-M"
+        },
+        {
+          "color": "Arena",
+          "size": "L",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-f3674427-Arena-L"
+        },
+        {
+          "color": "Arena",
+          "size": "XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-f3674427-Arena-XL"
         }
       ]
     },
