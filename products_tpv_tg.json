@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-11T11:43:05.845Z",
+  "generated_at": "2026-05-11T12:06:29.030Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -13774,6 +13774,41 @@
           "size": "XL",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-7d085000-Arena-XL"
+        }
+      ]
+    },
+    {
+      "id": "3f065f99",
+      "model": "FAJA CIRCULAR GAMUZA",
+      "price": 8500,
+      "minor_surcharge": 2000,
+      "category_id": "FAJA04",
+      "categoryName": "FAJA DE MUJER",
+      "store_id": "DSC-02",
+      "variations": [
+        {
+          "color": "Negro",
+          "size": "17",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-3f065f99-Negro-17"
+        },
+        {
+          "color": "Negro",
+          "size": "19",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-3f065f99-Negro-19"
+        },
+        {
+          "color": "Marron",
+          "size": "17",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-3f065f99-Marron-17"
+        },
+        {
+          "color": "Marron",
+          "size": "19",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-3f065f99-Marron-19"
         }
       ]
     }
