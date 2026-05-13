@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-13T15:34:21.861Z",
+  "generated_at": "2026-05-13T19:34:16.642Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -10788,7 +10788,7 @@
     },
     {
       "id": "e4cf98df",
-      "model": "CHALINA ANIMAL",
+      "model": "BUFANDA  ANIMAL",
       "price": 13500,
       "minor_surcharge": 1000,
       "category_id": "IMPO09",
@@ -13929,6 +13929,16 @@
           "variation_id": "DSC-02-c70a3ef0-Beige-XL"
         }
       ]
+    },
+    {
+      "id": "9f50c6a7",
+      "model": "BUFANDON ANIMAL PRINT",
+      "price": 11500,
+      "minor_surcharge": 1000,
+      "category_id": "IMPO09",
+      "categoryName": "IMPORTADOS",
+      "store_id": "DSC-02",
+      "variations": []
     }
   ]
 }
