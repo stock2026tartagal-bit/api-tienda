@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-16T11:34:17.917Z",
+  "generated_at": "2026-05-16T15:34:17.827Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -13937,6 +13937,16 @@
       "minor_surcharge": 1000,
       "category_id": "IMPO09",
       "categoryName": "IMPORTADOS",
+      "store_id": "DSC-02",
+      "variations": []
+    },
+    {
+      "id": "62753114",
+      "model": "TRENZADA GAMUZA EXTRA",
+      "price": 7000,
+      "minor_surcharge": 2000,
+      "category_id": "CINT03",
+      "categoryName": "CINTURON DE MUJER",
       "store_id": "DSC-02",
       "variations": []
     }
