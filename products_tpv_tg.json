@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-18T15:34:21.036Z",
+  "generated_at": "2026-05-18T19:34:16.230Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -13947,6 +13947,16 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "store_id": "DSC-02",
+      "variations": []
+    },
+    {
+      "id": "6a9dc922",
+      "model": "GORROS",
+      "price": 7000,
+      "minor_surcharge": 1000,
+      "category_id": "IMPO09",
+      "categoryName": "IMPORTADOS",
       "store_id": "DSC-02",
       "variations": []
     }
