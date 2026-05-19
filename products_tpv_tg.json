@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-19T15:34:17.428Z",
+  "generated_at": "2026-05-19T19:34:23.547Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -3273,7 +3273,7 @@
     {
       "id": "0dd8286a",
       "model": "COSTURA EN EL MEDIO M.",
-      "price": 7500,
+      "price": 8500,
       "minor_surcharge": 2000,
       "category_id": "CINT02",
       "categoryName": "CINTURON DE HOMBRE",
@@ -12572,7 +12572,7 @@
     {
       "id": "bff5ccb9",
       "model": "CLÁSICO MATE",
-      "price": 7000,
+      "price": 7500,
       "minor_surcharge": 2000,
       "category_id": "CINT02",
       "categoryName": "CINTURON DE HOMBRE",
