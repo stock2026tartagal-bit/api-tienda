@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-19T11:34:17.426Z",
+  "generated_at": "2026-05-19T15:34:17.428Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -13957,6 +13957,16 @@
       "minor_surcharge": 1000,
       "category_id": "IMPO09",
       "categoryName": "IMPORTADOS",
+      "store_id": "DSC-02",
+      "variations": []
+    },
+    {
+      "id": "cc247d73",
+      "model": "FAJA CIRCULAR GAMUZA EXTRA",
+      "price": 10500,
+      "minor_surcharge": 2000,
+      "category_id": "FAJA04",
+      "categoryName": "FAJA DE MUJER",
       "store_id": "DSC-02",
       "variations": []
     }
