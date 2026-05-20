@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-20T15:34:17.103Z",
+  "generated_at": "2026-05-20T19:34:17.345Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -13924,7 +13924,32 @@
       "category_id": "IMPO09",
       "categoryName": "IMPORTADOS",
       "store_id": "DSC-02",
-      "variations": []
+      "variations": [
+        {
+          "color": "Negro",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-6a9dc922-Negro-S/T"
+        },
+        {
+          "color": "Blanco",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-6a9dc922-Blanco-S/T"
+        },
+        {
+          "color": "Rojo",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-6a9dc922-Rojo-S/T"
+        },
+        {
+          "color": "Verde",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-6a9dc922-Verde-S/T"
+        }
+      ]
     },
     {
       "id": "cc247d73",
