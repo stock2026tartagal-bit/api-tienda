@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-20T11:34:22.002Z",
+  "generated_at": "2026-05-20T11:40:07.274Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -13889,7 +13889,32 @@
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
       "store_id": "DSC-02",
-      "variations": []
+      "variations": [
+        {
+          "color": "Beige",
+          "size": "2XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-62753114-Beige-2XL"
+        },
+        {
+          "color": "Beige",
+          "size": "3XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-62753114-Beige-3XL"
+        },
+        {
+          "color": "Negro",
+          "size": "2XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-62753114-Negro-2XL"
+        },
+        {
+          "color": "Negro",
+          "size": "3XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-62753114-Negro-3XL"
+        }
+      ]
     },
     {
       "id": "6a9dc922",
@@ -13909,7 +13934,32 @@
       "category_id": "FAJA04",
       "categoryName": "FAJA DE MUJER",
       "store_id": "DSC-02",
-      "variations": []
+      "variations": [
+        {
+          "color": "Negro",
+          "size": "21",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-cc247d73-Negro-21"
+        },
+        {
+          "color": "Negro",
+          "size": "23",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-cc247d73-Negro-23"
+        },
+        {
+          "color": "Beige",
+          "size": "21",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-cc247d73-Beige-21"
+        },
+        {
+          "color": "Beige",
+          "size": "23",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-cc247d73-Beige-23"
+        }
+      ]
     },
     {
       "id": "3e40cc94",
@@ -13919,7 +13969,104 @@
       "category_id": "CINT02",
       "categoryName": "CINTURON DE HOMBRE",
       "store_id": "DSC-02",
-      "variations": []
+      "variations": [
+        {
+          "color": "Negro",
+          "size": "85",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-3e40cc94-Negro-85"
+        },
+        {
+          "color": "Negro",
+          "size": "90",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-3e40cc94-Negro-90"
+        },
+        {
+          "color": "Negro",
+          "size": "95",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-3e40cc94-Negro-95"
+        },
+        {
+          "color": "Negro",
+          "size": "100",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-3e40cc94-Negro-100"
+        },
+        {
+          "color": "Negro",
+          "size": "105",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-3e40cc94-Negro-105"
+        },
+        {
+          "color": "Negro",
+          "size": "110",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-3e40cc94-Negro-110"
+        },
+        {
+          "color": "Negro",
+          "size": "115",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-3e40cc94-Negro-115"
+        },
+        {
+          "color": "Negro",
+          "size": "120",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-3e40cc94-Negro-120"
+        },
+        {
+          "color": "Gris",
+          "size": "85",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-3e40cc94-Gris-85"
+        },
+        {
+          "color": "Gris",
+          "size": "90",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-3e40cc94-Gris-90"
+        },
+        {
+          "color": "Gris",
+          "size": "95",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-3e40cc94-Gris-95"
+        },
+        {
+          "color": "Gris",
+          "size": "100",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-3e40cc94-Gris-100"
+        },
+        {
+          "color": "Gris",
+          "size": "105",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-3e40cc94-Gris-105"
+        },
+        {
+          "color": "Gris",
+          "size": "110",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-3e40cc94-Gris-110"
+        },
+        {
+          "color": "Gris",
+          "size": "115",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-3e40cc94-Gris-115"
+        },
+        {
+          "color": "Gris",
+          "size": "120",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-3e40cc94-Gris-120"
+        }
+      ]
     }
   ]
 }
