@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-20T07:34:22.196Z",
+  "generated_at": "2026-05-20T11:27:39.839Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -887,7 +887,7 @@
     {
       "id": "4fbdc260",
       "model": "COSTURA EN EL MEDIO",
-      "price": 7500,
+      "price": 8000,
       "minor_surcharge": 2000,
       "category_id": "CINT02",
       "categoryName": "CINTURON DE HOMBRE",
@@ -3267,65 +3267,6 @@
           "size": "115/120",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-4f56c69f-Blanco-115/120"
-        }
-      ]
-    },
-    {
-      "id": "0dd8286a",
-      "model": "COSTURA EN EL MEDIO M.",
-      "price": 8500,
-      "minor_surcharge": 2000,
-      "category_id": "CINT02",
-      "categoryName": "CINTURON DE HOMBRE",
-      "store_id": "DSC-02",
-      "variations": [
-        {
-          "color": "Marron",
-          "size": "85",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-0dd8286a-Marron-85"
-        },
-        {
-          "color": "Marron",
-          "size": "90",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-0dd8286a-Marron-90"
-        },
-        {
-          "color": "Marron",
-          "size": "95",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-0dd8286a-Marron-95"
-        },
-        {
-          "color": "Marron",
-          "size": "100",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-0dd8286a-Marron-100"
-        },
-        {
-          "color": "Marron",
-          "size": "105",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-0dd8286a-Marron-105"
-        },
-        {
-          "color": "Marron",
-          "size": "110",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-0dd8286a-Marron-110"
-        },
-        {
-          "color": "Marron",
-          "size": "115",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-0dd8286a-Marron-115"
-        },
-        {
-          "color": "Marron",
-          "size": "120",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-0dd8286a-Marron-120"
         }
       ]
     },
@@ -13967,6 +13908,16 @@
       "minor_surcharge": 2000,
       "category_id": "FAJA04",
       "categoryName": "FAJA DE MUJER",
+      "store_id": "DSC-02",
+      "variations": []
+    },
+    {
+      "id": "3e40cc94",
+      "model": "CUERO GRABADO",
+      "price": 8500,
+      "minor_surcharge": 2000,
+      "category_id": "CINT02",
+      "categoryName": "CINTURON DE HOMBRE",
       "store_id": "DSC-02",
       "variations": []
     }
