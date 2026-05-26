@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-26T19:34:16.727Z",
+  "generated_at": "2026-05-26T21:38:54.935Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -178,6 +178,14 @@
     },
     "DORADO": {
       "hex": "FFD700",
+      "textEdge": "Solo Negro"
+    },
+    "VARIADO": {
+      "hex": "000000",
+      "textEdge": "Solo Negro"
+    },
+    "COMBINADA": {
+      "hex": "000000",
       "textEdge": "Solo Negro"
     }
   },
@@ -10697,7 +10705,7 @@
       "id": "f4cb2f13",
       "model": "PAÑUELO 70X70",
       "price": 5500,
-      "minor_surcharge": 1000,
+      "minor_surcharge": 2000,
       "category_id": "IMPO09",
       "categoryName": "IMPORTADOS",
       "store_id": "DSC-02",
@@ -10707,6 +10715,12 @@
           "size": "S/T",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-f4cb2f13-Negro-S/T"
+        },
+        {
+          "color": "VARIADO",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-f4cb2f13-VARIADO-S/T"
         }
       ]
     },
@@ -10714,7 +10728,7 @@
       "id": "372a4b41",
       "model": "PAÑUELO 90X90",
       "price": 6500,
-      "minor_surcharge": 1000,
+      "minor_surcharge": 2000,
       "category_id": "IMPO09",
       "categoryName": "IMPORTADOS",
       "store_id": "DSC-02",
@@ -10724,14 +10738,20 @@
           "size": "S/T",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-372a4b41-Negro-S/T"
+        },
+        {
+          "color": "VARIADO",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-372a4b41-VARIADO-S/T"
         }
       ]
     },
     {
       "id": "e4cf98df",
-      "model": "BUFANDA  ANIMAL",
+      "model": "BUFANDA  PRINT",
       "price": 13500,
-      "minor_surcharge": 1000,
+      "minor_surcharge": 2000,
       "category_id": "IMPO09",
       "categoryName": "IMPORTADOS",
       "store_id": "DSC-02",
@@ -10741,14 +10761,20 @@
           "size": "S/T",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-e4cf98df-Negro-S/T"
+        },
+        {
+          "color": "ANIMAL PRINT",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-e4cf98df-ANIMAL PRINT-S/T"
         }
       ]
     },
     {
       "id": "4e584bc3",
-      "model": "CHALINA CUADRILLE",
+      "model": "BUFANDA ESCOSESA",
       "price": 14500,
-      "minor_surcharge": 1000,
+      "minor_surcharge": 2000,
       "category_id": "IMPO09",
       "categoryName": "IMPORTADOS",
       "store_id": "DSC-02",
@@ -10758,6 +10784,12 @@
           "size": "S/T",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-4e584bc3-Negro-S/T"
+        },
+        {
+          "color": "COMBINADA",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-4e584bc3-COMBINADA-S/T"
         }
       ]
     },
@@ -11140,7 +11172,7 @@
       "id": "fb495317",
       "model": "PAÑUELO 30X30",
       "price": 3500,
-      "minor_surcharge": 1000,
+      "minor_surcharge": 2000,
       "category_id": "IMPO09",
       "categoryName": "IMPORTADOS",
       "store_id": "DSC-02",
@@ -11150,14 +11182,20 @@
           "size": "S/T",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-fb495317-Negro-S/T"
+        },
+        {
+          "color": "VARIADO",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-fb495317-VARIADO-S/T"
         }
       ]
     },
     {
       "id": "96578fb0",
-      "model": "CHALINA RAYADA",
+      "model": "BUFANDA RAYADA",
       "price": 5000,
-      "minor_surcharge": 1000,
+      "minor_surcharge": 2000,
       "category_id": "IMPO09",
       "categoryName": "IMPORTADOS",
       "store_id": "DSC-02",
@@ -11167,14 +11205,20 @@
           "size": "S/T",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-96578fb0-Negro-S/T"
+        },
+        {
+          "color": "VARIADO",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-96578fb0-VARIADO-S/T"
         }
       ]
     },
     {
       "id": "f95f4ad5",
-      "model": "CHALINA LISA",
+      "model": "BUFANDA FINA",
       "price": 6000,
-      "minor_surcharge": 1000,
+      "minor_surcharge": 2000,
       "category_id": "IMPO09",
       "categoryName": "IMPORTADOS",
       "store_id": "DSC-02",
@@ -11184,14 +11228,20 @@
           "size": "S/T",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-f95f4ad5-Negro-S/T"
+        },
+        {
+          "color": "VARIADO",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-f95f4ad5-VARIADO-S/T"
         }
       ]
     },
     {
       "id": "eeb10781",
-      "model": "BUFANDON",
+      "model": "BUFANDA NUBE",
       "price": 9500,
-      "minor_surcharge": 1000,
+      "minor_surcharge": 2000,
       "category_id": "IMPO09",
       "categoryName": "IMPORTADOS",
       "store_id": "DSC-02",
@@ -11225,6 +11275,12 @@
           "size": "S/T",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-eeb10781-Marron-S/T"
+        },
+        {
+          "color": "VARIADO",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-eeb10781-VARIADO-S/T"
         }
       ]
     },
@@ -12761,9 +12817,9 @@
     },
     {
       "id": "83fbfbac",
-      "model": "CHALINA POMPON",
+      "model": "BUFANDA POMPON",
       "price": 10500,
-      "minor_surcharge": 1000,
+      "minor_surcharge": 2000,
       "category_id": "IMPO09",
       "categoryName": "IMPORTADOS",
       "store_id": "DSC-02",
@@ -12815,6 +12871,12 @@
           "size": "S/T",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-83fbfbac-Gris claro-S/T"
+        },
+        {
+          "color": "VARIADO",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-83fbfbac-VARIADO-S/T"
         }
       ]
     },
@@ -13885,13 +13947,20 @@
     },
     {
       "id": "9f50c6a7",
-      "model": "BUFANDON ANIMAL PRINT",
+      "model": "BUFANDA PRINT",
       "price": 11500,
-      "minor_surcharge": 1000,
+      "minor_surcharge": 2000,
       "category_id": "IMPO09",
       "categoryName": "IMPORTADOS",
       "store_id": "DSC-02",
-      "variations": []
+      "variations": [
+        {
+          "color": "ANIMAL PRINT",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-9f50c6a7-ANIMAL PRINT-S/T"
+        }
+      ]
     },
     {
       "id": "62753114",
@@ -13930,9 +13999,9 @@
     },
     {
       "id": "6a9dc922",
-      "model": "GORROS",
+      "model": "GORRO",
       "price": 7000,
-      "minor_surcharge": 1000,
+      "minor_surcharge": 2000,
       "category_id": "IMPO09",
       "categoryName": "IMPORTADOS",
       "store_id": "DSC-02",
@@ -13960,6 +14029,12 @@
           "size": "S/T",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-6a9dc922-Verde-S/T"
+        },
+        {
+          "color": "VARIADO",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-6a9dc922-VARIADO-S/T"
         }
       ]
     },
@@ -14102,6 +14177,40 @@
           "size": "120",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-3e40cc94-Gris-120"
+        }
+      ]
+    },
+    {
+      "id": "e6062080",
+      "model": "BUFANDA TEJIDA",
+      "price": 8500,
+      "minor_surcharge": 2000,
+      "category_id": "IMPO09",
+      "categoryName": "IMPORTADOS",
+      "store_id": "DSC-02",
+      "variations": [
+        {
+          "color": "COMBINADA",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-e6062080-COMBINADA-S/T"
+        }
+      ]
+    },
+    {
+      "id": "8e591a0c",
+      "model": "BUFANDA NUBE",
+      "price": 9500,
+      "minor_surcharge": 2000,
+      "category_id": "IMPO09",
+      "categoryName": "IMPORTADOS",
+      "store_id": "DSC-02",
+      "variations": [
+        {
+          "color": "COMBINADA",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-8e591a0c-COMBINADA-S/T"
         }
       ]
     }
