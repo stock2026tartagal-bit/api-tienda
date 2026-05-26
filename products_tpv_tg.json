@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-26T18:18:48.461Z",
+  "generated_at": "2026-05-26T19:34:16.727Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -13750,6 +13750,18 @@
           "size": "19",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-3f065f99-Marron-19"
+        },
+        {
+          "color": "Beige",
+          "size": "17",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-3f065f99-Beige-17"
+        },
+        {
+          "color": "Beige",
+          "size": "19",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-3f065f99-Beige-19"
         }
       ]
     },
