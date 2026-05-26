@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-26T21:38:54.935Z",
+  "generated_at": "2026-05-26T21:55:45.310Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -13947,7 +13947,7 @@
     },
     {
       "id": "9f50c6a7",
-      "model": "BUFANDA PRINT",
+      "model": "BUFANDA ANIMAL",
       "price": 11500,
       "minor_surcharge": 2000,
       "category_id": "IMPO09",
