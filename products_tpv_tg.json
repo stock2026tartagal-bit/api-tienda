@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-26T21:55:45.310Z",
+  "generated_at": "2026-05-26T22:23:25.793Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -185,6 +185,10 @@
       "textEdge": "Solo Negro"
     },
     "COMBINADA": {
+      "hex": "000000",
+      "textEdge": "Solo Negro"
+    },
+    "LISO": {
       "hex": "000000",
       "textEdge": "Solo Negro"
     }
@@ -11211,6 +11215,12 @@
           "size": "S/T",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-96578fb0-VARIADO-S/T"
+        },
+        {
+          "color": "COMBINADA",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-96578fb0-COMBINADA-S/T"
         }
       ]
     },
@@ -11234,6 +11244,12 @@
           "size": "S/T",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-f95f4ad5-VARIADO-S/T"
+        },
+        {
+          "color": "LISO",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-f95f4ad5-LISO-S/T"
         }
       ]
     },
@@ -11281,6 +11297,12 @@
           "size": "S/T",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-eeb10781-VARIADO-S/T"
+        },
+        {
+          "color": "LISO",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-eeb10781-LISO-S/T"
         }
       ]
     },
@@ -12877,6 +12899,12 @@
           "size": "S/T",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-83fbfbac-VARIADO-S/T"
+        },
+        {
+          "color": "LISO",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-83fbfbac-LISO-S/T"
         }
       ]
     },
