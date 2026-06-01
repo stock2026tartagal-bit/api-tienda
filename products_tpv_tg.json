@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-01T19:34:23.675Z",
+  "generated_at": "2026-06-01T23:34:18.643Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -1905,7 +1905,7 @@
     {
       "id": "CO00097",
       "model": "DESCARNE 35 CUERO",
-      "price": 7500,
+      "price": 8000,
       "minor_surcharge": 2000,
       "category_id": "CINT02",
       "categoryName": "CINTURON DE HOMBRE",
