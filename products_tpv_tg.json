@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T15:19:45.974Z",
+  "generated_at": "2026-06-02T15:34:21.936Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -14250,7 +14250,56 @@
       "category_id": "CINT02",
       "categoryName": "CINTURON DE HOMBRE",
       "store_id": "DSC-02",
-      "variations": []
+      "variations": [
+        {
+          "color": "Negro",
+          "size": "85",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-601d93b0-Negro-85"
+        },
+        {
+          "color": "Negro",
+          "size": "90",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-601d93b0-Negro-90"
+        },
+        {
+          "color": "Negro",
+          "size": "95",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-601d93b0-Negro-95"
+        },
+        {
+          "color": "Negro",
+          "size": "100",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-601d93b0-Negro-100"
+        },
+        {
+          "color": "Negro",
+          "size": "105",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-601d93b0-Negro-105"
+        },
+        {
+          "color": "Negro",
+          "size": "110",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-601d93b0-Negro-110"
+        },
+        {
+          "color": "Negro",
+          "size": "115",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-601d93b0-Negro-115"
+        },
+        {
+          "color": "Negro",
+          "size": "120",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-601d93b0-Negro-120"
+        }
+      ]
     }
   ]
 }
