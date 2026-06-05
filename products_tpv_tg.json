@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T12:05:05.973Z",
+  "generated_at": "2026-06-05T12:29:37.428Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -14304,6 +14304,16 @@
     {
       "id": "33b70a26",
       "model": "BUEY O.V GAMUZA",
+      "price": 7500,
+      "minor_surcharge": 2000,
+      "category_id": "CINT03",
+      "categoryName": "CINTURON DE MUJER",
+      "store_id": "DSC-02",
+      "variations": []
+    },
+    {
+      "id": "e1825b9a",
+      "model": "BUEY GAMUZA O.V",
       "price": 7500,
       "minor_surcharge": 2000,
       "category_id": "CINT03",
