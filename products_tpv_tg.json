@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20T12:28:58.426Z",
+  "generated_at": "2026-06-20T13:21:37.374Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -14365,7 +14365,7 @@
     {
       "id": "c1841bdc",
       "model": "LABRADA DE 35",
-      "price": 4500,
+      "price": 6500,
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
