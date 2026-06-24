@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T15:34:17.351Z",
+  "generated_at": "2026-06-24T18:32:38.993Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -4938,7 +4938,7 @@
     {
       "id": "8c094b07",
       "model": "ROLO OJAL EXTRA",
-      "price": 7500,
+      "price": 8000,
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
