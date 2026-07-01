@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T11:34:17.505Z",
+  "generated_at": "2026-07-01T13:33:20.495Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -14583,6 +14583,52 @@
           "size": "XL",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-4edb760d-Beige-XL"
+        }
+      ]
+    },
+    {
+      "id": "97310151",
+      "model": "CHAPON GAMUZADO LISO",
+      "price": 8000,
+      "minor_surcharge": 2000,
+      "category_id": "CINT03",
+      "categoryName": "CINTURON DE MUJER",
+      "store_id": "DSC-02",
+      "variations": [
+        {
+          "color": "Negro",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-97310151-Negro-S/T"
+        },
+        {
+          "color": "Marron",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-97310151-Marron-S/T"
+        }
+      ]
+    },
+    {
+      "id": "3b46b7ea",
+      "model": "CHAPON GAMUZADO TACHA",
+      "price": 8500,
+      "minor_surcharge": 2000,
+      "category_id": "CINT03",
+      "categoryName": "CINTURON DE MUJER",
+      "store_id": "DSC-02",
+      "variations": [
+        {
+          "color": "Negro",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-3b46b7ea-Negro-S/T"
+        },
+        {
+          "color": "Marron",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-3b46b7ea-Marron-S/T"
         }
       ]
     }
