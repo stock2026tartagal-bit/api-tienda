@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T11:34:17.574Z",
+  "generated_at": "2026-07-06T15:34:19.624Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -7543,6 +7543,30 @@
           "size": "85/90",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-d41bb006-SUELA-85/90"
+        },
+        {
+          "color": "Gris",
+          "size": "55/60",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-d41bb006-Gris-55/60"
+        },
+        {
+          "color": "Gris",
+          "size": "65/70",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-d41bb006-Gris-65/70"
+        },
+        {
+          "color": "Gris",
+          "size": "75/80",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-d41bb006-Gris-75/80"
+        },
+        {
+          "color": "Gris",
+          "size": "85/90",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-d41bb006-Gris-85/90"
         }
       ]
     },
@@ -14629,6 +14653,41 @@
           "size": "S/T",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-3b46b7ea-Marron-S/T"
+        }
+      ]
+    },
+    {
+      "id": "02da5b97",
+      "model": "COSTURADO P.V",
+      "price": 4500,
+      "minor_surcharge": 2000,
+      "category_id": "CINT02",
+      "categoryName": "CINTURON DE HOMBRE",
+      "store_id": "DSC-02",
+      "variations": [
+        {
+          "color": "Negro",
+          "size": "85/90",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-02da5b97-Negro-85/90"
+        },
+        {
+          "color": "Negro",
+          "size": "95/100",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-02da5b97-Negro-95/100"
+        },
+        {
+          "color": "Negro",
+          "size": "105/110",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-02da5b97-Negro-105/110"
+        },
+        {
+          "color": "Negro",
+          "size": "115/120",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-02da5b97-Negro-115/120"
         }
       ]
     }
