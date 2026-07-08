@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T10:55:27.683Z",
+  "generated_at": "2026-07-08T11:34:21.763Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -12603,16 +12603,6 @@
           "variation_id": "DSC-02-0d9a1663-SUELA-19"
         }
       ]
-    },
-    {
-      "id": "923b6e81",
-      "model": "COSTURADO",
-      "price": 4500,
-      "minor_surcharge": 2000,
-      "category_id": "CINT02",
-      "categoryName": "CINTURON DE HOMBRE",
-      "store_id": "DSC-02",
-      "variations": []
     },
     {
       "id": "bff5ccb9",
