@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T11:34:17.665Z",
+  "generated_at": "2026-07-10T15:16:26.124Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -10024,7 +10024,7 @@
     {
       "id": "dc53eeeb",
       "model": "FAJA CIRCULO CHAPON IMPORTADA O.V",
-      "price": 14000,
+      "price": 12000,
       "minor_surcharge": 2000,
       "category_id": "FAJA04",
       "categoryName": "FAJA DE MUJER",
@@ -10071,7 +10071,7 @@
     {
       "id": "caaefec8",
       "model": "FAJA CIRCULO CHAPON IMPORTADA NIQ",
-      "price": 14000,
+      "price": 12000,
       "minor_surcharge": 2000,
       "category_id": "FAJA04",
       "categoryName": "FAJA DE MUJER",
@@ -10118,7 +10118,7 @@
     {
       "id": "4980d9b0",
       "model": "FAJA CIRCULO ESPEJO",
-      "price": 14000,
+      "price": 12000,
       "minor_surcharge": 2000,
       "category_id": "FAJA04",
       "categoryName": "FAJA DE MUJER",
