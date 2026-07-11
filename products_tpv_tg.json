@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T11:34:25.509Z",
+  "generated_at": "2026-07-11T12:50:40.244Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -14680,6 +14680,16 @@
           "variation_id": "DSC-02-02da5b97-Negro-115/120"
         }
       ]
+    },
+    {
+      "id": "e652ea97",
+      "model": "CUERO GRABADO EXTRA LARGO",
+      "price": 10500,
+      "minor_surcharge": 2000,
+      "category_id": "CINT02",
+      "categoryName": "CINTURON DE HOMBRE",
+      "store_id": "DSC-02",
+      "variations": []
     }
   ]
 }
