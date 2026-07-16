@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T11:34:18.169Z",
+  "generated_at": "2026-07-16T15:34:17.481Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -2966,7 +2966,7 @@
     {
       "id": "CO00249",
       "model": "REVERSIBLE 30",
-      "price": 12000,
+      "price": 13000,
       "minor_surcharge": 2000,
       "category_id": "CINT02",
       "categoryName": "CINTURON DE HOMBRE",
