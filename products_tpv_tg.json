@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T15:34:22.752Z",
+  "generated_at": "2026-07-17T17:21:21.796Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -223,6 +223,198 @@
       "textEdge": "Solo Negro"
     },
     "PIÑA GRANDE": {
+      "hex": "000000",
+      "textEdge": "Solo Negro"
+    },
+    "ABEJITA": {
+      "hex": "000000",
+      "textEdge": "Solo Negro"
+    },
+    "HOMERO ROJO": {
+      "hex": "000000",
+      "textEdge": "Solo Negro"
+    },
+    "CORAZONES BORDO": {
+      "hex": "000000",
+      "textEdge": "Solo Negro"
+    },
+    "BATIK ROSA": {
+      "hex": "000000",
+      "textEdge": "Solo Negro"
+    },
+    "BATIK VIOLETA": {
+      "hex": "000000",
+      "textEdge": "Solo Negro"
+    },
+    "KRUSTY ROJO": {
+      "hex": "000000",
+      "textEdge": "Solo Negro"
+    },
+    "FUCSIA": {
+      "hex": "000000",
+      "textEdge": "Solo Negro"
+    },
+    "VERDE MANZANA": {
+      "hex": "000000",
+      "textEdge": "Solo Negro"
+    },
+    "AQUA": {
+      "hex": "000000",
+      "textEdge": "Solo Negro"
+    },
+    "LILA": {
+      "hex": "000000",
+      "textEdge": "Solo Negro"
+    },
+    "NARANJA FLUOR": {
+      "hex": "000000",
+      "textEdge": "Solo Negro"
+    },
+    "VERDE FLUOR": {
+      "hex": "000000",
+      "textEdge": "Solo Negro"
+    },
+    "MARRON MELANGE": {
+      "hex": "000000",
+      "textEdge": "Solo Negro"
+    },
+    "AZUL MELANGE": {
+      "hex": "000000",
+      "textEdge": "Solo Negro"
+    },
+    "GRIS MELANGE": {
+      "hex": "000000",
+      "textEdge": "Solo Negro"
+    },
+    "NEGRO MELANGE": {
+      "hex": "000000",
+      "textEdge": "Solo Negro"
+    },
+    "BORDO MELANGE": {
+      "hex": "000000",
+      "textEdge": "Solo Negro"
+    },
+    "AZUL FRANCIA MELANGE": {
+      "hex": "000000",
+      "textEdge": "Solo Negro"
+    },
+    "ROJO MELANGE": {
+      "hex": "000000",
+      "textEdge": "Solo Negro"
+    },
+    "VERDE MILITAR MELANGE": {
+      "hex": "000000",
+      "textEdge": "Solo Negro"
+    },
+    "BOSQUE": {
+      "hex": "000000",
+      "textEdge": "Solo Negro"
+    },
+    "FLOR AZUL": {
+      "hex": "000000",
+      "textEdge": "Solo Negro"
+    },
+    "ROSA BEBE": {
+      "hex": "000000",
+      "textEdge": "Solo Negro"
+    },
+    "FUCSIA MELANGE": {
+      "hex": "000000",
+      "textEdge": "Solo Negro"
+    },
+    "FLOR VIOLETA": {
+      "hex": "000000",
+      "textEdge": "Solo Negro"
+    },
+    "BART AMARILLO": {
+      "hex": "000000",
+      "textEdge": "Solo Negro"
+    },
+    "DUFF": {
+      "hex": "000000",
+      "textEdge": "Solo Negro"
+    },
+    "FLAMENCO": {
+      "hex": "000000",
+      "textEdge": "Solo Negro"
+    },
+    "LISA SIMPSON": {
+      "hex": "000000",
+      "textEdge": "Solo Negro"
+    },
+    "DONA": {
+      "hex": "000000",
+      "textEdge": "Solo Negro"
+    },
+    "NEGRO IRONMAN": {
+      "hex": "000000",
+      "textEdge": "Solo Negro"
+    },
+    "MOSTAZA": {
+      "hex": "000000",
+      "textEdge": "Solo Negro"
+    },
+    "VERDE MENTA": {
+      "hex": "000000",
+      "textEdge": "Solo Negro"
+    },
+    "CAMEL": {
+      "hex": "000000",
+      "textEdge": "Solo Negro"
+    },
+    "VIOLETA MELANGE": {
+      "hex": "000000",
+      "textEdge": "Solo Negro"
+    },
+    "LILA MELANGE": {
+      "hex": "000000",
+      "textEdge": "Solo Negro"
+    },
+    "ROSA BLANCA": {
+      "hex": "000000",
+      "textEdge": "Solo Negro"
+    },
+    "DONA VERDE": {
+      "hex": "000000",
+      "textEdge": "Solo Negro"
+    },
+    "PALTA": {
+      "hex": "000000",
+      "textEdge": "Solo Negro"
+    },
+    "JAGUAR": {
+      "hex": "000000",
+      "textEdge": "Solo Negro"
+    },
+    "DONA ROSA": {
+      "hex": "000000",
+      "textEdge": "Solo Negro"
+    },
+    "DONA HOMERO": {
+      "hex": "000000",
+      "textEdge": "Solo Negro"
+    },
+    "PALMERA ROSA": {
+      "hex": "000000",
+      "textEdge": "Solo Negro"
+    },
+    "MARGARITA": {
+      "hex": "000000",
+      "textEdge": "Solo Negro"
+    },
+    "COCO": {
+      "hex": "000000",
+      "textEdge": "Solo Negro"
+    },
+    "SELVA": {
+      "hex": "000000",
+      "textEdge": "Solo Negro"
+    },
+    "GALAXIA": {
+      "hex": "000000",
+      "textEdge": "Solo Negro"
+    },
+    "CALAVERA": {
       "hex": "000000",
       "textEdge": "Solo Negro"
     }
