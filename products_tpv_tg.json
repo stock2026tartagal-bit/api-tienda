@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T17:21:21.796Z",
+  "generated_at": "2026-07-17T17:36:09.988Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -170,16 +170,8 @@
       "hex": "4A6F22",
       "textEdge": "Solo Negro"
     },
-    "ESTAMPADO": {
-      "hex": "FF69B4-87CEEB",
-      "textEdge": "Solo Negro"
-    },
     "DORADO": {
       "hex": "FFD700",
-      "textEdge": "Solo Negro"
-    },
-    "VARIADO": {
-      "hex": "000000",
       "textEdge": "Solo Negro"
     },
     "COMBINADA": {
@@ -415,6 +407,10 @@
       "textEdge": "Solo Negro"
     },
     "CALAVERA": {
+      "hex": "000000",
+      "textEdge": "Solo Negro"
+    },
+    "FLOR NEGRA": {
       "hex": "000000",
       "textEdge": "Solo Negro"
     }
@@ -14978,6 +14974,63 @@
           "variation_id": "DSC-02-ddc2f146-Marron-XL"
         }
       ]
+    },
+    {
+      "id": "1e1f33a7",
+      "model": "CARTUCHERA LISA",
+      "price": 5000,
+      "minor_surcharge": 2000,
+      "category_id": "CART12",
+      "categoryName": "CARTUCHERAS",
+      "store_id": "DSC-02",
+      "variations": [
+        {
+          "color": "Naranja",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-1e1f33a7-Naranja-S/T"
+        },
+        {
+          "color": "Celeste",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-1e1f33a7-Celeste-S/T"
+        },
+        {
+          "color": "FUCSIA",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-1e1f33a7-FUCSIA-S/T"
+        },
+        {
+          "color": "VERDE MANZANA",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-1e1f33a7-VERDE MANZANA-S/T"
+        },
+        {
+          "color": "AQUA",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-1e1f33a7-AQUA-S/T"
+        },
+        {
+          "color": "FUCSIA MELANGE",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-1e1f33a7-FUCSIA MELANGE-S/T"
+        }
+      ]
+    },
+    {
+      "id": "6755c6f4",
+      "model": "CARTUCHERA ESTAMPADA",
+      "price": 6000,
+      "minor_surcharge": 2000,
+      "category_id": "CART12",
+      "categoryName": "CARTUCHERAS",
+      "store_id": "DSC-02",
+      "variations": []
     }
   ]
 }
