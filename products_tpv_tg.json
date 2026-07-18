@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T07:34:18.525Z",
+  "generated_at": "2026-07-18T11:03:59.455Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -9,7 +9,7 @@
       "policies": "Los cambios solo se aceptan si se presenta el comprobante de compra, dentro de los 7 días hábiles posteriores a la compra.",
       "logoUrl": "https://www.appsheet.com/template/gettablefileurl?appName=TGSYSTEMV1-111910787&tableName=STORE&fileName=STORE_Images%2FDSC-02.LOGO.173441.jpg",
       "qrCodeUrl": "https://quickchart.io/qr?ecLevel=L&text=https%3A%2F%2Fwa.me%2F5491157122629",
-      "localIp": "192.168.0.14",
+      "localIp": "192.168.0.18",
       "ticketType": "Formato Tabla"
     }
   },
