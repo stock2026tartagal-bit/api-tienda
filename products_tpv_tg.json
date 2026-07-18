@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T11:34:18.322Z",
+  "generated_at": "2026-07-18T12:36:09.427Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -11310,6 +11310,42 @@
           "size": "80",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-691fb022-Negro-80"
+        },
+        {
+          "color": "Marron",
+          "size": "55",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-691fb022-Marron-55"
+        },
+        {
+          "color": "Marron",
+          "size": "60",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-691fb022-Marron-60"
+        },
+        {
+          "color": "Marron",
+          "size": "65",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-691fb022-Marron-65"
+        },
+        {
+          "color": "Marron",
+          "size": "70",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-691fb022-Marron-70"
+        },
+        {
+          "color": "Marron",
+          "size": "75",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-691fb022-Marron-75"
+        },
+        {
+          "color": "Marron",
+          "size": "80",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-691fb022-Marron-80"
         }
       ]
     },
