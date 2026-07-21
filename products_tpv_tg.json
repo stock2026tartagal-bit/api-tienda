@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T19:34:17.123Z",
+  "generated_at": "2026-07-21T23:34:19.784Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -9659,12 +9659,6 @@
       "store_id": "DSC-02",
       "variations": [
         {
-          "color": "",
-          "size": "S/T",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-0d80d23b--S/T"
-        },
-        {
           "color": "Amarillo",
           "size": "S/T",
           "store_id": "DSC-02",
@@ -9689,22 +9683,10 @@
           "variation_id": "DSC-02-0d80d23b-Azul-S/T"
         },
         {
-          "color": "Beige",
-          "size": "S/T",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-0d80d23b-Beige-S/T"
-        },
-        {
           "color": "Celeste",
           "size": "S/T",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-0d80d23b-Celeste-S/T"
-        },
-        {
-          "color": "ESTAMPADO",
-          "size": "S/T",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-0d80d23b-ESTAMPADO-S/T"
         },
         {
           "color": "Gris",
@@ -9723,12 +9705,6 @@
           "size": "S/T",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-0d80d23b-Rojo-S/T"
-        },
-        {
-          "color": "Rosa fuerte",
-          "size": "S/T",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-0d80d23b-Rosa fuerte-S/T"
         },
         {
           "color": "Rosa",
@@ -9813,6 +9789,54 @@
           "size": "S/T",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-0d80d23b-LILA MELANGE-S/T"
+        },
+        {
+          "color": "VERDE MANZANA",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-0d80d23b-VERDE MANZANA-S/T"
+        },
+        {
+          "color": "NEGRO MELANGE",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-0d80d23b-NEGRO MELANGE-S/T"
+        },
+        {
+          "color": "BORDO MELANGE",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-0d80d23b-BORDO MELANGE-S/T"
+        },
+        {
+          "color": "AZUL FRANCIA MELANGE",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-0d80d23b-AZUL FRANCIA MELANGE-S/T"
+        },
+        {
+          "color": "VERDE MILITAR MELANGE",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-0d80d23b-VERDE MILITAR MELANGE-S/T"
+        },
+        {
+          "color": "ROJO MELANGE",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-0d80d23b-ROJO MELANGE-S/T"
+        },
+        {
+          "color": "ROSA BEBE",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-0d80d23b-ROSA BEBE-S/T"
+        },
+        {
+          "color": "NEGRO IRONMAN",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-0d80d23b-NEGRO IRONMAN-S/T"
         }
       ]
     },
@@ -9902,6 +9926,132 @@
           "size": "S/T",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-27b03343-Violeta-S/T"
+        },
+        {
+          "color": "Turquesa",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-27b03343-Turquesa-S/T"
+        },
+        {
+          "color": "Bordo",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-27b03343-Bordo-S/T"
+        },
+        {
+          "color": "FUCSIA",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-27b03343-FUCSIA-S/T"
+        },
+        {
+          "color": "VERDE MANZANA",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-27b03343-VERDE MANZANA-S/T"
+        },
+        {
+          "color": "AQUA",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-27b03343-AQUA-S/T"
+        },
+        {
+          "color": "LILA",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-27b03343-LILA-S/T"
+        },
+        {
+          "color": "MARRON MELANGE",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-27b03343-MARRON MELANGE-S/T"
+        },
+        {
+          "color": "AZUL MELANGE",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-27b03343-AZUL MELANGE-S/T"
+        },
+        {
+          "color": "GRIS MELANGE",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-27b03343-GRIS MELANGE-S/T"
+        },
+        {
+          "color": "NEGRO MELANGE",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-27b03343-NEGRO MELANGE-S/T"
+        },
+        {
+          "color": "BORDO MELANGE",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-27b03343-BORDO MELANGE-S/T"
+        },
+        {
+          "color": "AZUL FRANCIA MELANGE",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-27b03343-AZUL FRANCIA MELANGE-S/T"
+        },
+        {
+          "color": "ROJO MELANGE",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-27b03343-ROJO MELANGE-S/T"
+        },
+        {
+          "color": "VERDE MILITAR MELANGE",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-27b03343-VERDE MILITAR MELANGE-S/T"
+        },
+        {
+          "color": "ROSA BEBE",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-27b03343-ROSA BEBE-S/T"
+        },
+        {
+          "color": "FUCSIA MELANGE",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-27b03343-FUCSIA MELANGE-S/T"
+        },
+        {
+          "color": "VERDE MENTA",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-27b03343-VERDE MENTA-S/T"
+        },
+        {
+          "color": "CAMEL",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-27b03343-CAMEL-S/T"
+        },
+        {
+          "color": "VIOLETA MELANGE",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-27b03343-VIOLETA MELANGE-S/T"
+        },
+        {
+          "color": "LILA MELANGE",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-27b03343-LILA MELANGE-S/T"
+        },
+        {
+          "color": "NEGRO IRONMAN",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-27b03343-NEGRO IRONMAN-S/T"
         }
       ]
     },
@@ -9919,6 +10069,78 @@
           "size": "S/T",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-2d5ff04c-ESTAMPADO-S/T"
+        },
+        {
+          "color": "ANANA BLANCO",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-2d5ff04c-ANANA BLANCO-S/T"
+        },
+        {
+          "color": "PIÑA SANDIA",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-2d5ff04c-PIÑA SANDIA-S/T"
+        },
+        {
+          "color": "CORAZONES BORDO",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-2d5ff04c-CORAZONES BORDO-S/T"
+        },
+        {
+          "color": "KRUSTY ROJO",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-2d5ff04c-KRUSTY ROJO-S/T"
+        },
+        {
+          "color": "FLOR NEGRA",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-2d5ff04c-FLOR NEGRA-S/T"
+        },
+        {
+          "color": "BOSQUE",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-2d5ff04c-BOSQUE-S/T"
+        },
+        {
+          "color": "HOMERO ROJO",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-2d5ff04c-HOMERO ROJO-S/T"
+        },
+        {
+          "color": "SANDIA",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-2d5ff04c-SANDIA-S/T"
+        },
+        {
+          "color": "BATIK ROSA",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-2d5ff04c-BATIK ROSA-S/T"
+        },
+        {
+          "color": "FLAMENCO",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-2d5ff04c-FLAMENCO-S/T"
+        },
+        {
+          "color": "ROSA BLANCA",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-2d5ff04c-ROSA BLANCA-S/T"
+        },
+        {
+          "color": "DONA VERDE",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-2d5ff04c-DONA VERDE-S/T"
         }
       ]
     },
@@ -10001,6 +10223,36 @@
           "size": "S/T",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-4c75877b-ESTAMPADO-S/T"
+        },
+        {
+          "color": "ANANA BLANCO",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-4c75877b-ANANA BLANCO-S/T"
+        },
+        {
+          "color": "PIÑA SANDIA",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-4c75877b-PIÑA SANDIA-S/T"
+        },
+        {
+          "color": "BOSQUE",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-4c75877b-BOSQUE-S/T"
+        },
+        {
+          "color": "FLOR AZUL",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-4c75877b-FLOR AZUL-S/T"
+        },
+        {
+          "color": "CAMUFLADO",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-4c75877b-CAMUFLADO-S/T"
         }
       ]
     },
@@ -10018,6 +10270,54 @@
           "size": "S/T",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-61fcbbe4-ESTAMPADO-S/T"
+        },
+        {
+          "color": "FLOR VIOLETA",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-61fcbbe4-FLOR VIOLETA-S/T"
+        },
+        {
+          "color": "BART AMARILLO",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-61fcbbe4-BART AMARILLO-S/T"
+        },
+        {
+          "color": "DUFF",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-61fcbbe4-DUFF-S/T"
+        },
+        {
+          "color": "FLAMENCO",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-61fcbbe4-FLAMENCO-S/T"
+        },
+        {
+          "color": "PIÑA SANDIA",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-61fcbbe4-PIÑA SANDIA-S/T"
+        },
+        {
+          "color": "LISA SIMPSON",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-61fcbbe4-LISA SIMPSON-S/T"
+        },
+        {
+          "color": "FLOR NEGRA",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-61fcbbe4-FLOR NEGRA-S/T"
+        },
+        {
+          "color": "DONA",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-61fcbbe4-DONA-S/T"
         }
       ]
     },
@@ -10207,6 +10507,24 @@
           "size": "S/T",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-c268f824-Violeta-S/T"
+        },
+        {
+          "color": "FUCSIA",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-c268f824-FUCSIA-S/T"
+        },
+        {
+          "color": "LILA",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-c268f824-LILA-S/T"
+        },
+        {
+          "color": "MOSTAZA",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-c268f824-MOSTAZA-S/T"
         }
       ]
     },
@@ -10302,6 +10620,30 @@
           "size": "S/T",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-dc246d6b-Violeta-S/T"
+        },
+        {
+          "color": "FUCSIA",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-dc246d6b-FUCSIA-S/T"
+        },
+        {
+          "color": "AQUA",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-dc246d6b-AQUA-S/T"
+        },
+        {
+          "color": "VERDE MENTA",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-dc246d6b-VERDE MENTA-S/T"
+        },
+        {
+          "color": "GRIS MELANGE",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-dc246d6b-GRIS MELANGE-S/T"
         }
       ]
     },
@@ -10391,6 +10733,48 @@
           "size": "S/T",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-f35b2432-verde militar-S/T"
+        },
+        {
+          "color": "FUCSIA",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-f35b2432-FUCSIA-S/T"
+        },
+        {
+          "color": "BORDO MELANGE",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-f35b2432-BORDO MELANGE-S/T"
+        },
+        {
+          "color": "AZUL FRANCIA MELANGE",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-f35b2432-AZUL FRANCIA MELANGE-S/T"
+        },
+        {
+          "color": "ROJO MELANGE",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-f35b2432-ROJO MELANGE-S/T"
+        },
+        {
+          "color": "VERDE MILITAR MELANGE",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-f35b2432-VERDE MILITAR MELANGE-S/T"
+        },
+        {
+          "color": "GRIS MELANGE",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-f35b2432-GRIS MELANGE-S/T"
+        },
+        {
+          "color": "NEGRO MELANGE",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-f35b2432-NEGRO MELANGE-S/T"
         }
       ]
     },
@@ -15284,7 +15668,146 @@
       "category_id": "CART12",
       "categoryName": "CARTUCHERAS",
       "store_id": "DSC-02",
-      "variations": []
+      "variations": [
+        {
+          "color": "ROSA BLANCA",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-6755c6f4-ROSA BLANCA-S/T"
+        },
+        {
+          "color": "JAGUAR",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-6755c6f4-JAGUAR-S/T"
+        },
+        {
+          "color": "DONA ROSA",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-6755c6f4-DONA ROSA-S/T"
+        },
+        {
+          "color": "FLOR VIOLETA",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-6755c6f4-FLOR VIOLETA-S/T"
+        },
+        {
+          "color": "CAMUFLADO",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-6755c6f4-CAMUFLADO-S/T"
+        },
+        {
+          "color": "DONA HOMERO",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-6755c6f4-DONA HOMERO-S/T"
+        },
+        {
+          "color": "ANANA BLANCO",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-6755c6f4-ANANA BLANCO-S/T"
+        },
+        {
+          "color": "PALMERA ROSA",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-6755c6f4-PALMERA ROSA-S/T"
+        },
+        {
+          "color": "MARGARITA",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-6755c6f4-MARGARITA-S/T"
+        },
+        {
+          "color": "COCO",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-6755c6f4-COCO-S/T"
+        },
+        {
+          "color": "BOSQUE",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-6755c6f4-BOSQUE-S/T"
+        },
+        {
+          "color": "KRUSTY ROJO",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-6755c6f4-KRUSTY ROJO-S/T"
+        },
+        {
+          "color": "SELVA",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-6755c6f4-SELVA-S/T"
+        },
+        {
+          "color": "CORAZONES BORDO",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-6755c6f4-CORAZONES BORDO-S/T"
+        },
+        {
+          "color": "ANIMAL PRINT",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-6755c6f4-ANIMAL PRINT-S/T"
+        },
+        {
+          "color": "HOMERO AMARILLO",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-6755c6f4-HOMERO AMARILLO-S/T"
+        },
+        {
+          "color": "BART AMARILLO",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-6755c6f4-BART AMARILLO-S/T"
+        },
+        {
+          "color": "PALTA",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-6755c6f4-PALTA-S/T"
+        },
+        {
+          "color": "GALAXIA",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-6755c6f4-GALAXIA-S/T"
+        },
+        {
+          "color": "CALAVERA",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-6755c6f4-CALAVERA-S/T"
+        },
+        {
+          "color": "FLOR AZUL",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-6755c6f4-FLOR AZUL-S/T"
+        },
+        {
+          "color": "FLAMENCO",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-6755c6f4-FLAMENCO-S/T"
+        },
+        {
+          "color": "FLOR NEGRA",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-6755c6f4-FLOR NEGRA-S/T"
+        }
+      ]
     }
   ]
 }
