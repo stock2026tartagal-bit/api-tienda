@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T11:34:16.747Z",
+  "generated_at": "2026-07-22T12:30:03.329Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -5060,6 +5060,30 @@
           "size": "XL",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-787bef60-Negro-XL"
+        },
+        {
+          "color": "Marron",
+          "size": "S",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-787bef60-Marron-S"
+        },
+        {
+          "color": "Marron",
+          "size": "M",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-787bef60-Marron-M"
+        },
+        {
+          "color": "Marron",
+          "size": "L",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-787bef60-Marron-L"
+        },
+        {
+          "color": "Marron",
+          "size": "XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-787bef60-Marron-XL"
         }
       ]
     },
@@ -15853,6 +15877,159 @@
           "size": "80",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-f767cb9a-Negro-80"
+        }
+      ]
+    },
+    {
+      "id": "f579b950",
+      "model": "BUEY GAMUZA EXTRA",
+      "price": 9500,
+      "minor_surcharge": 2000,
+      "category_id": "CINT03",
+      "categoryName": "CINTURON DE MUJER",
+      "store_id": "DSC-02",
+      "variations": [
+        {
+          "color": "Negro",
+          "size": "2XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-f579b950-Negro-2XL"
+        },
+        {
+          "color": "Negro",
+          "size": "3XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-f579b950-Negro-3XL"
+        },
+        {
+          "color": "Marron",
+          "size": "2XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-f579b950-Marron-2XL"
+        },
+        {
+          "color": "Marron",
+          "size": "3XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-f579b950-Marron-3XL"
+        }
+      ]
+    },
+    {
+      "id": "ce0f45c1",
+      "model": "CIRCULO REMACHE OV GAMUZA",
+      "price": 6500,
+      "minor_surcharge": 2000,
+      "category_id": "CINT03",
+      "categoryName": "CINTURON DE MUJER",
+      "store_id": "DSC-02",
+      "variations": [
+        {
+          "color": "Negro",
+          "size": "S",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-ce0f45c1-Negro-S"
+        },
+        {
+          "color": "Negro",
+          "size": "M",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-ce0f45c1-Negro-M"
+        },
+        {
+          "color": "Negro",
+          "size": "L",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-ce0f45c1-Negro-L"
+        },
+        {
+          "color": "Negro",
+          "size": "XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-ce0f45c1-Negro-XL"
+        },
+        {
+          "color": "Marron",
+          "size": "S",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-ce0f45c1-Marron-S"
+        },
+        {
+          "color": "Marron",
+          "size": "M",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-ce0f45c1-Marron-M"
+        },
+        {
+          "color": "Marron",
+          "size": "L",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-ce0f45c1-Marron-L"
+        },
+        {
+          "color": "Marron",
+          "size": "XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-ce0f45c1-Marron-XL"
+        }
+      ]
+    },
+    {
+      "id": "ecc5dd38",
+      "model": "HERRADURA GAMUZA",
+      "price": 6500,
+      "minor_surcharge": 2000,
+      "category_id": "CINT03",
+      "categoryName": "CINTURON DE MUJER",
+      "store_id": "DSC-02",
+      "variations": [
+        {
+          "color": "Negro",
+          "size": "S",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-ecc5dd38-Negro-S"
+        },
+        {
+          "color": "Negro",
+          "size": "M",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-ecc5dd38-Negro-M"
+        },
+        {
+          "color": "Negro",
+          "size": "L",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-ecc5dd38-Negro-L"
+        },
+        {
+          "color": "Negro",
+          "size": "XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-ecc5dd38-Negro-XL"
+        },
+        {
+          "color": "Marron",
+          "size": "S",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-ecc5dd38-Marron-S"
+        },
+        {
+          "color": "Marron",
+          "size": "M",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-ecc5dd38-Marron-M"
+        },
+        {
+          "color": "Marron",
+          "size": "L",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-ecc5dd38-Marron-L"
+        },
+        {
+          "color": "Marron",
+          "size": "XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-ecc5dd38-Marron-XL"
         }
       ]
     }
