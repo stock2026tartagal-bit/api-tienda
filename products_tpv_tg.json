@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T14:10:50.947Z",
+  "generated_at": "2026-07-25T15:34:15.817Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -16030,6 +16030,41 @@
           "size": "XL",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-ecc5dd38-Marron-XL"
+        }
+      ]
+    },
+    {
+      "id": "a4f316ae",
+      "model": "CIRCULO REMACHE GAMUZA NIQUEL",
+      "price": 6500,
+      "minor_surcharge": 2000,
+      "category_id": "CINT03",
+      "categoryName": "CINTURON DE MUJER",
+      "store_id": "DSC-02",
+      "variations": [
+        {
+          "color": "Negro",
+          "size": "S",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-a4f316ae-Negro-S"
+        },
+        {
+          "color": "Negro",
+          "size": "M",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-a4f316ae-Negro-M"
+        },
+        {
+          "color": "Negro",
+          "size": "L",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-a4f316ae-Negro-L"
+        },
+        {
+          "color": "Negro",
+          "size": "XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-a4f316ae-Negro-XL"
         }
       ]
     }
