@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T11:34:17.004Z",
+  "generated_at": "2026-07-27T15:34:17.663Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -1571,7 +1571,7 @@
     {
       "id": "CO00001",
       "model": "COSTURADO",
-      "price": 4500,
+      "price": 5000,
       "minor_surcharge": 2000,
       "category_id": "CINT02",
       "categoryName": "CINTURON DE HOMBRE",
@@ -1785,7 +1785,7 @@
     {
       "id": "CO00034",
       "model": "PAMPA NIQUEL",
-      "price": 4800,
+      "price": 5200,
       "minor_surcharge": 2200,
       "category_id": "CINT02",
       "categoryName": "CINTURON DE HOMBRE",
@@ -15536,7 +15536,7 @@
     {
       "id": "02da5b97",
       "model": "COSTURADO P.V",
-      "price": 4500,
+      "price": 5000,
       "minor_surcharge": 2000,
       "category_id": "CINT02",
       "categoryName": "CINTURON DE HOMBRE",
