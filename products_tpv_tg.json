@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T11:34:16.936Z",
+  "generated_at": "2026-07-28T15:34:18.792Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -15576,7 +15576,104 @@
       "category_id": "CINT02",
       "categoryName": "CINTURON DE HOMBRE",
       "store_id": "DSC-02",
-      "variations": []
+      "variations": [
+        {
+          "color": "Negro",
+          "size": "125",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-e652ea97-Negro-125"
+        },
+        {
+          "color": "Negro",
+          "size": "130",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-e652ea97-Negro-130"
+        },
+        {
+          "color": "Negro",
+          "size": "135",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-e652ea97-Negro-135"
+        },
+        {
+          "color": "Negro",
+          "size": "140",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-e652ea97-Negro-140"
+        },
+        {
+          "color": "Negro",
+          "size": "145",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-e652ea97-Negro-145"
+        },
+        {
+          "color": "Negro",
+          "size": "150",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-e652ea97-Negro-150"
+        },
+        {
+          "color": "Negro",
+          "size": "155",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-e652ea97-Negro-155"
+        },
+        {
+          "color": "Negro",
+          "size": "160",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-e652ea97-Negro-160"
+        },
+        {
+          "color": "Gris",
+          "size": "125",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-e652ea97-Gris-125"
+        },
+        {
+          "color": "Gris",
+          "size": "130",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-e652ea97-Gris-130"
+        },
+        {
+          "color": "Gris",
+          "size": "135",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-e652ea97-Gris-135"
+        },
+        {
+          "color": "Gris",
+          "size": "140",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-e652ea97-Gris-140"
+        },
+        {
+          "color": "Gris",
+          "size": "145",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-e652ea97-Gris-145"
+        },
+        {
+          "color": "Gris",
+          "size": "150",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-e652ea97-Gris-150"
+        },
+        {
+          "color": "Gris",
+          "size": "155",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-e652ea97-Gris-155"
+        },
+        {
+          "color": "Gris",
+          "size": "160",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-e652ea97-Gris-160"
+        }
+      ]
     },
     {
       "id": "ddc2f146",
