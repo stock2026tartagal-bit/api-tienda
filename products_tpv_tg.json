@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T15:34:18.792Z",
+  "generated_at": "2026-07-28T19:34:17.568Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -7639,7 +7639,7 @@
     {
       "id": "d41bb006",
       "model": "PERFORADITO",
-      "price": 4000,
+      "price": 4500,
       "minor_surcharge": 2000,
       "category_id": "CINT05",
       "categoryName": "CINTURON DE NIÑO",
@@ -10969,7 +10969,7 @@
     {
       "id": "4980d9b0",
       "model": "FAJA CIRCULO ESPEJO",
-      "price": 12000,
+      "price": 14000,
       "minor_surcharge": 2000,
       "category_id": "FAJA04",
       "categoryName": "FAJA DE MUJER",
@@ -15933,7 +15933,7 @@
     {
       "id": "f767cb9a",
       "model": "CLASICO NIÑO",
-      "price": 4000,
+      "price": 4500,
       "minor_surcharge": 2000,
       "category_id": "CINT05",
       "categoryName": "CINTURON DE NIÑO",
