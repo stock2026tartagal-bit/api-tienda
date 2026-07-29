@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T11:34:17.967Z",
+  "generated_at": "2026-07-29T15:34:18.822Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -1726,7 +1726,7 @@
     {
       "id": "CO00025",
       "model": "COSTURADO EXTRA",
-      "price": 6500,
+      "price": 7000,
       "minor_surcharge": 2000,
       "category_id": "CINT02",
       "categoryName": "CINTURON DE HOMBRE",
