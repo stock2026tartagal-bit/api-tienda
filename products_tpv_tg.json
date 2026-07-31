@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T12:56:04.236Z",
+  "generated_at": "2026-07-31T15:34:18.062Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -4728,23 +4728,6 @@
           "size": "3XL",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-615fff05-Negro-3XL"
-        }
-      ]
-    },
-    {
-      "id": "6855b9ef",
-      "model": "CUERO CROCO MUJER",
-      "price": 7000,
-      "minor_surcharge": 2000,
-      "category_id": "CINT03",
-      "categoryName": "CINTURON DE MUJER",
-      "store_id": "DSC-02",
-      "variations": [
-        {
-          "color": "Negro",
-          "size": "S/T",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-6855b9ef-Negro-S/T"
         }
       ]
     },
