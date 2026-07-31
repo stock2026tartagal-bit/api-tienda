@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T15:34:18.062Z",
+  "generated_at": "2026-07-31T19:34:19.082Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -4773,7 +4773,7 @@
     },
     {
       "id": "6a61829a",
-      "model": "CUADRADA EXTRA",
+      "model": "CUADRADA NIQUEL EXTRA",
       "price": 6500,
       "minor_surcharge": 2000,
       "category_id": "CINT03",
@@ -16147,6 +16147,16 @@
           "variation_id": "DSC-02-a4f316ae-Negro-XL"
         }
       ]
+    },
+    {
+      "id": "ac5d7f43",
+      "model": "CUADRADA O.V EXTRA",
+      "price": 6500,
+      "minor_surcharge": 1000,
+      "category_id": "CINT03",
+      "categoryName": "CINTURON DE MUJER",
+      "store_id": "DSC-02",
+      "variations": []
     }
   ]
 }
