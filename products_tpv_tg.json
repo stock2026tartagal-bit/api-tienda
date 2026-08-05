@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T15:34:22.110Z",
+  "generated_at": "2026-08-05T19:34:18.005Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -3266,7 +3266,7 @@
     {
       "id": "29acd861",
       "model": "HEBILLA CON STRASS",
-      "price": 6500,
+      "price": 7000,
       "minor_surcharge": 2000,
       "category_id": "IMPO09",
       "categoryName": "IMPORTADOS",
@@ -5707,7 +5707,7 @@
     },
     {
       "id": "5d8ed381",
-      "model": "CHAPON FLOR PUNTEDA P.V",
+      "model": "CHAPON FLOR PUNTEADA P.V",
       "price": 7000,
       "minor_surcharge": 2000,
       "category_id": "CINT03",
