@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T11:34:17.368Z",
+  "generated_at": "2026-08-05T15:34:22.110Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -407,6 +407,10 @@
       "textEdge": "Solo Negro"
     },
     "FLOR NEGRA": {
+      "hex": "000000",
+      "textEdge": "Solo Negro"
+    },
+    "AZUL FRANCIA": {
       "hex": "000000",
       "textEdge": "Solo Negro"
     }
@@ -8714,12 +8718,6 @@
           "variation_id": "DSC-02-a38840c0-Azul marino-S/T"
         },
         {
-          "color": "Beige",
-          "size": "S/T",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-a38840c0-Beige-S/T"
-        },
-        {
           "color": "Blanco",
           "size": "S/T",
           "store_id": "DSC-02",
@@ -9211,6 +9209,12 @@
           "size": "S/T",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-ae0e02bf-Verde-S/T"
+        },
+        {
+          "color": "AZUL FRANCIA",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-ae0e02bf-AZUL FRANCIA-S/T"
         }
       ]
     },
@@ -14145,12 +14149,6 @@
           "variation_id": "DSC-02-e4acc668-Azul-UNICO"
         },
         {
-          "color": "Cian",
-          "size": "UNICO",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-e4acc668-Cian-UNICO"
-        },
-        {
           "color": "Negro",
           "size": "UNICO",
           "store_id": "DSC-02",
@@ -16190,6 +16188,41 @@
           "size": "3XL",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-38832de6-Marron-3XL"
+        }
+      ]
+    },
+    {
+      "id": "3d0e504d",
+      "model": "FLOR PUNTEADA GAMUZA EXTRA",
+      "price": 9500,
+      "minor_surcharge": 2000,
+      "category_id": "CINT03",
+      "categoryName": "CINTURON DE MUJER",
+      "store_id": "DSC-02",
+      "variations": [
+        {
+          "color": "Negro",
+          "size": "2XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-3d0e504d-Negro-2XL"
+        },
+        {
+          "color": "Negro",
+          "size": "3XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-3d0e504d-Negro-3XL"
+        },
+        {
+          "color": "Marron",
+          "size": "2XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-3d0e504d-Marron-2XL"
+        },
+        {
+          "color": "Marron",
+          "size": "3XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-3d0e504d-Marron-3XL"
         }
       ]
     }
