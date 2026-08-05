@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T10:59:41.300Z",
+  "generated_at": "2026-08-05T11:34:17.368Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -16155,6 +16155,41 @@
           "size": "S/T",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-prueba5-Negro-S/T"
+        }
+      ]
+    },
+    {
+      "id": "38832de6",
+      "model": "CHAPON ESPIRAL GAMUZA EXTRA",
+      "price": 9500,
+      "minor_surcharge": 2000,
+      "category_id": "CINT03",
+      "categoryName": "CINTURON DE MUJER",
+      "store_id": "DSC-02",
+      "variations": [
+        {
+          "color": "Negro",
+          "size": "2XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-38832de6-Negro-2XL"
+        },
+        {
+          "color": "Negro",
+          "size": "3XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-38832de6-Negro-3XL"
+        },
+        {
+          "color": "Marron",
+          "size": "2XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-38832de6-Marron-2XL"
+        },
+        {
+          "color": "Marron",
+          "size": "3XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-38832de6-Marron-3XL"
         }
       ]
     }
