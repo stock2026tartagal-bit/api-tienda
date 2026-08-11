@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T15:34:17.044Z",
+  "generated_at": "2026-08-11T19:34:18.932Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -12982,8 +12982,8 @@
     {
       "id": "d08fd678",
       "model": "DORADA DE 30",
-      "price": 3200,
-      "minor_surcharge": 2300,
+      "price": 3500,
+      "minor_surcharge": 2500,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
       "store_id": "DSC-02",
@@ -14578,8 +14578,8 @@
     {
       "id": "e7e24dcb",
       "model": "DORADA DE 40",
-      "price": 3700,
-      "minor_surcharge": 2300,
+      "price": 4000,
+      "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
       "store_id": "DSC-02",
