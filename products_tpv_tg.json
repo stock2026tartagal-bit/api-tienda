@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T11:34:17.409Z",
+  "generated_at": "2026-08-12T15:34:15.961Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -8040,7 +8040,7 @@
     {
       "id": "91bf2e4b",
       "model": "HPP OJAL EXTRA",
-      "price": 8000,
+      "price": 8500,
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
