@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T10:58:36.922Z",
+  "generated_at": "2026-08-12T11:34:17.409Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -16223,6 +16223,35 @@
           "size": "3XL",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-3d0e504d-Marron-3XL"
+        }
+      ]
+    },
+    {
+      "id": "055ea3c7",
+      "model": "FLORCITA CHAROL NENA",
+      "price": 2800,
+      "minor_surcharge": 2300,
+      "category_id": "CINT06",
+      "categoryName": "CINTURON DE NIÑA",
+      "store_id": "DSC-02",
+      "variations": [
+        {
+          "color": "Negro",
+          "size": "55/60",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-055ea3c7-Negro-55/60"
+        },
+        {
+          "color": "Negro",
+          "size": "65/70",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-055ea3c7-Negro-65/70"
+        },
+        {
+          "color": "Negro",
+          "size": "75/80",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-055ea3c7-Negro-75/80"
         }
       ]
     }
