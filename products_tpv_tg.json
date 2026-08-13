@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T11:34:16.062Z",
+  "generated_at": "2026-08-13T13:08:36.709Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -1628,7 +1628,7 @@
     },
     {
       "id": "104327d4",
-      "model": "OVALADA",
+      "model": "MEDIALUNA",
       "price": 4500,
       "minor_surcharge": 2000,
       "category_id": "CINT03",
