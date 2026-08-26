@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T10:37:45.948Z",
+  "generated_at": "2026-08-26T11:34:19.142Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -11142,8 +11142,8 @@
     },
     {
       "id": "cd5d07a2",
-      "model": "LABRADA EXTRA",
-      "price": 6500,
+      "model": "LABRADA GAMUZA EXTRA",
+      "price": 8500,
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
@@ -13092,7 +13092,7 @@
     },
     {
       "id": "d3ed10da",
-      "model": "OVALADA EXTRA",
+      "model": "MEDIALUNA EXTRA",
       "price": 6500,
       "minor_surcharge": 2000,
       "category_id": "CINT03",
@@ -13589,6 +13589,12 @@
           "size": "95",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-d9d0f6b1-Negro-95"
+        },
+        {
+          "color": "Negro",
+          "size": "125",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-d9d0f6b1-Negro-125"
         }
       ]
     },
@@ -16252,6 +16258,65 @@
           "size": "75/80",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-055ea3c7-Negro-75/80"
+        }
+      ]
+    },
+    {
+      "id": "4099c627",
+      "model": "HPP GAMUZA",
+      "price": 5000,
+      "minor_surcharge": 2000,
+      "category_id": "CINT03",
+      "categoryName": "CINTURON DE MUJER",
+      "store_id": "DSC-02",
+      "variations": [
+        {
+          "color": "Negro",
+          "size": "S",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-4099c627-Negro-S"
+        },
+        {
+          "color": "Negro",
+          "size": "M",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-4099c627-Negro-M"
+        },
+        {
+          "color": "Negro",
+          "size": "L",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-4099c627-Negro-L"
+        },
+        {
+          "color": "Negro",
+          "size": "XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-4099c627-Negro-XL"
+        },
+        {
+          "color": "Marron",
+          "size": "S",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-4099c627-Marron-S"
+        },
+        {
+          "color": "Marron",
+          "size": "M",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-4099c627-Marron-M"
+        },
+        {
+          "color": "Marron",
+          "size": "L",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-4099c627-Marron-L"
+        },
+        {
+          "color": "Marron",
+          "size": "XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-4099c627-Marron-XL"
         }
       ]
     }
