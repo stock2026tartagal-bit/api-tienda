@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T11:34:17.181Z",
+  "generated_at": "2026-08-28T15:34:18.339Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -469,6 +469,16 @@
     {
       "id": "CART12",
       "name": "CARTUCHERAS",
+      "svg": ""
+    },
+    {
+      "id": "MUJE13",
+      "name": "MUJER EXTRA LARGO",
+      "svg": ""
+    },
+    {
+      "id": "HOMB14",
+      "name": "HOMBRE EXTRA LARGO",
       "svg": ""
     }
   ],
@@ -960,8 +970,8 @@
       "model": "MARIPOSA  NIQUEL EXTRA",
       "price": 7500,
       "minor_surcharge": 2000,
-      "category_id": "CINT03",
-      "categoryName": "CINTURON DE MUJER",
+      "category_id": "MUJE13",
+      "categoryName": "MUJER EXTRA LARGO",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -1063,8 +1073,8 @@
       "model": "ROLITO 30 EXTRA",
       "price": 5500,
       "minor_surcharge": 2000,
-      "category_id": "CINT03",
-      "categoryName": "CINTURON DE MUJER",
+      "category_id": "MUJE13",
+      "categoryName": "MUJER EXTRA LARGO",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -1766,8 +1776,8 @@
       "model": "GAMUZA MUJER EXTRA",
       "price": 8500,
       "minor_surcharge": 2000,
-      "category_id": "CINT03",
-      "categoryName": "CINTURON DE MUJER",
+      "category_id": "MUJE13",
+      "categoryName": "MUJER EXTRA LARGO",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -2143,8 +2153,8 @@
       "model": "HPP EXTRA",
       "price": 6000,
       "minor_surcharge": 2000,
-      "category_id": "CINT03",
-      "categoryName": "CINTURON DE MUJER",
+      "category_id": "MUJE13",
+      "categoryName": "MUJER EXTRA LARGO",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -3439,8 +3449,8 @@
       "model": "COSTURA ROJA EXTRA",
       "price": 10500,
       "minor_surcharge": 2000,
-      "category_id": "CINT02",
-      "categoryName": "CINTURON DE HOMBRE",
+      "category_id": "HOMB14",
+      "categoryName": "HOMBRE EXTRA LARGO",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -3704,8 +3714,8 @@
       "model": "GAMUZA EXTRA",
       "price": 11000,
       "minor_surcharge": 2000,
-      "category_id": "CINT02",
-      "categoryName": "CINTURON DE HOMBRE",
+      "category_id": "HOMB14",
+      "categoryName": "HOMBRE EXTRA LARGO",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -11464,8 +11474,8 @@
       "model": "COSTURADO EXTRA",
       "price": 7000,
       "minor_surcharge": 2000,
-      "category_id": "CINT02",
-      "categoryName": "CINTURON DE HOMBRE",
+      "category_id": "HOMB14",
+      "categoryName": "HOMBRE EXTRA LARGO",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -11807,8 +11817,8 @@
       "model": "PASADOR CON MARCA EXTRA",
       "price": 8500,
       "minor_surcharge": 2000,
-      "category_id": "CINT02",
-      "categoryName": "CINTURON DE HOMBRE",
+      "category_id": "HOMB14",
+      "categoryName": "HOMBRE EXTRA LARGO",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -12069,8 +12079,8 @@
       "model": "DESCARNE 35 EXTRA",
       "price": 9000,
       "minor_surcharge": 2000,
-      "category_id": "CINT02",
-      "categoryName": "CINTURON DE HOMBRE",
+      "category_id": "HOMB14",
+      "categoryName": "HOMBRE EXTRA LARGO",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -12331,8 +12341,8 @@
       "model": "DESCARNE 40 EXTRA",
       "price": 9500,
       "minor_surcharge": 2000,
-      "category_id": "CINT02",
-      "categoryName": "CINTURON DE HOMBRE",
+      "category_id": "HOMB14",
+      "categoryName": "HOMBRE EXTRA LARGO",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -14032,8 +14042,8 @@
       "model": "PERF REDONDO EXTRA",
       "price": 9000,
       "minor_surcharge": 2000,
-      "category_id": "CINT02",
-      "categoryName": "CINTURON DE HOMBRE",
+      "category_id": "HOMB14",
+      "categoryName": "HOMBRE EXTRA LARGO",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -14361,8 +14371,8 @@
       "model": "CUERO GRABADO EXTRA LARGO",
       "price": 10500,
       "minor_surcharge": 2000,
-      "category_id": "CINT02",
-      "categoryName": "CINTURON DE HOMBRE",
+      "category_id": "HOMB14",
+      "categoryName": "HOMBRE EXTRA LARGO",
       "store_id": "DSC-02",
       "variations": [
         {
