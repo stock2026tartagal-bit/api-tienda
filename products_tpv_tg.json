@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T11:34:19.399Z",
+  "generated_at": "2026-09-01T15:34:17.469Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -16385,6 +16385,41 @@
           "size": "S/T",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-f5fa0805-Beige-S/T"
+        }
+      ]
+    },
+    {
+      "id": "96d785c9",
+      "model": "FLOR PUNTEADA EXTRA P.V",
+      "price": 9000,
+      "minor_surcharge": 2000,
+      "category_id": "MUJE13",
+      "categoryName": "MUJER EXTRA LARGO",
+      "store_id": "DSC-02",
+      "variations": [
+        {
+          "color": "Negro",
+          "size": "XXXL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-96d785c9-Negro-XXXL"
+        },
+        {
+          "color": "Negro",
+          "size": "XXL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-96d785c9-Negro-XXL"
+        },
+        {
+          "color": "Marron",
+          "size": "XXXL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-96d785c9-Marron-XXXL"
+        },
+        {
+          "color": "Marron",
+          "size": "XXL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-96d785c9-Marron-XXL"
         }
       ]
     }
