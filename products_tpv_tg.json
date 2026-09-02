@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T15:34:24.472Z",
+  "generated_at": "2026-09-02T19:34:18.222Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -968,7 +968,7 @@
     {
       "id": "0889cd3c",
       "model": "MARIPOSA  NIQUEL EXTRA",
-      "price": 7500,
+      "price": 8000,
       "minor_surcharge": 2000,
       "category_id": "MUJE13",
       "categoryName": "MUJER EXTRA LARGO",
@@ -10414,7 +10414,7 @@
     {
       "id": "c965351e",
       "model": "MARIPOSA O.V EXTRA",
-      "price": 7500,
+      "price": 8000,
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
@@ -12339,7 +12339,7 @@
     {
       "id": "CO00114",
       "model": "DESCARNE 40 EXTRA",
-      "price": 9500,
+      "price": 10000,
       "minor_surcharge": 2000,
       "category_id": "HOMB14",
       "categoryName": "HOMBRE EXTRA LARGO",
