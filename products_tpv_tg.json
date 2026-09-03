@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T11:34:17.532Z",
+  "generated_at": "2026-09-03T15:34:16.430Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -479,6 +479,11 @@
     {
       "id": "HOMB14",
       "name": "HOMBRE EXTRA LARGO",
+      "svg": ""
+    },
+    {
+      "id": "350015",
+      "name": "$3.500",
       "svg": ""
     }
   ],
@@ -1028,8 +1033,8 @@
       "model": "DIESEL NEGRO",
       "price": 3500,
       "minor_surcharge": 2500,
-      "category_id": "CINT03",
-      "categoryName": "CINTURON DE MUJER",
+      "category_id": "350015",
+      "categoryName": "$3.500",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -1071,7 +1076,7 @@
     {
       "id": "0d2c1c48",
       "model": "ROLITO 30 EXTRA",
-      "price": 5500,
+      "price": 6000,
       "minor_surcharge": 2000,
       "category_id": "MUJE13",
       "categoryName": "MUJER EXTRA LARGO",
@@ -1440,8 +1445,8 @@
       "model": "GOLPEADA",
       "price": 3500,
       "minor_surcharge": 2500,
-      "category_id": "CINT03",
-      "categoryName": "CINTURON DE MUJER",
+      "category_id": "350015",
+      "categoryName": "$3.500",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -1715,7 +1720,7 @@
     {
       "id": "1172a666",
       "model": "GORROS",
-      "price": 2000,
+      "price": 4000,
       "minor_surcharge": 2000,
       "category_id": "MOCH08",
       "categoryName": "MOCHILAS",
@@ -1944,41 +1949,6 @@
           "size": "XL",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-11f8b701-Negro-XL"
-        }
-      ]
-    },
-    {
-      "id": "1712fc89",
-      "model": "DIESEL PRINT",
-      "price": 3500,
-      "minor_surcharge": 2500,
-      "category_id": "CINT03",
-      "categoryName": "CINTURON DE MUJER",
-      "store_id": "DSC-02",
-      "variations": [
-        {
-          "color": "ANIMAL PRINT",
-          "size": "L",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-1712fc89-ANIMAL PRINT-L"
-        },
-        {
-          "color": "ANIMAL PRINT",
-          "size": "M",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-1712fc89-ANIMAL PRINT-M"
-        },
-        {
-          "color": "ANIMAL PRINT",
-          "size": "S",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-1712fc89-ANIMAL PRINT-S"
-        },
-        {
-          "color": "ANIMAL PRINT",
-          "size": "XL",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-1712fc89-ANIMAL PRINT-XL"
         }
       ]
     },
@@ -2873,7 +2843,7 @@
     },
     {
       "id": "21564f47",
-      "model": "FAJA CIRCULAR EXTRA NIQUEL",
+      "model": "FAJA CIRCULAR NIQUEL EXTRA",
       "price": 9500,
       "minor_surcharge": 2000,
       "category_id": "FAJA04",
@@ -3573,8 +3543,8 @@
       "model": "DSC NEGRA",
       "price": 3500,
       "minor_surcharge": 2500,
-      "category_id": "CINT03",
-      "categoryName": "CINTURON DE MUJER",
+      "category_id": "350015",
+      "categoryName": "$3.500",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -3689,7 +3659,7 @@
     {
       "id": "2f1ae7b1",
       "model": "CLASICA 25 NIQ. EXTRA",
-      "price": 5000,
+      "price": 6000,
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
@@ -3712,7 +3682,7 @@
     {
       "id": "316736fd",
       "model": "GAMUZA EXTRA",
-      "price": 11000,
+      "price": 11500,
       "minor_surcharge": 2000,
       "category_id": "HOMB14",
       "categoryName": "HOMBRE EXTRA LARGO",
@@ -4567,8 +4537,8 @@
       "model": "COBRA DE 40",
       "price": 3500,
       "minor_surcharge": 2500,
-      "category_id": "CINT03",
-      "categoryName": "CINTURON DE MUJER",
+      "category_id": "350015",
+      "categoryName": "$3.500",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -4626,8 +4596,8 @@
       "model": "DSC NIQUEL",
       "price": 3500,
       "minor_surcharge": 2500,
-      "category_id": "CINT03",
-      "categoryName": "CINTURON DE MUJER",
+      "category_id": "350015",
+      "categoryName": "$3.500",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -5543,8 +5513,8 @@
       "model": "CLASICA 25 BRONCE",
       "price": 3500,
       "minor_surcharge": 2500,
-      "category_id": "CINT03",
-      "categoryName": "CINTURON DE MUJER",
+      "category_id": "350015",
+      "categoryName": "$3.500",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -6936,8 +6906,8 @@
       "model": "CLASICA 25 NIQUEL",
       "price": 3500,
       "minor_surcharge": 2500,
-      "category_id": "CINT03",
-      "categoryName": "CINTURON DE MUJER",
+      "category_id": "350015",
+      "categoryName": "$3.500",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -7756,8 +7726,8 @@
       "model": "HPP",
       "price": 3500,
       "minor_surcharge": 2500,
-      "category_id": "CINT03",
-      "categoryName": "CINTURON DE MUJER",
+      "category_id": "350015",
+      "categoryName": "$3.500",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -8130,23 +8100,6 @@
       ]
     },
     {
-      "id": "92ffd0b0",
-      "model": "CHAROL ANCHO",
-      "price": 3500,
-      "minor_surcharge": 2000,
-      "category_id": "CINT03",
-      "categoryName": "CINTURON DE MUJER",
-      "store_id": "DSC-02",
-      "variations": [
-        {
-          "color": "DORADO",
-          "size": "S/T",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-92ffd0b0-DORADO-S/T"
-        }
-      ]
-    },
-    {
       "id": "93b9e42d",
       "model": "HPP PRINT",
       "price": 4500,
@@ -8311,41 +8264,6 @@
           "size": "XS",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-9b1e6646-Negro-XS"
-        }
-      ]
-    },
-    {
-      "id": "9c8c911f",
-      "model": "SHELL PRINT",
-      "price": 3500,
-      "minor_surcharge": 2000,
-      "category_id": "CINT03",
-      "categoryName": "CINTURON DE MUJER",
-      "store_id": "DSC-02",
-      "variations": [
-        {
-          "color": "ANIMAL PRINT",
-          "size": "L",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-9c8c911f-ANIMAL PRINT-L"
-        },
-        {
-          "color": "ANIMAL PRINT",
-          "size": "M",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-9c8c911f-ANIMAL PRINT-M"
-        },
-        {
-          "color": "ANIMAL PRINT",
-          "size": "S",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-9c8c911f-ANIMAL PRINT-S"
-        },
-        {
-          "color": "ANIMAL PRINT",
-          "size": "XL",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-9c8c911f-ANIMAL PRINT-XL"
         }
       ]
     },
@@ -9551,8 +9469,8 @@
       "model": "COBRA DE 30",
       "price": 3500,
       "minor_surcharge": 2500,
-      "category_id": "CINT03",
-      "categoryName": "CINTURON DE MUJER",
+      "category_id": "350015",
+      "categoryName": "$3.500",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -10305,8 +10223,8 @@
       "model": "OVALADA NIQUEL",
       "price": 3500,
       "minor_surcharge": 2500,
-      "category_id": "CINT03",
-      "categoryName": "CINTURON DE MUJER",
+      "category_id": "350015",
+      "categoryName": "$3.500",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -10437,8 +10355,8 @@
     {
       "id": "ca1402a7",
       "model": "FLOR DE LIZ",
-      "price": 4800,
-      "minor_surcharge": 2200,
+      "price": 5200,
+      "minor_surcharge": 2000,
       "category_id": "CINT02",
       "categoryName": "CINTURON DE HOMBRE",
       "store_id": "DSC-02",
@@ -11532,7 +11450,7 @@
       "id": "CO00034",
       "model": "PAMPA NIQUEL",
       "price": 5200,
-      "minor_surcharge": 2200,
+      "minor_surcharge": 2000,
       "category_id": "CINT02",
       "categoryName": "CINTURON DE HOMBRE",
       "store_id": "DSC-02",
@@ -11590,8 +11508,8 @@
     {
       "id": "CO00042",
       "model": "CABALLO",
-      "price": 4800,
-      "minor_surcharge": 2200,
+      "price": 5200,
+      "minor_surcharge": 2000,
       "category_id": "CINT02",
       "categoryName": "CINTURON DE HOMBRE",
       "store_id": "DSC-02",
@@ -11815,7 +11733,7 @@
     {
       "id": "CO00074",
       "model": "PASADOR CON MARCA EXTRA",
-      "price": 8500,
+      "price": 9000,
       "minor_surcharge": 2000,
       "category_id": "HOMB14",
       "categoryName": "HOMBRE EXTRA LARGO",
@@ -12077,7 +11995,7 @@
     {
       "id": "CO00098",
       "model": "DESCARNE 35 EXTRA",
-      "price": 9000,
+      "price": 10000,
       "minor_surcharge": 2000,
       "category_id": "HOMB14",
       "categoryName": "HOMBRE EXTRA LARGO",
@@ -12994,8 +12912,8 @@
       "model": "DORADA DE 30",
       "price": 3500,
       "minor_surcharge": 2500,
-      "category_id": "CINT03",
-      "categoryName": "CINTURON DE MUJER",
+      "category_id": "350015",
+      "categoryName": "$3.500",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -14040,7 +13958,7 @@
     {
       "id": "e395d0b8",
       "model": "PERF REDONDO EXTRA",
-      "price": 9000,
+      "price": 10000,
       "minor_surcharge": 2000,
       "category_id": "HOMB14",
       "categoryName": "HOMBRE EXTRA LARGO",
@@ -15566,8 +15484,8 @@
       "model": "DIESEL",
       "price": 3500,
       "minor_surcharge": 2500,
-      "category_id": "CINT03",
-      "categoryName": "CINTURON DE MUJER",
+      "category_id": "350015",
+      "categoryName": "$3.500",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -15649,8 +15567,8 @@
       "model": "SHELL DE 25",
       "price": 3500,
       "minor_surcharge": 2500,
-      "category_id": "CINT03",
-      "categoryName": "CINTURON DE MUJER",
+      "category_id": "350015",
+      "categoryName": "$3.500",
       "store_id": "DSC-02",
       "variations": [
         {
