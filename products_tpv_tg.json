@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T11:34:16.904Z",
+  "generated_at": "2026-09-05T15:34:17.374Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -11791,7 +11791,7 @@
     },
     {
       "id": "CO00097",
-      "model": "DESCARNE 35 CUERO",
+      "model": "DESCARNE 35 NIQUEL",
       "price": 8000,
       "minor_surcharge": 2000,
       "category_id": "CINT02",
@@ -13464,7 +13464,7 @@
     {
       "id": "d9d0f6b1",
       "model": "REVERSIBLE ECO",
-      "price": 10000,
+      "price": 11000,
       "minor_surcharge": 2000,
       "category_id": "CINT02",
       "categoryName": "CINTURON DE HOMBRE",
