@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T15:37:01.406Z",
+  "generated_at": "2026-09-07T19:34:17.851Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -580,18 +580,6 @@
           "size": "80",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-59155920-Negro-80"
-        },
-        {
-          "color": "Negro",
-          "size": "85",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-59155920-Negro-85"
-        },
-        {
-          "color": "Negro",
-          "size": "90",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-59155920-Negro-90"
         }
       ]
     },
@@ -5635,18 +5623,6 @@
           "size": "80",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-59155920-Negro-80"
-        },
-        {
-          "color": "Negro",
-          "size": "85",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-59155920-Negro-85"
-        },
-        {
-          "color": "Negro",
-          "size": "90",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-59155920-Negro-90"
         }
       ]
     },
