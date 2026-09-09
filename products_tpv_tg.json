@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T11:34:19.921Z",
+  "generated_at": "2026-09-09T15:34:21.926Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -13765,7 +13765,7 @@
     {
       "id": "dfa89859",
       "model": "YUTE",
-      "price": 6000,
+      "price": 6500,
       "minor_surcharge": 2000,
       "category_id": "IMPO09",
       "categoryName": "IMPORTADOS",
@@ -16493,6 +16493,79 @@
           "variation_id": "DSC-02-068edf0a-Marron-XL"
         }
       ]
+    },
+    {
+      "id": "903adaa4",
+      "model": "HEB PINTADA 50 EXTRA",
+      "price": 8500,
+      "minor_surcharge": 2000,
+      "category_id": "CINT03",
+      "categoryName": "CINTURON DE MUJER",
+      "store_id": "DSC-02",
+      "variations": [
+        {
+          "color": "Negro",
+          "size": "2XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-903adaa4-Negro-2XL"
+        },
+        {
+          "color": "Negro",
+          "size": "3XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-903adaa4-Negro-3XL"
+        }
+      ]
+    },
+    {
+      "id": "d1f1f908",
+      "model": "MEDIA LUNA GAMUZA EXTRA",
+      "price": 6500,
+      "minor_surcharge": 2000,
+      "category_id": "CINT03",
+      "categoryName": "CINTURON DE MUJER",
+      "store_id": "DSC-02",
+      "variations": [
+        {
+          "color": "Marron",
+          "size": "2XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-d1f1f908-Marron-2XL"
+        },
+        {
+          "color": "Marron",
+          "size": "3XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-d1f1f908-Marron-3XL"
+        }
+      ]
+    },
+    {
+      "id": "db3acf80",
+      "model": "CHAPON ESPEJO",
+      "price": 7000,
+      "minor_surcharge": 2000,
+      "category_id": "CINT03",
+      "categoryName": "CINTURON DE MUJER",
+      "store_id": "DSC-02",
+      "variations": [
+        {
+          "color": "Negro",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-db3acf80-Negro-S/T"
+        }
+      ]
+    },
+    {
+      "id": "85659fce",
+      "model": "BORDADO",
+      "price": 15000,
+      "minor_surcharge": 2000,
+      "category_id": "CINT02",
+      "categoryName": "CINTURON DE HOMBRE",
+      "store_id": "DSC-02",
+      "variations": []
     }
   ]
 }
