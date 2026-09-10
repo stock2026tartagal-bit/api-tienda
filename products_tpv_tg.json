@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T11:34:17.808Z",
+  "generated_at": "2026-09-10T15:34:18.398Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -13153,12 +13153,6 @@
           "variation_id": "DSC-02-d41bb006-Negro-75/80"
         },
         {
-          "color": "Negro",
-          "size": "85/90",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-d41bb006-Negro-85/90"
-        },
-        {
           "color": "Rojo",
           "size": "55/60",
           "store_id": "DSC-02",
@@ -13199,12 +13193,6 @@
           "size": "75/80",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-d41bb006-SUELA-75/80"
-        },
-        {
-          "color": "SUELA",
-          "size": "85/90",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-d41bb006-SUELA-85/90"
         }
       ]
     },
