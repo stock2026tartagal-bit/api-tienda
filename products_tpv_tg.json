@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T10:55:41.032Z",
+  "generated_at": "2026-09-12T11:34:17.480Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -13929,52 +13929,76 @@
       "store_id": "DSC-02",
       "variations": [
         {
-          "color": "Blanco",
-          "size": "130",
+          "color": "Negro",
+          "size": "125/130",
           "store_id": "DSC-02",
-          "variation_id": "DSC-02-e395d0b8-Blanco-130"
-        },
-        {
-          "color": "Blanco",
-          "size": "140",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-e395d0b8-Blanco-140"
-        },
-        {
-          "color": "Blanco",
-          "size": "150",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-e395d0b8-Blanco-150"
-        },
-        {
-          "color": "Blanco",
-          "size": "160",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-e395d0b8-Blanco-160"
+          "variation_id": "DSC-02-e395d0b8-Negro-125/130"
         },
         {
           "color": "Negro",
-          "size": "130",
+          "size": "135/140",
           "store_id": "DSC-02",
-          "variation_id": "DSC-02-e395d0b8-Negro-130"
+          "variation_id": "DSC-02-e395d0b8-Negro-135/140"
         },
         {
           "color": "Negro",
-          "size": "140",
+          "size": "145/150",
           "store_id": "DSC-02",
-          "variation_id": "DSC-02-e395d0b8-Negro-140"
+          "variation_id": "DSC-02-e395d0b8-Negro-145/150"
         },
         {
           "color": "Negro",
-          "size": "150",
+          "size": "155/160",
           "store_id": "DSC-02",
-          "variation_id": "DSC-02-e395d0b8-Negro-150"
+          "variation_id": "DSC-02-e395d0b8-Negro-155/160"
         },
         {
-          "color": "Negro",
-          "size": "160",
+          "color": "Blanco",
+          "size": "125/130",
           "store_id": "DSC-02",
-          "variation_id": "DSC-02-e395d0b8-Negro-160"
+          "variation_id": "DSC-02-e395d0b8-Blanco-125/130"
+        },
+        {
+          "color": "Blanco",
+          "size": "135/140",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-e395d0b8-Blanco-135/140"
+        },
+        {
+          "color": "Blanco",
+          "size": "145/150",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-e395d0b8-Blanco-145/150"
+        },
+        {
+          "color": "Blanco",
+          "size": "155/160",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-e395d0b8-Blanco-155/160"
+        },
+        {
+          "color": "SUELA",
+          "size": "125/130",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-e395d0b8-SUELA-125/130"
+        },
+        {
+          "color": "SUELA",
+          "size": "135/140",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-e395d0b8-SUELA-135/140"
+        },
+        {
+          "color": "SUELA",
+          "size": "145/150",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-e395d0b8-SUELA-145/150"
+        },
+        {
+          "color": "SUELA",
+          "size": "155/160",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-e395d0b8-SUELA-155/160"
         }
       ]
     },
