@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T11:34:17.480Z",
+  "generated_at": "2026-09-12T15:34:17.401Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -411,6 +411,10 @@
       "textEdge": "Solo Negro"
     },
     "AZUL FRANCIA": {
+      "hex": "000000",
+      "textEdge": "Solo Negro"
+    },
+    "GRABADO": {
       "hex": "000000",
       "textEdge": "Solo Negro"
     }
@@ -10923,6 +10927,18 @@
           "size": "23",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-cc247d73-Negro-23"
+        },
+        {
+          "color": "Marron",
+          "size": "21",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-cc247d73-Marron-21"
+        },
+        {
+          "color": "Marron",
+          "size": "23",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-cc247d73-Marron-23"
         }
       ]
     },
@@ -15464,6 +15480,78 @@
           "size": "80",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-f767cb9a-Negro-80"
+        },
+        {
+          "color": "Marron",
+          "size": "55",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-f767cb9a-Marron-55"
+        },
+        {
+          "color": "Marron",
+          "size": "60",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-f767cb9a-Marron-60"
+        },
+        {
+          "color": "Marron",
+          "size": "65",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-f767cb9a-Marron-65"
+        },
+        {
+          "color": "Marron",
+          "size": "70",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-f767cb9a-Marron-70"
+        },
+        {
+          "color": "Marron",
+          "size": "75",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-f767cb9a-Marron-75"
+        },
+        {
+          "color": "Marron",
+          "size": "80",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-f767cb9a-Marron-80"
+        },
+        {
+          "color": "GRABADO",
+          "size": "55",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-f767cb9a-GRABADO-55"
+        },
+        {
+          "color": "GRABADO",
+          "size": "60",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-f767cb9a-GRABADO-60"
+        },
+        {
+          "color": "GRABADO",
+          "size": "65",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-f767cb9a-GRABADO-65"
+        },
+        {
+          "color": "GRABADO",
+          "size": "70",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-f767cb9a-GRABADO-70"
+        },
+        {
+          "color": "GRABADO",
+          "size": "75",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-f767cb9a-GRABADO-75"
+        },
+        {
+          "color": "GRABADO",
+          "size": "80",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-f767cb9a-GRABADO-80"
         }
       ]
     },
@@ -16659,6 +16747,76 @@
           "size": "XL",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-a3015399-Marron-XL"
+        }
+      ]
+    },
+    {
+      "id": "9235c562",
+      "model": "BUEY P.V EXTRA",
+      "price": 9000,
+      "minor_surcharge": 2000,
+      "category_id": "CINT03",
+      "categoryName": "CINTURON DE MUJER",
+      "store_id": "DSC-02",
+      "variations": [
+        {
+          "color": "Negro",
+          "size": "2XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-9235c562-Negro-2XL"
+        },
+        {
+          "color": "Negro",
+          "size": "3XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-9235c562-Negro-3XL"
+        },
+        {
+          "color": "Marron",
+          "size": "2XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-9235c562-Marron-2XL"
+        },
+        {
+          "color": "Marron",
+          "size": "3XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-9235c562-Marron-3XL"
+        }
+      ]
+    },
+    {
+      "id": "d407d519",
+      "model": "BUEY O.V EXTRA",
+      "price": 9000,
+      "minor_surcharge": 2000,
+      "category_id": "CINT03",
+      "categoryName": "CINTURON DE MUJER",
+      "store_id": "DSC-02",
+      "variations": [
+        {
+          "color": "Negro",
+          "size": "2XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-d407d519-Negro-2XL"
+        },
+        {
+          "color": "Negro",
+          "size": "3XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-d407d519-Negro-3XL"
+        },
+        {
+          "color": "Marron",
+          "size": "2XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-d407d519-Marron-2XL"
+        },
+        {
+          "color": "Marron",
+          "size": "3XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-d407d519-Marron-3XL"
         }
       ]
     }
