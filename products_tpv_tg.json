@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T15:34:18.598Z",
+  "generated_at": "2026-09-14T19:34:18.362Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -16817,6 +16817,144 @@
           "size": "3XL",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-d407d519-Marron-3XL"
+        }
+      ]
+    },
+    {
+      "id": "2899eac2",
+      "model": "CHAPON MANDALA P.V EXTRA",
+      "price": 9000,
+      "minor_surcharge": 2000,
+      "category_id": "CINT03",
+      "categoryName": "CINTURON DE MUJER",
+      "store_id": "DSC-02",
+      "variations": [
+        {
+          "color": "Negro",
+          "size": "2XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-2899eac2-Negro-2XL"
+        },
+        {
+          "color": "Negro",
+          "size": "3XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-2899eac2-Negro-3XL"
+        }
+      ]
+    },
+    {
+      "id": "45575528",
+      "model": "CHAPON PATRIO P.V EXTRA",
+      "price": 9000,
+      "minor_surcharge": 2000,
+      "category_id": "CINT03",
+      "categoryName": "CINTURON DE MUJER",
+      "store_id": "DSC-02",
+      "variations": [
+        {
+          "color": "Negro",
+          "size": "2XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-45575528-Negro-2XL"
+        },
+        {
+          "color": "Negro",
+          "size": "3XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-45575528-Negro-3XL"
+        }
+      ]
+    },
+    {
+      "id": "347c7090",
+      "model": "CHAPON ESPIRAL P.V EXTRA",
+      "price": 9000,
+      "minor_surcharge": 2000,
+      "category_id": "CINT03",
+      "categoryName": "CINTURON DE MUJER",
+      "store_id": "DSC-02",
+      "variations": [
+        {
+          "color": "Negro",
+          "size": "2XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-347c7090-Negro-2XL"
+        },
+        {
+          "color": "Negro",
+          "size": "3XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-347c7090-Negro-3XL"
+        }
+      ]
+    },
+    {
+      "id": "5bc1ab1b",
+      "model": "CHAPON FLOR PUNTEADA P.V EXTRA",
+      "price": 9000,
+      "minor_surcharge": 2000,
+      "category_id": "CINT03",
+      "categoryName": "CINTURON DE MUJER",
+      "store_id": "DSC-02",
+      "variations": [
+        {
+          "color": "Negro",
+          "size": "2XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-5bc1ab1b-Negro-2XL"
+        },
+        {
+          "color": "Negro",
+          "size": "3XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-5bc1ab1b-Negro-3XL"
+        }
+      ]
+    },
+    {
+      "id": "0451251a",
+      "model": "CHAPON FLOR PUNTEADA O.V EXTRA",
+      "price": 9000,
+      "minor_surcharge": 2000,
+      "category_id": "CINT03",
+      "categoryName": "CINTURON DE MUJER",
+      "store_id": "DSC-02",
+      "variations": [
+        {
+          "color": "Negro",
+          "size": "2XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-0451251a-Negro-2XL"
+        },
+        {
+          "color": "Negro",
+          "size": "3XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-0451251a-Negro-3XL"
+        }
+      ]
+    },
+    {
+      "id": "2cc15f84",
+      "model": "CHAPON CALADO P.V EXTRA",
+      "price": 9000,
+      "minor_surcharge": 2000,
+      "category_id": "CINT03",
+      "categoryName": "CINTURON DE MUJER",
+      "store_id": "DSC-02",
+      "variations": [
+        {
+          "color": "Negro",
+          "size": "2XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-2cc15f84-Negro-2XL"
+        },
+        {
+          "color": "Negro",
+          "size": "3XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-2cc15f84-Negro-3XL"
         }
       ]
     }
