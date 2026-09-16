@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T10:54:10.283Z",
+  "generated_at": "2026-09-16T11:34:18.428Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -16955,6 +16955,290 @@
           "size": "3XL",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-2cc15f84-Negro-3XL"
+        }
+      ]
+    },
+    {
+      "id": "0b45bc8a",
+      "model": "CHAPON MANDALA GAMUZA NEGRO P.V",
+      "price": 7500,
+      "minor_surcharge": 2000,
+      "category_id": "CINT03",
+      "categoryName": "CINTURON DE MUJER",
+      "store_id": "DSC-02",
+      "variations": [
+        {
+          "color": "Negro",
+          "size": "S",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-0b45bc8a-Negro-S"
+        },
+        {
+          "color": "Negro",
+          "size": "M",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-0b45bc8a-Negro-M"
+        },
+        {
+          "color": "Negro",
+          "size": "L",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-0b45bc8a-Negro-L"
+        },
+        {
+          "color": "Negro",
+          "size": "XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-0b45bc8a-Negro-XL"
+        }
+      ]
+    },
+    {
+      "id": "5e4b847c",
+      "model": "CHAPON UNIVERSO P.V",
+      "price": 7000,
+      "minor_surcharge": 2000,
+      "category_id": "CINT03",
+      "categoryName": "CINTURON DE MUJER",
+      "store_id": "DSC-02",
+      "variations": [
+        {
+          "color": "Negro",
+          "size": "S",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-5e4b847c-Negro-S"
+        },
+        {
+          "color": "Negro",
+          "size": "M",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-5e4b847c-Negro-M"
+        },
+        {
+          "color": "Negro",
+          "size": "L",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-5e4b847c-Negro-L"
+        },
+        {
+          "color": "Negro",
+          "size": "XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-5e4b847c-Negro-XL"
+        },
+        {
+          "color": "Blanco",
+          "size": "S",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-5e4b847c-Blanco-S"
+        },
+        {
+          "color": "Blanco",
+          "size": "M",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-5e4b847c-Blanco-M"
+        },
+        {
+          "color": "Blanco",
+          "size": "L",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-5e4b847c-Blanco-L"
+        },
+        {
+          "color": "Blanco",
+          "size": "XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-5e4b847c-Blanco-XL"
+        },
+        {
+          "color": "Marron",
+          "size": "S",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-5e4b847c-Marron-S"
+        },
+        {
+          "color": "Marron",
+          "size": "M",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-5e4b847c-Marron-M"
+        },
+        {
+          "color": "Marron",
+          "size": "L",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-5e4b847c-Marron-L"
+        },
+        {
+          "color": "Marron",
+          "size": "XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-5e4b847c-Marron-XL"
+        }
+      ]
+    },
+    {
+      "id": "4bef334b",
+      "model": "CHAPON UNIVERSO O.V",
+      "price": 7000,
+      "minor_surcharge": 2000,
+      "category_id": "CINT03",
+      "categoryName": "CINTURON DE MUJER",
+      "store_id": "DSC-02",
+      "variations": [
+        {
+          "color": "Negro",
+          "size": "S",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-4bef334b-Negro-S"
+        },
+        {
+          "color": "Negro",
+          "size": "M",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-4bef334b-Negro-M"
+        },
+        {
+          "color": "Negro",
+          "size": "L",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-4bef334b-Negro-L"
+        },
+        {
+          "color": "Negro",
+          "size": "XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-4bef334b-Negro-XL"
+        },
+        {
+          "color": "Blanco",
+          "size": "S",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-4bef334b-Blanco-S"
+        },
+        {
+          "color": "Blanco",
+          "size": "M",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-4bef334b-Blanco-M"
+        },
+        {
+          "color": "Blanco",
+          "size": "L",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-4bef334b-Blanco-L"
+        },
+        {
+          "color": "Blanco",
+          "size": "XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-4bef334b-Blanco-XL"
+        },
+        {
+          "color": "Marron",
+          "size": "S",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-4bef334b-Marron-S"
+        },
+        {
+          "color": "Marron",
+          "size": "M",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-4bef334b-Marron-M"
+        },
+        {
+          "color": "Marron",
+          "size": "L",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-4bef334b-Marron-L"
+        },
+        {
+          "color": "Marron",
+          "size": "XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-4bef334b-Marron-XL"
+        }
+      ]
+    },
+    {
+      "id": "8bded7f7",
+      "model": "CHAPON TREBOL P.V",
+      "price": 7000,
+      "minor_surcharge": 2000,
+      "category_id": "CINT03",
+      "categoryName": "CINTURON DE MUJER",
+      "store_id": "DSC-02",
+      "variations": [
+        {
+          "color": "Negro",
+          "size": "S",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-8bded7f7-Negro-S"
+        },
+        {
+          "color": "Negro",
+          "size": "M",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-8bded7f7-Negro-M"
+        },
+        {
+          "color": "Negro",
+          "size": "L",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-8bded7f7-Negro-L"
+        },
+        {
+          "color": "Negro",
+          "size": "XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-8bded7f7-Negro-XL"
+        },
+        {
+          "color": "Blanco",
+          "size": "S",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-8bded7f7-Blanco-S"
+        },
+        {
+          "color": "Blanco",
+          "size": "M",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-8bded7f7-Blanco-M"
+        },
+        {
+          "color": "Blanco",
+          "size": "L",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-8bded7f7-Blanco-L"
+        },
+        {
+          "color": "Blanco",
+          "size": "XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-8bded7f7-Blanco-XL"
+        },
+        {
+          "color": "Marron",
+          "size": "S",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-8bded7f7-Marron-S"
+        },
+        {
+          "color": "Marron",
+          "size": "M",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-8bded7f7-Marron-M"
+        },
+        {
+          "color": "Marron",
+          "size": "L",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-8bded7f7-Marron-L"
+        },
+        {
+          "color": "Marron",
+          "size": "XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-8bded7f7-Marron-XL"
         }
       ]
     }
