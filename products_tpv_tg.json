@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T11:34:16.686Z",
+  "generated_at": "2026-09-17T15:34:16.442Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -12516,6 +12516,30 @@
           "size": "95/100",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-CO00178-Negro-95/100"
+        },
+        {
+          "color": "SUELA",
+          "size": "85/90",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-CO00178-SUELA-85/90"
+        },
+        {
+          "color": "SUELA",
+          "size": "95/100",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-CO00178-SUELA-95/100"
+        },
+        {
+          "color": "SUELA",
+          "size": "105/110",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-CO00178-SUELA-105/110"
+        },
+        {
+          "color": "SUELA",
+          "size": "115/120",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-CO00178-SUELA-115/120"
         }
       ]
     },
