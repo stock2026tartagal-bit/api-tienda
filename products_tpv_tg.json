@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T11:34:17.359Z",
+  "generated_at": "2026-09-18T15:34:18.124Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -8607,7 +8607,7 @@
     {
       "id": "a38840c0",
       "model": "ALGODON DE 30",
-      "price": 5000,
+      "price": 5500,
       "minor_surcharge": 2000,
       "category_id": "CINT02",
       "categoryName": "CINTURON DE HOMBRE",
@@ -9070,7 +9070,7 @@
     {
       "id": "ae0e02bf",
       "model": "ALGODON DE 40",
-      "price": 6000,
+      "price": 6500,
       "minor_surcharge": 2000,
       "category_id": "CINT02",
       "categoryName": "CINTURON DE HOMBRE",
@@ -9340,7 +9340,7 @@
     {
       "id": "b9cd68d2",
       "model": "DESCARNE 35 O.V",
-      "price": 7500,
+      "price": 8500,
       "minor_surcharge": 2000,
       "category_id": "CINT02",
       "categoryName": "CINTURON DE HOMBRE",
@@ -11784,7 +11784,7 @@
     {
       "id": "CO00097",
       "model": "DESCARNE 35 NIQUEL",
-      "price": 8000,
+      "price": 8500,
       "minor_surcharge": 2000,
       "category_id": "CINT02",
       "categoryName": "CINTURON DE HOMBRE",
@@ -12046,7 +12046,7 @@
     {
       "id": "CO00113",
       "model": "DESCARNE 40",
-      "price": 8000,
+      "price": 9000,
       "minor_surcharge": 2000,
       "category_id": "CINT02",
       "categoryName": "CINTURON DE HOMBRE",
@@ -12249,7 +12249,7 @@
     {
       "id": "CO00114",
       "model": "DESCARNE 40 EXTRA",
-      "price": 10000,
+      "price": 11000,
       "minor_surcharge": 2000,
       "category_id": "HOMB14",
       "categoryName": "HOMBRE EXTRA LARGO",
@@ -12356,7 +12356,7 @@
     {
       "id": "CO00130",
       "model": "PERFORADO REDONDO",
-      "price": 8000,
+      "price": 9000,
       "minor_surcharge": 2000,
       "category_id": "CINT02",
       "categoryName": "CINTURON DE HOMBRE",
@@ -12487,7 +12487,7 @@
     {
       "id": "CO00178",
       "model": "PERFORADO REMACHE",
-      "price": 9500,
+      "price": 10000,
       "minor_surcharge": 2000,
       "category_id": "CINT02",
       "categoryName": "CINTURON DE HOMBRE",
@@ -13962,7 +13962,7 @@
     {
       "id": "e395d0b8",
       "model": "PERF REDONDO EXTRA",
-      "price": 10000,
+      "price": 12000,
       "minor_surcharge": 2000,
       "category_id": "HOMB14",
       "categoryName": "HOMBRE EXTRA LARGO",
