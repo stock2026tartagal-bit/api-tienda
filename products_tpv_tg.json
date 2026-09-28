@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T15:34:18.321Z",
+  "generated_at": "2026-09-28T19:34:19.892Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -606,7 +606,7 @@
     },
     {
       "id": "02801b6c",
-      "model": "GAMUZA MUJER",
+      "model": "TEJANA DE 40 GAMUZA",
       "price": 6500,
       "minor_surcharge": 2000,
       "category_id": "CINT03",
@@ -1770,7 +1770,7 @@
     },
     {
       "id": "1185e8a2",
-      "model": "GAMUZA MUJER EXTRA",
+      "model": "TEJANA DE  40 GAMUZA",
       "price": 8500,
       "minor_surcharge": 2000,
       "category_id": "MUJE13",
