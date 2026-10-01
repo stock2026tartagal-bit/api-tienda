@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T15:34:21.102Z",
+  "generated_at": "2026-10-01T17:49:17.682Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -17263,6 +17263,51 @@
           "size": "XL",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-8bded7f7-Marron-XL"
+        }
+      ]
+    },
+    {
+      "id": "9eac8426",
+      "model": "CHAPON BURBUJA O.V",
+      "price": 7000,
+      "minor_surcharge": 2000,
+      "category_id": "CINT03",
+      "categoryName": "CINTURON DE MUJER",
+      "store_id": "DSC-02",
+      "variations": []
+    },
+    {
+      "id": "1f1c7e5c",
+      "model": "CHAPON BURBUJA NIQUEL",
+      "price": 7000,
+      "minor_surcharge": 2000,
+      "category_id": "CINT03",
+      "categoryName": "CINTURON DE MUJER",
+      "store_id": "DSC-02",
+      "variations": [
+        {
+          "color": "Negro",
+          "size": "S",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-1f1c7e5c-Negro-S"
+        },
+        {
+          "color": "Negro",
+          "size": "M",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-1f1c7e5c-Negro-M"
+        },
+        {
+          "color": "Negro",
+          "size": "L",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-1f1c7e5c-Negro-L"
+        },
+        {
+          "color": "Negro",
+          "size": "XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-1f1c7e5c-Negro-XL"
         }
       ]
     }
