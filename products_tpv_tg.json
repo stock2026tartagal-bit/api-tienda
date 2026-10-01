@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T17:49:17.682Z",
+  "generated_at": "2026-10-01T19:34:19.213Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -4237,113 +4237,6 @@
           "size": "XL",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-3d0f980b-Negro-XL"
-        }
-      ]
-    },
-    {
-      "id": "3d60bee2",
-      "model": "CHAPON CUADRADA BOLITA NIQ",
-      "price": 7000,
-      "minor_surcharge": 2000,
-      "category_id": "CINT03",
-      "categoryName": "CINTURON DE MUJER",
-      "store_id": "DSC-02",
-      "variations": [
-        {
-          "color": "Beige",
-          "size": "L",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-3d60bee2-Beige-L"
-        },
-        {
-          "color": "Beige",
-          "size": "M",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-3d60bee2-Beige-M"
-        },
-        {
-          "color": "Beige",
-          "size": "S",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-3d60bee2-Beige-S"
-        },
-        {
-          "color": "Beige",
-          "size": "XL",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-3d60bee2-Beige-XL"
-        },
-        {
-          "color": "Blanco",
-          "size": "L",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-3d60bee2-Blanco-L"
-        },
-        {
-          "color": "Blanco",
-          "size": "M",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-3d60bee2-Blanco-M"
-        },
-        {
-          "color": "Blanco",
-          "size": "S",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-3d60bee2-Blanco-S"
-        },
-        {
-          "color": "Blanco",
-          "size": "XL",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-3d60bee2-Blanco-XL"
-        },
-        {
-          "color": "Marron",
-          "size": "L",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-3d60bee2-Marron-L"
-        },
-        {
-          "color": "Marron",
-          "size": "M",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-3d60bee2-Marron-M"
-        },
-        {
-          "color": "Marron",
-          "size": "S",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-3d60bee2-Marron-S"
-        },
-        {
-          "color": "Marron",
-          "size": "XL",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-3d60bee2-Marron-XL"
-        },
-        {
-          "color": "Negro",
-          "size": "L",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-3d60bee2-Negro-L"
-        },
-        {
-          "color": "Negro",
-          "size": "M",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-3d60bee2-Negro-M"
-        },
-        {
-          "color": "Negro",
-          "size": "S",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-3d60bee2-Negro-S"
-        },
-        {
-          "color": "Negro",
-          "size": "XL",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-3d60bee2-Negro-XL"
         }
       ]
     },
@@ -12540,6 +12433,54 @@
           "size": "115/120",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-CO00178-SUELA-115/120"
+        },
+        {
+          "color": "Blanco",
+          "size": "85/90",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-CO00178-Blanco-85/90"
+        },
+        {
+          "color": "Blanco",
+          "size": "95/100",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-CO00178-Blanco-95/100"
+        },
+        {
+          "color": "Blanco",
+          "size": "105/110",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-CO00178-Blanco-105/110"
+        },
+        {
+          "color": "Blanco",
+          "size": "115/120",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-CO00178-Blanco-115/120"
+        },
+        {
+          "color": "Marron",
+          "size": "85/90",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-CO00178-Marron-85/90"
+        },
+        {
+          "color": "Marron",
+          "size": "95/100",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-CO00178-Marron-95/100"
+        },
+        {
+          "color": "Marron",
+          "size": "105/110",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-CO00178-Marron-105/110"
+        },
+        {
+          "color": "Marron",
+          "size": "115/120",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-CO00178-Marron-115/120"
         }
       ]
     },
@@ -16914,29 +16855,6 @@
       ]
     },
     {
-      "id": "5bc1ab1b",
-      "model": "CHAPON FLOR PUNTEADA P.V EXTRA",
-      "price": 9000,
-      "minor_surcharge": 2000,
-      "category_id": "CINT03",
-      "categoryName": "CINTURON DE MUJER",
-      "store_id": "DSC-02",
-      "variations": [
-        {
-          "color": "Negro",
-          "size": "2XL",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-5bc1ab1b-Negro-2XL"
-        },
-        {
-          "color": "Negro",
-          "size": "3XL",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-5bc1ab1b-Negro-3XL"
-        }
-      ]
-    },
-    {
       "id": "0451251a",
       "model": "CHAPON FLOR PUNTEADA O.V EXTRA",
       "price": 9000,
@@ -17278,7 +17196,7 @@
     },
     {
       "id": "1f1c7e5c",
-      "model": "CHAPON BURBUJA NIQUEL",
+      "model": "CHAPON BURBUJA PLATA VIEJA",
       "price": 7000,
       "minor_surcharge": 2000,
       "category_id": "CINT03",
@@ -17310,6 +17228,16 @@
           "variation_id": "DSC-02-1f1c7e5c-Negro-XL"
         }
       ]
+    },
+    {
+      "id": "5e6d1a67",
+      "model": "FLOR PUNTEADA REDONDO PLATA VIEJA",
+      "price": 7000,
+      "minor_surcharge": 2000,
+      "category_id": "CINT03",
+      "categoryName": "CINTURON DE MUJER",
+      "store_id": "DSC-02",
+      "variations": []
     }
   ]
 }
