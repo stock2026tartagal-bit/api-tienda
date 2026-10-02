@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T11:34:18.993Z",
+  "generated_at": "2026-10-02T15:34:17.979Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -12481,6 +12481,54 @@
           "size": "115/120",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-CO00178-Marron-115/120"
+        },
+        {
+          "color": "Beige",
+          "size": "85/90",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-CO00178-Beige-85/90"
+        },
+        {
+          "color": "Beige",
+          "size": "95/100",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-CO00178-Beige-95/100"
+        },
+        {
+          "color": "Beige",
+          "size": "105/110",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-CO00178-Beige-105/110"
+        },
+        {
+          "color": "Beige",
+          "size": "115/120",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-CO00178-Beige-115/120"
+        },
+        {
+          "color": "Bordo",
+          "size": "85/90",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-CO00178-Bordo-85/90"
+        },
+        {
+          "color": "Bordo",
+          "size": "95/100",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-CO00178-Bordo-95/100"
+        },
+        {
+          "color": "Bordo",
+          "size": "105/110",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-CO00178-Bordo-105/110"
+        },
+        {
+          "color": "Bordo",
+          "size": "115/120",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-CO00178-Bordo-115/120"
         }
       ]
     },
@@ -17192,7 +17240,32 @@
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
       "store_id": "DSC-02",
-      "variations": []
+      "variations": [
+        {
+          "color": "Negro",
+          "size": "S",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-9eac8426-Negro-S"
+        },
+        {
+          "color": "Negro",
+          "size": "M",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-9eac8426-Negro-M"
+        },
+        {
+          "color": "Negro",
+          "size": "L",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-9eac8426-Negro-L"
+        },
+        {
+          "color": "Negro",
+          "size": "XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-9eac8426-Negro-XL"
+        }
+      ]
     },
     {
       "id": "1f1c7e5c",
@@ -17238,6 +17311,76 @@
       "categoryName": "CINTURON DE MUJER",
       "store_id": "DSC-02",
       "variations": []
+    },
+    {
+      "id": "c7ad2641",
+      "model": "CHAPON ESCAMAS O.V",
+      "price": 7000,
+      "minor_surcharge": 2000,
+      "category_id": "CINT03",
+      "categoryName": "CINTURON DE MUJER",
+      "store_id": "DSC-02",
+      "variations": [
+        {
+          "color": "Arena",
+          "size": "S",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-c7ad2641-Arena-S"
+        },
+        {
+          "color": "Arena",
+          "size": "M",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-c7ad2641-Arena-M"
+        },
+        {
+          "color": "Arena",
+          "size": "L",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-c7ad2641-Arena-L"
+        },
+        {
+          "color": "Arena",
+          "size": "XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-c7ad2641-Arena-XL"
+        }
+      ]
+    },
+    {
+      "id": "a563dc83",
+      "model": "CHAPON ESCAMAS P.V",
+      "price": 7000,
+      "minor_surcharge": 2000,
+      "category_id": "CINT03",
+      "categoryName": "CINTURON DE MUJER",
+      "store_id": "DSC-02",
+      "variations": [
+        {
+          "color": "Arena",
+          "size": "S",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-a563dc83-Arena-S"
+        },
+        {
+          "color": "Arena",
+          "size": "M",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-a563dc83-Arena-M"
+        },
+        {
+          "color": "Arena",
+          "size": "L",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-a563dc83-Arena-L"
+        },
+        {
+          "color": "Arena",
+          "size": "XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-a563dc83-Arena-XL"
+        }
+      ]
     }
   ]
 }
