@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T11:34:16.888Z",
+  "generated_at": "2026-10-03T15:34:17.576Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -13110,12 +13110,6 @@
           "variation_id": "DSC-02-d41bb006-Blanco-75/80"
         },
         {
-          "color": "Blanco",
-          "size": "85/90",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-d41bb006-Blanco-85/90"
-        },
-        {
           "color": "Gris",
           "size": "55/60",
           "store_id": "DSC-02",
@@ -13134,12 +13128,6 @@
           "variation_id": "DSC-02-d41bb006-Gris-75/80"
         },
         {
-          "color": "Gris",
-          "size": "85/90",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-d41bb006-Gris-85/90"
-        },
-        {
           "color": "Marron",
           "size": "55/60",
           "store_id": "DSC-02",
@@ -13156,12 +13144,6 @@
           "size": "75/80",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-d41bb006-Marron-75/80"
-        },
-        {
-          "color": "Marron",
-          "size": "85/90",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-d41bb006-Marron-85/90"
         },
         {
           "color": "Negro",
@@ -17381,6 +17363,16 @@
           "variation_id": "DSC-02-a563dc83-Arena-XL"
         }
       ]
+    },
+    {
+      "id": "a65c87fe",
+      "model": "PORTACELULAR",
+      "price": 8000,
+      "minor_surcharge": 2000,
+      "category_id": "RIÑO07",
+      "categoryName": "RIÑONERA Y MORRAL",
+      "store_id": "DSC-02",
+      "variations": []
     }
   ]
 }
