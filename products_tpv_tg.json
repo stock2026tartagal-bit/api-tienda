@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T15:34:17.695Z",
+  "generated_at": "2026-10-06T19:34:20.679Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -5668,7 +5668,7 @@
     {
       "id": "601d93b0",
       "model": "4 COSTURAS",
-      "price": 8500,
+      "price": 9000,
       "minor_surcharge": 2000,
       "category_id": "CINT02",
       "categoryName": "CINTURON DE HOMBRE",
