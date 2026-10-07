@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T11:34:17.007Z",
+  "generated_at": "2026-10-07T15:34:22.648Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -11511,7 +11511,7 @@
     {
       "id": "CO00073",
       "model": "PASADOR CON MARCA",
-      "price": 7000,
+      "price": 7500,
       "minor_surcharge": 2000,
       "category_id": "CINT02",
       "categoryName": "CINTURON DE HOMBRE",
