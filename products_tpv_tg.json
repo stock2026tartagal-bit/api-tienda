@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T15:34:17.458Z",
+  "generated_at": "2026-10-10T19:34:19.391Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -16090,6 +16090,18 @@
           "size": "S/T",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-prueba-Negro-S/T"
+        },
+        {
+          "color": "Blanco",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-prueba-Blanco-S/T"
+        },
+        {
+          "color": "Rojo",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-prueba-Rojo-S/T"
         }
       ]
     },
