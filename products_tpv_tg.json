@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T11:34:20.804Z",
+  "generated_at": "2026-10-10T15:34:17.458Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -17416,6 +17416,133 @@
           "size": "XL",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-77f9e86b-Negro-XL"
+        }
+      ]
+    },
+    {
+      "id": "27ef9f05",
+      "model": "SOL DE MAYO O.V EXTRA",
+      "price": 9000,
+      "minor_surcharge": 2000,
+      "category_id": "CINT03",
+      "categoryName": "CINTURON DE MUJER",
+      "store_id": "DSC-02",
+      "variations": [
+        {
+          "color": "Negro",
+          "size": "2XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-27ef9f05-Negro-2XL"
+        },
+        {
+          "color": "Negro",
+          "size": "3XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-27ef9f05-Negro-3XL"
+        }
+      ]
+    },
+    {
+      "id": "9fe210d2",
+      "model": "SOL DE MAYO P.V EXTRA",
+      "price": 9000,
+      "minor_surcharge": 2000,
+      "category_id": "CINT03",
+      "categoryName": "CINTURON DE MUJER",
+      "store_id": "DSC-02",
+      "variations": [
+        {
+          "color": "Negro",
+          "size": "2XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-9fe210d2-Negro-2XL"
+        },
+        {
+          "color": "Negro",
+          "size": "3XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-9fe210d2-Negro-3XL"
+        }
+      ]
+    },
+    {
+      "id": "9b6db466",
+      "model": "CHAPON MANDALA O.V EXTRA",
+      "price": 9000,
+      "minor_surcharge": 2000,
+      "category_id": "CINT03",
+      "categoryName": "CINTURON DE MUJER",
+      "store_id": "DSC-02",
+      "variations": [
+        {
+          "color": "Negro",
+          "size": "2XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-9b6db466-Negro-2XL"
+        },
+        {
+          "color": "Negro",
+          "size": "3XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-9b6db466-Negro-3XL"
+        }
+      ]
+    },
+    {
+      "id": "5ed94ee5",
+      "model": "MEDIA TRENZA",
+      "price": 4000,
+      "minor_surcharge": 2000,
+      "category_id": "CINT03",
+      "categoryName": "CINTURON DE MUJER",
+      "store_id": "DSC-02",
+      "variations": [
+        {
+          "color": "Negro",
+          "size": "S",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-5ed94ee5-Negro-S"
+        },
+        {
+          "color": "Negro",
+          "size": "M",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-5ed94ee5-Negro-M"
+        },
+        {
+          "color": "Negro",
+          "size": "L",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-5ed94ee5-Negro-L"
+        },
+        {
+          "color": "Negro",
+          "size": "XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-5ed94ee5-Negro-XL"
+        }
+      ]
+    },
+    {
+      "id": "e7df9bed",
+      "model": "MEDIA TRENZA EXTRA",
+      "price": 6000,
+      "minor_surcharge": 2000,
+      "category_id": "CINT03",
+      "categoryName": "CINTURON DE MUJER",
+      "store_id": "DSC-02",
+      "variations": [
+        {
+          "color": "Negro",
+          "size": "2XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-e7df9bed-Negro-2XL"
+        },
+        {
+          "color": "Negro",
+          "size": "3XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-e7df9bed-Negro-3XL"
         }
       ]
     }
