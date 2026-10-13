@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T11:34:18.806Z",
+  "generated_at": "2026-10-13T15:34:21.978Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -17384,7 +17384,20 @@
       "category_id": "RIÑO07",
       "categoryName": "RIÑONERA Y MORRAL",
       "store_id": "DSC-02",
-      "variations": []
+      "variations": [
+        {
+          "color": "Amarillo mostaza",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-a65c87fe-Amarillo mostaza-S/T"
+        },
+        {
+          "color": "Rosa",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-a65c87fe-Rosa-S/T"
+        }
+      ]
     },
     {
       "id": "c9517ff2",
@@ -17555,6 +17568,29 @@
           "size": "3XL",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-e7df9bed-Negro-3XL"
+        }
+      ]
+    },
+    {
+      "id": "986a1e7e",
+      "model": "BANDOLERA LUNA",
+      "price": 7000,
+      "minor_surcharge": 2000,
+      "category_id": "MOCH08",
+      "categoryName": "MOCHILAS",
+      "store_id": "DSC-02",
+      "variations": [
+        {
+          "color": "Negro",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-986a1e7e-Negro-S/T"
+        },
+        {
+          "color": "Amarillo mostaza",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-986a1e7e-Amarillo mostaza-S/T"
         }
       ]
     }
