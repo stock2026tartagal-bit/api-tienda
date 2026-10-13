@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T15:34:21.978Z",
+  "generated_at": "2026-10-13T19:34:17.831Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -8699,7 +8699,7 @@
     {
       "id": "a8487c98",
       "model": "BOLSO",
-      "price": 13000,
+      "price": 15000,
       "minor_surcharge": 2000,
       "category_id": "MOCH08",
       "categoryName": "MOCHILAS",
@@ -17574,7 +17574,7 @@
     {
       "id": "986a1e7e",
       "model": "BANDOLERA LUNA",
-      "price": 7000,
+      "price": 13000,
       "minor_surcharge": 2000,
       "category_id": "MOCH08",
       "categoryName": "MOCHILAS",
