@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T11:34:16.454Z",
+  "generated_at": "2026-10-15T15:34:17.293Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -17591,6 +17591,23 @@
           "size": "S/T",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-986a1e7e-Amarillo mostaza-S/T"
+        }
+      ]
+    },
+    {
+      "id": "d4795775",
+      "model": "ANIMAL PRINT TEJANA",
+      "price": 6500,
+      "minor_surcharge": 2000,
+      "category_id": "IMPO09",
+      "categoryName": "IMPORTADOS",
+      "store_id": "DSC-02",
+      "variations": [
+        {
+          "color": "Marron",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-d4795775-Marron-S/T"
         }
       ]
     }
