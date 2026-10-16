@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T11:34:18.941Z",
+  "generated_at": "2026-10-16T15:34:17.306Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -606,7 +606,7 @@
     },
     {
       "id": "02801b6c",
-      "model": "TEJANA DE 40 GAMUZA",
+      "model": "TEJANA 40 GAMUZA",
       "price": 6500,
       "minor_surcharge": 2000,
       "category_id": "CINT03",
@@ -1770,7 +1770,7 @@
     },
     {
       "id": "1185e8a2",
-      "model": "TEJANA DE  40 GAMUZA",
+      "model": "TEJANA 40 GAMUZA EXTRA",
       "price": 8500,
       "minor_surcharge": 2000,
       "category_id": "MUJE13",
