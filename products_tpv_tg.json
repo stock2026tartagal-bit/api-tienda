@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T11:34:18.502Z",
+  "generated_at": "2026-10-17T15:34:18.447Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -17610,6 +17610,39 @@
           "variation_id": "DSC-02-d4795775-Marron-S/T"
         }
       ]
+    },
+    {
+      "id": "7942359e",
+      "model": "RIÑONERA SILVI",
+      "price": 15000,
+      "minor_surcharge": 2000,
+      "category_id": "RIÑO07",
+      "categoryName": "RIÑONERA Y MORRAL",
+      "store_id": "DSC-02",
+      "variations": [
+        {
+          "color": "Negro",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-7942359e-Negro-S/T"
+        },
+        {
+          "color": "Marron",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-7942359e-Marron-S/T"
+        }
+      ]
+    },
+    {
+      "id": "2a13bca7",
+      "model": "RIÑONERA SILVI",
+      "price": 15000,
+      "minor_surcharge": 2000,
+      "category_id": "RIÑO07",
+      "categoryName": "RIÑONERA Y MORRAL",
+      "store_id": "DSC-02",
+      "variations": []
     }
   ]
 }
