@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T11:34:16.373Z",
+  "generated_at": "2026-10-20T15:34:19.071Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -1518,7 +1518,7 @@
     {
       "id": "0e87cd1a",
       "model": "REVERSIBLE 35",
-      "price": 13000,
+      "price": 15000,
       "minor_surcharge": 2000,
       "category_id": "CINT02",
       "categoryName": "CINTURON DE HOMBRE",
@@ -8159,7 +8159,7 @@
     },
     {
       "id": "9d3de0e9",
-      "model": "FAJA CIRCULO CHICO",
+      "model": "FAJA CIRCULO CHICO IMPORTADA",
       "price": 7500,
       "minor_surcharge": 2000,
       "category_id": "FAJA04",
@@ -17643,6 +17643,46 @@
       "categoryName": "RIÑONERA Y MORRAL",
       "store_id": "DSC-02",
       "variations": []
+    },
+    {
+      "id": "54b73de6",
+      "model": "FAJA CIRCULO CHICO EXTRA",
+      "price": 9500,
+      "minor_surcharge": 2000,
+      "category_id": "FAJA04",
+      "categoryName": "FAJA DE MUJER",
+      "store_id": "DSC-02",
+      "variations": [
+        {
+          "color": "Negro",
+          "size": "23",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-54b73de6-Negro-23"
+        }
+      ]
+    },
+    {
+      "id": "328e2dea",
+      "model": "FAJA CIRCULO CHICO",
+      "price": 7500,
+      "minor_surcharge": 2000,
+      "category_id": "FAJA04",
+      "categoryName": "FAJA DE MUJER",
+      "store_id": "DSC-02",
+      "variations": [
+        {
+          "color": "Negro",
+          "size": "17",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-328e2dea-Negro-17"
+        },
+        {
+          "color": "Negro",
+          "size": "19",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-328e2dea-Negro-19"
+        }
+      ]
     }
   ]
 }
