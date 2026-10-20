@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T15:34:19.071Z",
+  "generated_at": "2026-10-20T19:34:25.786Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -1435,7 +1435,7 @@
     {
       "id": "0e441cc1",
       "model": "GOLPEADA",
-      "price": 3500,
+      "price": 4000,
       "minor_surcharge": 2500,
       "category_id": "350015",
       "categoryName": "$3.500",
@@ -5992,7 +5992,7 @@
     {
       "id": "63e54f91",
       "model": "MATERA",
-      "price": 15000,
+      "price": 17000,
       "minor_surcharge": 2000,
       "category_id": "MOCH08",
       "categoryName": "MOCHILAS",
