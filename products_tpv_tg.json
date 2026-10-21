@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T11:34:21.163Z",
+  "generated_at": "2026-10-21T15:34:19.557Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -8951,16 +8951,6 @@
       ]
     },
     {
-      "id": "ac5d7f43",
-      "model": "CUADRADA O.V EXTRA",
-      "price": 6500,
-      "minor_surcharge": 1000,
-      "category_id": "CINT03",
-      "categoryName": "CINTURON DE MUJER",
-      "store_id": "DSC-02",
-      "variations": []
-    },
-    {
       "id": "ae0e02bf",
       "model": "ALGODON DE 40",
       "price": 6500,
@@ -13729,7 +13719,7 @@
     {
       "id": "de82ff7d",
       "model": "GOLPEADA EXTRA",
-      "price": 6000,
+      "price": 6500,
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
@@ -13810,6 +13800,30 @@
           "size": "XL",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-e0ced1c9-Negro-XL"
+        },
+        {
+          "color": "Blanco",
+          "size": "S",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-e0ced1c9-Blanco-S"
+        },
+        {
+          "color": "Blanco",
+          "size": "M",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-e0ced1c9-Blanco-M"
+        },
+        {
+          "color": "Blanco",
+          "size": "L",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-e0ced1c9-Blanco-L"
+        },
+        {
+          "color": "Blanco",
+          "size": "XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-e0ced1c9-Blanco-XL"
         }
       ]
     },
@@ -17681,6 +17695,52 @@
           "size": "19",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-328e2dea-Negro-19"
+        }
+      ]
+    },
+    {
+      "id": "57672403",
+      "model": "LABRADA CRUZ EXTRA",
+      "price": 6000,
+      "minor_surcharge": 2000,
+      "category_id": "CINT03",
+      "categoryName": "CINTURON DE MUJER",
+      "store_id": "DSC-02",
+      "variations": [
+        {
+          "color": "Negro",
+          "size": "2XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-57672403-Negro-2XL"
+        },
+        {
+          "color": "Negro",
+          "size": "3XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-57672403-Negro-3XL"
+        }
+      ]
+    },
+    {
+      "id": "fe6d1892",
+      "model": "OVALADA DOBLE",
+      "price": 6000,
+      "minor_surcharge": 2000,
+      "category_id": "CINT03",
+      "categoryName": "CINTURON DE MUJER",
+      "store_id": "DSC-02",
+      "variations": [
+        {
+          "color": "Negro",
+          "size": "2XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-fe6d1892-Negro-2XL"
+        },
+        {
+          "color": "Negro",
+          "size": "3XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-fe6d1892-Negro-3XL"
         }
       ]
     }
