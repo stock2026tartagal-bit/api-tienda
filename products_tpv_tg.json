@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T15:34:17.348Z",
+  "generated_at": "2026-10-22T19:34:20.045Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -14970,7 +14970,7 @@
     {
       "id": "ef869817",
       "model": "MINI LISA",
-      "price": 9000,
+      "price": 10500,
       "minor_surcharge": 2000,
       "category_id": "MOCH08",
       "categoryName": "MOCHILAS",
