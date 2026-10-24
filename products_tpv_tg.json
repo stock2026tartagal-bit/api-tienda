@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T11:34:16.016Z",
+  "generated_at": "2026-10-24T15:34:17.347Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -17800,6 +17800,53 @@
           "size": "L",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-c84f28b7-Blanco-L"
+        }
+      ]
+    },
+    {
+      "id": "824d13ca",
+      "model": "LABRADA GAMUZA O.V",
+      "price": 8500,
+      "minor_surcharge": 2000,
+      "category_id": "CINT03",
+      "categoryName": "CINTURON DE MUJER",
+      "store_id": "DSC-02",
+      "variations": [
+        {
+          "color": "Negro",
+          "size": "2XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-824d13ca-Negro-2XL"
+        },
+        {
+          "color": "Negro",
+          "size": "3XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-824d13ca-Negro-3XL"
+        },
+        {
+          "color": "Marron",
+          "size": "2XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-824d13ca-Marron-2XL"
+        },
+        {
+          "color": "Marron",
+          "size": "3XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-824d13ca-Marron-3XL"
+        },
+        {
+          "color": "Beige",
+          "size": "2XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-824d13ca-Beige-2XL"
+        },
+        {
+          "color": "Beige",
+          "size": "3XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-824d13ca-Beige-3XL"
         }
       ]
     }
