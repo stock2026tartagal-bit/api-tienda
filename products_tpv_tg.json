@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T11:34:18.131Z",
+  "generated_at": "2026-10-26T15:34:26.759Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -7784,6 +7784,18 @@
           "size": "3XL",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-8e9bf81a-Negro-3XL"
+        },
+        {
+          "color": "Beige",
+          "size": "2XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-8e9bf81a-Beige-2XL"
+        },
+        {
+          "color": "Beige",
+          "size": "3XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-8e9bf81a-Beige-3XL"
         }
       ]
     },
@@ -10945,7 +10957,7 @@
     },
     {
       "id": "cd5d07a2",
-      "model": "LABRADA GAMUZA EXTRA",
+      "model": "LABRADA 35 EXTRA",
       "price": 8500,
       "minor_surcharge": 2000,
       "category_id": "CINT03",
@@ -14784,7 +14796,7 @@
     {
       "id": "ecc5dd38",
       "model": "HERRADURA GAMUZA",
-      "price": 6500,
+      "price": 5500,
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
@@ -17805,7 +17817,7 @@
     },
     {
       "id": "824d13ca",
-      "model": "LABRADA GAMUZA O.V",
+      "model": "LABRADA GAMUZA O.V EXTRA",
       "price": 8500,
       "minor_surcharge": 2000,
       "category_id": "CINT03",
@@ -17847,6 +17859,29 @@
           "size": "3XL",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-824d13ca-Beige-3XL"
+        }
+      ]
+    },
+    {
+      "id": "b8a796ef",
+      "model": "HPP PRINT EXTRA",
+      "price": 7000,
+      "minor_surcharge": 2000,
+      "category_id": "CINT03",
+      "categoryName": "CINTURON DE MUJER",
+      "store_id": "DSC-02",
+      "variations": [
+        {
+          "color": "ANIMAL PRINT",
+          "size": "2XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-b8a796ef-ANIMAL PRINT-2XL"
+        },
+        {
+          "color": "ANIMAL PRINT",
+          "size": "3XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-b8a796ef-ANIMAL PRINT-3XL"
         }
       ]
     }
