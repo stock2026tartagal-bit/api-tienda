@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T15:34:17.211Z",
+  "generated_at": "2026-10-27T19:34:18.634Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -17882,6 +17882,71 @@
           "size": "3XL",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-b8a796ef-ANIMAL PRINT-3XL"
+        }
+      ]
+    },
+    {
+      "id": "d2fd8ca2",
+      "model": "VESTIR COSTURA 35",
+      "price": 16000,
+      "minor_surcharge": 2000,
+      "category_id": "CINT02",
+      "categoryName": "CINTURON DE HOMBRE",
+      "store_id": "DSC-02",
+      "variations": [
+        {
+          "color": "Negro",
+          "size": "85",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-d2fd8ca2-Negro-85"
+        },
+        {
+          "color": "Negro",
+          "size": "90",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-d2fd8ca2-Negro-90"
+        },
+        {
+          "color": "Negro",
+          "size": "95",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-d2fd8ca2-Negro-95"
+        },
+        {
+          "color": "Negro",
+          "size": "100",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-d2fd8ca2-Negro-100"
+        },
+        {
+          "color": "Negro",
+          "size": "105",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-d2fd8ca2-Negro-105"
+        },
+        {
+          "color": "Negro",
+          "size": "110",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-d2fd8ca2-Negro-110"
+        },
+        {
+          "color": "Negro",
+          "size": "115",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-d2fd8ca2-Negro-115"
+        },
+        {
+          "color": "Negro",
+          "size": "120",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-d2fd8ca2-Negro-120"
+        },
+        {
+          "color": "Negro",
+          "size": "125",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-d2fd8ca2-Negro-125"
         }
       ]
     }
