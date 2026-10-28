@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T04:05:55.860Z",
+  "generated_at": "2026-10-28T07:34:19.369Z",
   "stores": {
     "DSC-02": {
       "name": "DSC",
@@ -10,7 +10,9 @@
       "logoUrl": "https://www.appsheet.com/template/gettablefileurl?appName=TGSYSTEMV1-111910787&tableName=STORE&fileName=STORE_Images%2FDSC-02.LOGO.173441.jpg",
       "qrCodeUrl": "https://quickchart.io/qr?ecLevel=L&text=https%3A%2F%2Fwa.me%2F5491157122629",
       "localIp": "192.168.1.35",
-      "ticketType": "Texto Plano"
+      "ticketType": "Formato Tabla",
+      "closeTime": "17:00:00 p. m.",
+      "openTime": "7:00:00"
     }
   },
   "colors": {
