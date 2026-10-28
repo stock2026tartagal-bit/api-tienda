@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-28T14:08:19.073Z",
+  "generated_at": "2026-10-28T15:34:17.525Z",
   "stores": {
     "DSC-02": {
-      "name": "DSC",
+      "name": "TARTAGAL",
       "address": "Av. Cuenca 220 - Galeria Tres Estrellas - Local 1-4, CABA",
       "phone": "1157122629",
-      "website": "",
+      "website": "https://somostartagal.com/",
       "policies": "Los cambios solo se aceptan si se presenta el comprobante de compra, dentro de los 7 días hábiles posteriores a la compra.",
       "logoUrl": "https://www.appsheet.com/template/gettablefileurl?appName=TGSYSTEMV1-111910787&tableName=STORE&fileName=STORE_Images%2FDSC-02.LOGO.173441.jpg",
       "qrCodeUrl": "https://quickchart.io/qr?ecLevel=L&text=https%3A%2F%2Fwa.me%2F5491157122629",
@@ -17949,6 +17949,65 @@
           "size": "125",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-d2fd8ca2-Negro-125"
+        }
+      ]
+    },
+    {
+      "id": "d525f7bc",
+      "model": "CHAPON MANDALA O.V",
+      "price": 7000,
+      "minor_surcharge": 2000,
+      "category_id": "CINT03",
+      "categoryName": "CINTURON DE MUJER",
+      "store_id": "DSC-02",
+      "variations": [
+        {
+          "color": "Negro",
+          "size": "S",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-d525f7bc-Negro-S"
+        },
+        {
+          "color": "Negro",
+          "size": "M",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-d525f7bc-Negro-M"
+        },
+        {
+          "color": "Negro",
+          "size": "L",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-d525f7bc-Negro-L"
+        },
+        {
+          "color": "Negro",
+          "size": "XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-d525f7bc-Negro-XL"
+        },
+        {
+          "color": "Marron",
+          "size": "S",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-d525f7bc-Marron-S"
+        },
+        {
+          "color": "Marron",
+          "size": "M",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-d525f7bc-Marron-M"
+        },
+        {
+          "color": "Marron",
+          "size": "L",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-d525f7bc-Marron-L"
+        },
+        {
+          "color": "Marron",
+          "size": "XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-d525f7bc-Marron-XL"
         }
       ]
     }
