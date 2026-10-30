@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T11:53:50.879Z",
+  "generated_at": "2026-10-30T15:35:22.941Z",
   "stores": {
     "DSC-02": {
       "name": "TARTAGAL",
@@ -668,7 +668,7 @@
     {
       "id": "02da5b97",
       "model": "COSTURADO P.V",
-      "price": 5000,
+      "price": 5500,
       "minor_surcharge": 2000,
       "category_id": "CINT02",
       "categoryName": "CINTURON DE HOMBRE",
@@ -1520,7 +1520,7 @@
     {
       "id": "0e87cd1a",
       "model": "REVERSIBLE 35",
-      "price": 15000,
+      "price": 16000,
       "minor_surcharge": 2000,
       "category_id": "CINT02",
       "categoryName": "CINTURON DE HOMBRE",
@@ -2481,7 +2481,7 @@
     {
       "id": "1d6e284e",
       "model": "MARINERO",
-      "price": 4000,
+      "price": 5000,
       "minor_surcharge": 2000,
       "category_id": "CINT02",
       "categoryName": "CINTURON DE HOMBRE",
@@ -4245,7 +4245,7 @@
     {
       "id": "3e40cc94",
       "model": "CUERO GRABADO",
-      "price": 9500,
+      "price": 10500,
       "minor_surcharge": 2000,
       "category_id": "CINT02",
       "categoryName": "CINTURON DE HOMBRE",
@@ -5670,7 +5670,7 @@
     {
       "id": "601d93b0",
       "model": "4 COSTURAS",
-      "price": 9000,
+      "price": 9500,
       "minor_surcharge": 2000,
       "category_id": "CINT02",
       "categoryName": "CINTURON DE HOMBRE",
@@ -8514,7 +8514,7 @@
     {
       "id": "a38840c0",
       "model": "ALGODON DE 30",
-      "price": 5500,
+      "price": 6000,
       "minor_surcharge": 2000,
       "category_id": "CINT02",
       "categoryName": "CINTURON DE HOMBRE",
@@ -8967,7 +8967,7 @@
     {
       "id": "ae0e02bf",
       "model": "ALGODON DE 40",
-      "price": 6500,
+      "price": 7000,
       "minor_surcharge": 2000,
       "category_id": "CINT02",
       "categoryName": "CINTURON DE HOMBRE",
@@ -9638,7 +9638,7 @@
     {
       "id": "bff5ccb9",
       "model": "CLÁSICO MATE",
-      "price": 7500,
+      "price": 8500,
       "minor_surcharge": 2000,
       "category_id": "CINT02",
       "categoryName": "CINTURON DE HOMBRE",
@@ -10468,7 +10468,7 @@
     {
       "id": "cae79e47",
       "model": "HPP OJALILLO",
-      "price": 6500,
+      "price": 7000,
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
@@ -11124,7 +11124,7 @@
     {
       "id": "CO00001",
       "model": "COSTURADO",
-      "price": 5000,
+      "price": 5500,
       "minor_surcharge": 2000,
       "category_id": "CINT02",
       "categoryName": "CINTURON DE HOMBRE",
@@ -11338,7 +11338,7 @@
     {
       "id": "CO00034",
       "model": "PAMPA NIQUEL",
-      "price": 5200,
+      "price": 6000,
       "minor_surcharge": 2000,
       "category_id": "CINT02",
       "categoryName": "CINTURON DE HOMBRE",
@@ -11515,7 +11515,7 @@
     {
       "id": "CO00073",
       "model": "PASADOR CON MARCA",
-      "price": 7500,
+      "price": 8500,
       "minor_surcharge": 2000,
       "category_id": "CINT02",
       "categoryName": "CINTURON DE HOMBRE",
@@ -11681,7 +11681,7 @@
     {
       "id": "CO00097",
       "model": "DESCARNE 35 NIQUEL",
-      "price": 8500,
+      "price": 9500,
       "minor_surcharge": 2000,
       "category_id": "CINT02",
       "categoryName": "CINTURON DE HOMBRE",
@@ -11943,7 +11943,7 @@
     {
       "id": "CO00113",
       "model": "DESCARNE 40",
-      "price": 9000,
+      "price": 10000,
       "minor_surcharge": 2000,
       "category_id": "CINT02",
       "categoryName": "CINTURON DE HOMBRE",
@@ -12253,7 +12253,7 @@
     {
       "id": "CO00130",
       "model": "PERFORADO REDONDO",
-      "price": 9000,
+      "price": 10000,
       "minor_surcharge": 2000,
       "category_id": "CINT02",
       "categoryName": "CINTURON DE HOMBRE",
@@ -12384,7 +12384,7 @@
     {
       "id": "CO00178",
       "model": "PERFORADO REMACHE",
-      "price": 10000,
+      "price": 11000,
       "minor_surcharge": 2000,
       "category_id": "CINT02",
       "categoryName": "CINTURON DE HOMBRE",
@@ -12860,7 +12860,7 @@
     {
       "id": "CO00249",
       "model": "REVERSIBLE 30",
-      "price": 13000,
+      "price": 14000,
       "minor_surcharge": 2000,
       "category_id": "CINT02",
       "categoryName": "CINTURON DE HOMBRE",
@@ -13065,7 +13065,7 @@
     {
       "id": "d41bb006",
       "model": "PERFORADITO",
-      "price": 4500,
+      "price": 5000,
       "minor_surcharge": 2000,
       "category_id": "CINT05",
       "categoryName": "CINTURON DE NIÑO",
@@ -17890,7 +17890,7 @@
     {
       "id": "d2fd8ca2",
       "model": "VESTIR COSTURA 35",
-      "price": 16000,
+      "price": 17000,
       "minor_surcharge": 2000,
       "category_id": "CINT02",
       "categoryName": "CINTURON DE HOMBRE",
