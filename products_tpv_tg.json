@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T15:35:22.941Z",
+  "generated_at": "2026-10-30T19:34:20.424Z",
   "stores": {
     "DSC-02": {
       "name": "TARTAGAL",
@@ -18008,6 +18008,65 @@
           "size": "XL",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-d525f7bc-Marron-XL"
+        }
+      ]
+    },
+    {
+      "id": "03485dae",
+      "model": "CHAPON MANDALA P.V",
+      "price": 7000,
+      "minor_surcharge": 2000,
+      "category_id": "CINT03",
+      "categoryName": "CINTURON DE MUJER",
+      "store_id": "DSC-02",
+      "variations": [
+        {
+          "color": "Negro",
+          "size": "S",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-03485dae-Negro-S"
+        },
+        {
+          "color": "Negro",
+          "size": "M",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-03485dae-Negro-M"
+        },
+        {
+          "color": "Negro",
+          "size": "L",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-03485dae-Negro-L"
+        },
+        {
+          "color": "Negro",
+          "size": "XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-03485dae-Negro-XL"
+        },
+        {
+          "color": "Marron",
+          "size": "S",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-03485dae-Marron-S"
+        },
+        {
+          "color": "Marron",
+          "size": "M",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-03485dae-Marron-M"
+        },
+        {
+          "color": "Marron",
+          "size": "L",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-03485dae-Marron-L"
+        },
+        {
+          "color": "Marron",
+          "size": "XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-03485dae-Marron-XL"
         }
       ]
     }
