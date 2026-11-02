@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T11:34:19.709Z",
+  "generated_at": "2026-11-02T15:34:17.549Z",
   "stores": {
     "DSC-02": {
       "name": "TARTAGAL",
@@ -11279,7 +11279,7 @@
     {
       "id": "CO00025",
       "model": "COSTURADO EXTRA",
-      "price": 7000,
+      "price": 7500,
       "minor_surcharge": 2000,
       "category_id": "HOMB14",
       "categoryName": "HOMBRE EXTRA LARGO",
@@ -11622,7 +11622,7 @@
     {
       "id": "CO00074",
       "model": "PASADOR CON MARCA EXTRA",
-      "price": 9500,
+      "price": 10000,
       "minor_surcharge": 2000,
       "category_id": "HOMB14",
       "categoryName": "HOMBRE EXTRA LARGO",
@@ -11884,7 +11884,7 @@
     {
       "id": "CO00098",
       "model": "DESCARNE 35 EXTRA",
-      "price": 10000,
+      "price": 11500,
       "minor_surcharge": 2000,
       "category_id": "HOMB14",
       "categoryName": "HOMBRE EXTRA LARGO",
@@ -12146,7 +12146,7 @@
     {
       "id": "CO00114",
       "model": "DESCARNE 40 EXTRA",
-      "price": 11000,
+      "price": 12000,
       "minor_surcharge": 2000,
       "category_id": "HOMB14",
       "categoryName": "HOMBRE EXTRA LARGO",
