@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T15:34:18.691Z",
+  "generated_at": "2026-11-03T19:34:20.474Z",
   "stores": {
     "DSC-02": {
       "name": "TARTAGAL",
@@ -7676,6 +7676,30 @@
           "size": "XL",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-8b7aeb56-SUELA-XL"
+        },
+        {
+          "color": "Marron",
+          "size": "S",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-8b7aeb56-Marron-S"
+        },
+        {
+          "color": "Marron",
+          "size": "M",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-8b7aeb56-Marron-M"
+        },
+        {
+          "color": "Marron",
+          "size": "L",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-8b7aeb56-Marron-L"
+        },
+        {
+          "color": "Marron",
+          "size": "XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-8b7aeb56-Marron-XL"
         }
       ]
     },
@@ -11622,7 +11646,7 @@
     {
       "id": "CO00074",
       "model": "PASADOR CON MARCA EXTRA",
-      "price": 10000,
+      "price": 10500,
       "minor_surcharge": 2000,
       "category_id": "HOMB14",
       "categoryName": "HOMBRE EXTRA LARGO",
