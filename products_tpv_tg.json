@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T11:34:18.846Z",
+  "generated_at": "2026-11-03T15:34:18.691Z",
   "stores": {
     "DSC-02": {
       "name": "TARTAGAL",
@@ -14450,6 +14450,54 @@
           "size": "XL",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-e6d57e51-Negro-XL"
+        },
+        {
+          "color": "Blanco",
+          "size": "S",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-e6d57e51-Blanco-S"
+        },
+        {
+          "color": "Blanco",
+          "size": "M",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-e6d57e51-Blanco-M"
+        },
+        {
+          "color": "Blanco",
+          "size": "L",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-e6d57e51-Blanco-L"
+        },
+        {
+          "color": "Blanco",
+          "size": "XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-e6d57e51-Blanco-XL"
+        },
+        {
+          "color": "Marron",
+          "size": "S",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-e6d57e51-Marron-S"
+        },
+        {
+          "color": "Marron",
+          "size": "M",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-e6d57e51-Marron-M"
+        },
+        {
+          "color": "Marron",
+          "size": "L",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-e6d57e51-Marron-L"
+        },
+        {
+          "color": "Marron",
+          "size": "XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-e6d57e51-Marron-XL"
         }
       ]
     },
