@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T11:34:16.564Z",
+  "generated_at": "2026-11-04T15:34:22.114Z",
   "stores": {
     "DSC-02": {
       "name": "TARTAGAL",
@@ -15647,6 +15647,42 @@
           "size": "80",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-f767cb9a-GRABADO-80"
+        },
+        {
+          "color": "Blanco",
+          "size": "55",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-f767cb9a-Blanco-55"
+        },
+        {
+          "color": "Blanco",
+          "size": "60",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-f767cb9a-Blanco-60"
+        },
+        {
+          "color": "Blanco",
+          "size": "65",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-f767cb9a-Blanco-65"
+        },
+        {
+          "color": "Blanco",
+          "size": "70",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-f767cb9a-Blanco-70"
+        },
+        {
+          "color": "Blanco",
+          "size": "75",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-f767cb9a-Blanco-75"
+        },
+        {
+          "color": "Blanco",
+          "size": "80",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-f767cb9a-Blanco-80"
         }
       ]
     },
@@ -18139,6 +18175,172 @@
           "size": "XL",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-03485dae-Marron-XL"
+        }
+      ]
+    },
+    {
+      "id": "033c3f69",
+      "model": "CIRCULO REMACHE O.V",
+      "price": 6500,
+      "minor_surcharge": 2000,
+      "category_id": "CINT03",
+      "categoryName": "CINTURON DE MUJER",
+      "store_id": "DSC-02",
+      "variations": [
+        {
+          "color": "Negro",
+          "size": "S",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-033c3f69-Negro-S"
+        },
+        {
+          "color": "Negro",
+          "size": "M",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-033c3f69-Negro-M"
+        },
+        {
+          "color": "Negro",
+          "size": "L",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-033c3f69-Negro-L"
+        },
+        {
+          "color": "Negro",
+          "size": "XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-033c3f69-Negro-XL"
+        },
+        {
+          "color": "Marron",
+          "size": "S",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-033c3f69-Marron-S"
+        },
+        {
+          "color": "Marron",
+          "size": "M",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-033c3f69-Marron-M"
+        },
+        {
+          "color": "Marron",
+          "size": "L",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-033c3f69-Marron-L"
+        },
+        {
+          "color": "Marron",
+          "size": "XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-033c3f69-Marron-XL"
+        },
+        {
+          "color": "Beige",
+          "size": "S",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-033c3f69-Beige-S"
+        },
+        {
+          "color": "Beige",
+          "size": "M",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-033c3f69-Beige-M"
+        },
+        {
+          "color": "Beige",
+          "size": "L",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-033c3f69-Beige-L"
+        },
+        {
+          "color": "Beige",
+          "size": "XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-033c3f69-Beige-XL"
+        }
+      ]
+    },
+    {
+      "id": "3c8ab569",
+      "model": "TEJANA 40",
+      "price": 6500,
+      "minor_surcharge": 2000,
+      "category_id": "CINT03",
+      "categoryName": "CINTURON DE MUJER",
+      "store_id": "DSC-02",
+      "variations": [
+        {
+          "color": "Negro",
+          "size": "S",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-3c8ab569-Negro-S"
+        },
+        {
+          "color": "Negro",
+          "size": "M",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-3c8ab569-Negro-M"
+        },
+        {
+          "color": "Negro",
+          "size": "L",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-3c8ab569-Negro-L"
+        },
+        {
+          "color": "Negro",
+          "size": "XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-3c8ab569-Negro-XL"
+        },
+        {
+          "color": "Marron",
+          "size": "S",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-3c8ab569-Marron-S"
+        },
+        {
+          "color": "Marron",
+          "size": "M",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-3c8ab569-Marron-M"
+        },
+        {
+          "color": "Marron",
+          "size": "L",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-3c8ab569-Marron-L"
+        },
+        {
+          "color": "Marron",
+          "size": "XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-3c8ab569-Marron-XL"
+        },
+        {
+          "color": "Beige",
+          "size": "S",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-3c8ab569-Beige-S"
+        },
+        {
+          "color": "Beige",
+          "size": "M",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-3c8ab569-Beige-M"
+        },
+        {
+          "color": "Beige",
+          "size": "L",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-3c8ab569-Beige-L"
+        },
+        {
+          "color": "Beige",
+          "size": "XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-3c8ab569-Beige-XL"
         }
       ]
     }
