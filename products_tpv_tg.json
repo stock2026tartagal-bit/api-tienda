@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T11:34:17.278Z",
+  "generated_at": "2026-11-07T13:09:14.101Z",
   "stores": {
     "DSC-02": {
       "name": "TARTAGAL",
@@ -17817,6 +17817,18 @@
           "size": "19",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-328e2dea-Negro-19"
+        },
+        {
+          "color": "Marron",
+          "size": "17",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-328e2dea-Marron-17"
+        },
+        {
+          "color": "Marron",
+          "size": "19",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-328e2dea-Marron-19"
         }
       ]
     },
