@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T23:34:19.300Z",
+  "generated_at": "2026-11-08T03:34:18.003Z",
   "stores": {
     "DSC-02": {
       "name": "TARTAGAL",
@@ -501,6 +501,7 @@
       "minor_surcharge": 2400,
       "category_id": "CINT05",
       "categoryName": "CINTURON DE NIÑO",
+      "gender": "Infantil",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -596,6 +597,7 @@
       "minor_surcharge": 2000,
       "category_id": "RIÑO07",
       "categoryName": "RIÑONERA Y MORRAL",
+      "gender": "Unisex",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -613,6 +615,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -672,6 +675,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT02",
       "categoryName": "CINTURON DE HOMBRE",
+      "gender": "Hombre",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -707,6 +711,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -730,6 +735,7 @@
       "minor_surcharge": 2500,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -813,6 +819,7 @@
       "minor_surcharge": 2000,
       "category_id": "FAJA04",
       "categoryName": "FAJA DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -830,6 +837,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT02",
       "categoryName": "CINTURON DE HOMBRE",
+      "gender": "Hombre",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -937,6 +945,7 @@
       "minor_surcharge": 2000,
       "category_id": "IMPO09",
       "categoryName": "IMPORTADOS",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -954,6 +963,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT02",
       "categoryName": "CINTURON DE HOMBRE",
+      "gender": "Hombre",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -971,6 +981,7 @@
       "minor_surcharge": 2000,
       "category_id": "MUJE13",
       "categoryName": "MUJER EXTRA LARGO",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -994,6 +1005,7 @@
       "minor_surcharge": 2000,
       "category_id": "IMPO09",
       "categoryName": "IMPORTADOS",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -1029,6 +1041,7 @@
       "minor_surcharge": 2500,
       "category_id": "350015",
       "categoryName": "$3.500",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -1064,6 +1077,7 @@
       "minor_surcharge": 2000,
       "category_id": "IMPO09",
       "categoryName": "IMPORTADOS",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": []
     },
@@ -1074,6 +1088,7 @@
       "minor_surcharge": 2000,
       "category_id": "MUJE13",
       "categoryName": "MUJER EXTRA LARGO",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -1109,6 +1124,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -1144,6 +1160,7 @@
       "minor_surcharge": 2000,
       "category_id": "RIÑO07",
       "categoryName": "RIÑONERA Y MORRAL",
+      "gender": "Unisex",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -1335,6 +1352,7 @@
       "minor_surcharge": 2000,
       "category_id": "FAJA04",
       "categoryName": "FAJA DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -1406,6 +1424,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -1441,6 +1460,7 @@
       "minor_surcharge": 2500,
       "category_id": "350015",
       "categoryName": "$3.500",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -1524,6 +1544,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT02",
       "categoryName": "CINTURON DE HOMBRE",
+      "gender": "Hombre",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -1583,6 +1604,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -1642,6 +1664,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -1701,6 +1724,7 @@
       "minor_surcharge": 2300,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -1718,6 +1742,7 @@
       "minor_surcharge": 2000,
       "category_id": "MOCH08",
       "categoryName": "MOCHILAS",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -1777,6 +1802,7 @@
       "minor_surcharge": 2000,
       "category_id": "MUJE13",
       "categoryName": "MUJER EXTRA LARGO",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -1836,6 +1862,7 @@
       "minor_surcharge": 2000,
       "category_id": "IMPO09",
       "categoryName": "IMPORTADOS",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": []
     },
@@ -1846,6 +1873,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -1953,6 +1981,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT02",
       "categoryName": "CINTURON DE HOMBRE",
+      "gender": "Hombre",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -2060,6 +2089,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -2119,6 +2149,7 @@
       "minor_surcharge": 2000,
       "category_id": "MUJE13",
       "categoryName": "MUJER EXTRA LARGO",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -2166,6 +2197,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -2225,6 +2257,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -2284,6 +2317,7 @@
       "minor_surcharge": 2000,
       "category_id": "FAJA04",
       "categoryName": "FAJA DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -2319,6 +2353,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT02",
       "categoryName": "CINTURON DE HOMBRE",
+      "gender": "Unisex",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -2378,6 +2413,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -2485,6 +2521,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT02",
       "categoryName": "CINTURON DE HOMBRE",
+      "gender": "Hombre",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -2568,6 +2605,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -2603,6 +2641,7 @@
       "minor_surcharge": 2000,
       "category_id": "CART12",
       "categoryName": "CARTUCHERAS",
+      "gender": "Unisex",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -2650,6 +2689,7 @@
       "minor_surcharge": 2000,
       "category_id": "RIÑO07",
       "categoryName": "RIÑONERA Y MORRAL",
+      "gender": "Unisex",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -2667,6 +2707,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": []
     },
@@ -2677,6 +2718,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -2712,6 +2754,7 @@
       "minor_surcharge": 2500,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -2819,6 +2862,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -2842,6 +2886,7 @@
       "minor_surcharge": 2000,
       "category_id": "FAJA04",
       "categoryName": "FAJA DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -2901,6 +2946,7 @@
       "minor_surcharge": 2000,
       "category_id": "FAJA04",
       "categoryName": "FAJA DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -2918,6 +2964,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT02",
       "categoryName": "CINTURON DE HOMBRE",
+      "gender": "Hombre",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -2977,6 +3024,7 @@
       "minor_surcharge": 2000,
       "category_id": "IMPO09",
       "categoryName": "IMPORTADOS",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -2994,6 +3042,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -3029,6 +3078,7 @@
       "minor_surcharge": 2000,
       "category_id": "RIÑO07",
       "categoryName": "RIÑONERA Y MORRAL",
+      "gender": "Unisex",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -3244,6 +3294,7 @@
       "minor_surcharge": 2000,
       "category_id": "IMPO09",
       "categoryName": "IMPORTADOS",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -3261,6 +3312,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT05",
       "categoryName": "CINTURON DE NIÑO",
+      "gender": "Infantil",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -3392,6 +3444,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -3415,6 +3468,7 @@
       "minor_surcharge": 2000,
       "category_id": "HOMB14",
       "categoryName": "HOMBRE EXTRA LARGO",
+      "gender": "Hombre",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -3450,6 +3504,7 @@
       "minor_surcharge": 2000,
       "category_id": "RIÑO07",
       "categoryName": "RIÑONERA Y MORRAL",
+      "gender": "Unisex",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -3539,6 +3594,7 @@
       "minor_surcharge": 2500,
       "category_id": "350015",
       "categoryName": "$3.500",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -3598,6 +3654,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -3657,6 +3714,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -3680,6 +3738,7 @@
       "minor_surcharge": 2000,
       "category_id": "HOMB14",
       "categoryName": "HOMBRE EXTRA LARGO",
+      "gender": "Hombre",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -3745,6 +3804,7 @@
       "minor_surcharge": 2200,
       "category_id": "CINT02",
       "categoryName": "CINTURON DE HOMBRE",
+      "gender": "Hombre",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -3804,6 +3864,7 @@
       "minor_surcharge": 2000,
       "category_id": "RIÑO07",
       "categoryName": "RIÑONERA Y MORRAL",
+      "gender": "Unisex",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -3851,6 +3912,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -3958,6 +4020,7 @@
       "minor_surcharge": 2000,
       "category_id": "IMPO09",
       "categoryName": "IMPORTADOS",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -3981,6 +4044,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -4004,6 +4068,7 @@
       "minor_surcharge": 2000,
       "category_id": "FAJA04",
       "categoryName": "FAJA DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -4021,6 +4086,7 @@
       "minor_surcharge": 2000,
       "category_id": "IMPO09",
       "categoryName": "IMPORTADOS",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": []
     },
@@ -4031,6 +4097,7 @@
       "minor_surcharge": 2000,
       "category_id": "IMPO09",
       "categoryName": "IMPORTADOS",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -4060,6 +4127,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -4167,6 +4235,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -4190,6 +4259,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -4249,6 +4319,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT02",
       "categoryName": "CINTURON DE HOMBRE",
+      "gender": "Hombre",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -4356,6 +4427,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -4379,6 +4451,7 @@
       "minor_surcharge": 2000,
       "category_id": "FAJA04",
       "categoryName": "FAJA DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -4426,6 +4499,7 @@
       "minor_surcharge": 2500,
       "category_id": "350015",
       "categoryName": "$3.500",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -4485,6 +4559,7 @@
       "minor_surcharge": 2500,
       "category_id": "350015",
       "categoryName": "$3.500",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -4544,6 +4619,7 @@
       "minor_surcharge": 2000,
       "category_id": "IMPO09",
       "categoryName": "IMPORTADOS",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -4561,6 +4637,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -4668,6 +4745,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT06",
       "categoryName": "CINTURON DE NIÑA",
+      "gender": "Juvenil",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -4685,6 +4763,7 @@
       "minor_surcharge": 2000,
       "category_id": "RIÑO07",
       "categoryName": "RIÑONERA Y MORRAL",
+      "gender": "Unisex",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -4750,6 +4829,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT06",
       "categoryName": "CINTURON DE NIÑA",
+      "gender": "Infantil",
       "store_id": "DSC-02",
       "variations": []
     },
@@ -4760,6 +4840,7 @@
       "minor_surcharge": 2000,
       "category_id": "FAJA04",
       "categoryName": "FAJA DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -4783,6 +4864,7 @@
       "minor_surcharge": 2000,
       "category_id": "MOCH08",
       "categoryName": "MOCHILAS",
+      "gender": "Unisex",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -4812,6 +4894,7 @@
       "minor_surcharge": 2000,
       "category_id": "RIÑO07",
       "categoryName": "RIÑONERA Y MORRAL",
+      "gender": "Unisex",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -4859,6 +4942,7 @@
       "minor_surcharge": 2000,
       "category_id": "IMPO09",
       "categoryName": "IMPORTADOS",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -4882,6 +4966,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -4965,6 +5050,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT02",
       "categoryName": "CINTURON DE HOMBRE",
+      "gender": "Unisex",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -5024,6 +5110,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT02",
       "categoryName": "CINTURON DE HOMBRE",
+      "gender": "Hombre",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -5131,6 +5218,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -5214,6 +5302,7 @@
       "minor_surcharge": 2000,
       "category_id": "MOCH08",
       "categoryName": "MOCHILAS",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -5267,6 +5356,7 @@
       "minor_surcharge": 2000,
       "category_id": "MOCH08",
       "categoryName": "MOCHILAS",
+      "gender": "Unisex",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -5326,6 +5416,7 @@
       "minor_surcharge": 2000,
       "category_id": "FAJA04",
       "categoryName": "FAJA DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -5349,6 +5440,7 @@
       "minor_surcharge": 3000,
       "category_id": "MOCH08",
       "categoryName": "MOCHILAS",
+      "gender": "Unisex",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -5402,6 +5494,7 @@
       "minor_surcharge": 2500,
       "category_id": "350015",
       "categoryName": "$3.500",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -5437,6 +5530,7 @@
       "minor_surcharge": 2100,
       "category_id": "CINT05",
       "categoryName": "CINTURON DE NIÑO",
+      "gender": "Infantil",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -5532,6 +5626,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -5567,6 +5662,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -5674,6 +5770,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT02",
       "categoryName": "CINTURON DE HOMBRE",
+      "gender": "Hombre",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -5733,6 +5830,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -5840,6 +5938,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -5875,6 +5974,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -5898,6 +5998,7 @@
       "minor_surcharge": 2000,
       "category_id": "RIÑO07",
       "categoryName": "RIÑONERA Y MORRAL",
+      "gender": "Unisex",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -5963,6 +6064,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -5998,6 +6100,7 @@
       "minor_surcharge": 2000,
       "category_id": "MOCH08",
       "categoryName": "MOCHILAS",
+      "gender": "Unisex",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -6033,6 +6136,7 @@
       "minor_surcharge": 2000,
       "category_id": "RIÑO07",
       "categoryName": "RIÑONERA Y MORRAL",
+      "gender": "Unisex",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -6050,6 +6154,7 @@
       "minor_surcharge": 2000,
       "category_id": "FAJA04",
       "categoryName": "FAJA DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -6085,6 +6190,7 @@
       "minor_surcharge": 2000,
       "category_id": "CART12",
       "categoryName": "CARTUCHERAS",
+      "gender": "Unisex",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -6234,6 +6340,7 @@
       "minor_surcharge": 2000,
       "category_id": "FAJA04",
       "categoryName": "FAJA DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -6257,6 +6364,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -6304,6 +6412,7 @@
       "minor_surcharge": 2200,
       "category_id": "CINT06",
       "categoryName": "CINTURON DE NIÑA",
+      "gender": "Infantil",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -6351,6 +6460,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT05",
       "categoryName": "CINTURON DE NIÑO",
+      "gender": "Infantil",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -6434,6 +6544,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -6451,6 +6562,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -6474,6 +6586,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -6497,6 +6610,7 @@
       "minor_surcharge": 2000,
       "category_id": "IMPO09",
       "categoryName": "IMPORTADOS",
+      "gender": "Unisex",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -6538,6 +6652,7 @@
       "minor_surcharge": 2000,
       "category_id": "IMPO09",
       "categoryName": "IMPORTADOS",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -6555,6 +6670,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -6614,6 +6730,7 @@
       "minor_surcharge": 2000,
       "category_id": "FAJA04",
       "categoryName": "FAJA DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -6637,6 +6754,7 @@
       "minor_surcharge": 2500,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -6750,6 +6868,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": []
     },
@@ -6760,6 +6879,7 @@
       "minor_surcharge": 2000,
       "category_id": "IMPO09",
       "categoryName": "IMPORTADOS",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -6783,6 +6903,7 @@
       "minor_surcharge": 2500,
       "category_id": "350015",
       "categoryName": "$3.500",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -6818,6 +6939,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -6877,6 +6999,7 @@
       "minor_surcharge": 2000,
       "category_id": "IMPO09",
       "categoryName": "IMPORTADOS",
+      "gender": "Infantil",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -6894,6 +7017,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Unisex",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -6977,6 +7101,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -7084,6 +7209,7 @@
       "minor_surcharge": 2000,
       "category_id": "IMPO09",
       "categoryName": "IMPORTADOS",
+      "gender": "Unisex",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -7155,6 +7281,7 @@
       "minor_surcharge": 1900,
       "category_id": "CINT05",
       "categoryName": "CINTURON DE NIÑO",
+      "gender": "Infantil",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -7172,6 +7299,7 @@
       "minor_surcharge": 2000,
       "category_id": "MOCH08",
       "categoryName": "MOCHILAS",
+      "gender": "Unisex",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -7375,6 +7503,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -7482,6 +7611,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -7505,6 +7635,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT06",
       "categoryName": "CINTURON DE NIÑA",
+      "gender": "Infantil",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -7534,6 +7665,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -7593,6 +7725,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": []
     },
@@ -7603,6 +7736,7 @@
       "minor_surcharge": 2500,
       "category_id": "350015",
       "categoryName": "$3.500",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -7710,6 +7844,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -7745,6 +7880,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -7780,6 +7916,7 @@
       "minor_surcharge": 2000,
       "category_id": "IMPO09",
       "categoryName": "IMPORTADOS",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -7797,6 +7934,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -7832,6 +7970,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -7867,6 +8006,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": []
     },
@@ -7877,6 +8017,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -7912,6 +8053,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -7935,6 +8077,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -7970,6 +8113,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -8017,6 +8161,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -8052,6 +8197,7 @@
       "minor_surcharge": 2000,
       "category_id": "IMPO09",
       "categoryName": "IMPORTADOS",
+      "gender": "Unisex",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -8081,6 +8227,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -8104,6 +8251,7 @@
       "minor_surcharge": 2000,
       "category_id": "IMPO09",
       "categoryName": "IMPORTADOS",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -8121,6 +8269,7 @@
       "minor_surcharge": 2000,
       "category_id": "FAJA04",
       "categoryName": "FAJA DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -8144,6 +8293,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -8185,6 +8335,7 @@
       "minor_surcharge": 2000,
       "category_id": "FAJA04",
       "categoryName": "FAJA DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -8202,6 +8353,7 @@
       "minor_surcharge": 2000,
       "category_id": "FAJA04",
       "categoryName": "FAJA DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -8249,6 +8401,7 @@
       "minor_surcharge": 2000,
       "category_id": "IMPO09",
       "categoryName": "IMPORTADOS",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -8266,6 +8419,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -8301,6 +8455,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -8360,6 +8515,7 @@
       "minor_surcharge": 2000,
       "category_id": "MOCH08",
       "categoryName": "MOCHILAS",
+      "gender": "Unisex",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -8377,6 +8533,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -8484,6 +8641,7 @@
       "minor_surcharge": 2000,
       "category_id": "FAJA04",
       "categoryName": "FAJA DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -8519,6 +8677,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -8542,6 +8701,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT02",
       "categoryName": "CINTURON DE HOMBRE",
+      "gender": "Hombre",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -8589,6 +8749,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -8612,6 +8773,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -8647,6 +8809,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -8682,6 +8845,7 @@
       "minor_surcharge": 2200,
       "category_id": "CINT02",
       "categoryName": "CINTURON DE HOMBRE",
+      "gender": "Hombre",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -8741,6 +8905,7 @@
       "minor_surcharge": 2000,
       "category_id": "MOCH08",
       "categoryName": "MOCHILAS",
+      "gender": "Unisex",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -8806,6 +8971,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -8913,6 +9079,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT05",
       "categoryName": "CINTURON DE NIÑO",
+      "gender": "Infantil",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -8960,6 +9127,7 @@
       "minor_surcharge": 2000,
       "category_id": "RIÑO07",
       "categoryName": "RIÑONERA Y MORRAL",
+      "gender": "Unisex",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -8995,6 +9163,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT02",
       "categoryName": "CINTURON DE HOMBRE",
+      "gender": "Hombre",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -9054,6 +9223,7 @@
       "minor_surcharge": 2000,
       "category_id": "IMPO09",
       "categoryName": "IMPORTADOS",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -9071,6 +9241,7 @@
       "minor_surcharge": 1500,
       "category_id": "CINT06",
       "categoryName": "CINTURON DE NIÑA",
+      "gender": "Infantil",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -9100,6 +9271,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -9123,6 +9295,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -9230,6 +9403,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -9265,6 +9439,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT02",
       "categoryName": "CINTURON DE HOMBRE",
+      "gender": "Hombre",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -9372,6 +9547,7 @@
       "minor_surcharge": 2500,
       "category_id": "350015",
       "categoryName": "$3.500",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -9407,6 +9583,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -9466,6 +9643,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -9501,6 +9679,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -9524,6 +9703,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT05",
       "categoryName": "CINTURON DE NIÑO",
+      "gender": "Infantil",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -9631,6 +9811,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT02",
       "categoryName": "CINTURON DE HOMBRE",
+      "gender": "Hombre",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -9666,6 +9847,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT02",
       "categoryName": "CINTURON DE HOMBRE",
+      "gender": "Hombre",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -9773,6 +9955,7 @@
       "minor_surcharge": 2000,
       "category_id": "RIÑO07",
       "categoryName": "RIÑONERA Y MORRAL",
+      "gender": "Unisex",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -9814,6 +9997,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -9849,6 +10033,7 @@
       "minor_surcharge": 2000,
       "category_id": "RIÑO07",
       "categoryName": "RIÑONERA Y MORRAL",
+      "gender": "Unisex",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -9980,6 +10165,7 @@
       "minor_surcharge": 2500,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -10039,6 +10225,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -10062,6 +10249,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -10085,6 +10273,7 @@
       "minor_surcharge": 2000,
       "category_id": "MOCH08",
       "categoryName": "MOCHILAS",
+      "gender": "Unisex",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -10126,6 +10315,7 @@
       "minor_surcharge": 2500,
       "category_id": "350015",
       "categoryName": "$3.500",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -10161,6 +10351,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -10220,6 +10411,7 @@
       "minor_surcharge": 2000,
       "category_id": "RIÑO07",
       "categoryName": "RIÑONERA Y MORRAL",
+      "gender": "Unisex",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -10237,6 +10429,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -10260,6 +10453,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT02",
       "categoryName": "CINTURON DE HOMBRE",
+      "gender": "Hombre",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -10319,6 +10513,7 @@
       "minor_surcharge": 2000,
       "category_id": "FAJA04",
       "categoryName": "FAJA DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -10390,6 +10585,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -10449,6 +10645,7 @@
       "minor_surcharge": 2000,
       "category_id": "FAJA04",
       "categoryName": "FAJA DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -10496,6 +10693,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -10555,6 +10753,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -10710,6 +10909,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -10823,6 +11023,7 @@
       "minor_surcharge": 2000,
       "category_id": "FAJA04",
       "categoryName": "FAJA DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -10870,6 +11071,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT02",
       "categoryName": "CINTURON DE HOMBRE",
+      "gender": "Hombre",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -10953,6 +11155,7 @@
       "minor_surcharge": 2500,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -10988,6 +11191,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -11011,6 +11215,7 @@
       "minor_surcharge": 2000,
       "category_id": "IMPO09",
       "categoryName": "IMPORTADOS",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -11058,6 +11263,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -11117,6 +11323,7 @@
       "minor_surcharge": 2400,
       "category_id": "CINT06",
       "categoryName": "CINTURON DE NIÑA",
+      "gender": "Infantil",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -11152,6 +11359,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT02",
       "categoryName": "CINTURON DE HOMBRE",
+      "gender": "Hombre",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -11307,6 +11515,7 @@
       "minor_surcharge": 2000,
       "category_id": "HOMB14",
       "categoryName": "HOMBRE EXTRA LARGO",
+      "gender": "Hombre",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -11366,6 +11575,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT02",
       "categoryName": "CINTURON DE HOMBRE",
+      "gender": "Hombre",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -11425,6 +11635,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT02",
       "categoryName": "CINTURON DE HOMBRE",
+      "gender": "Hombre",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -11484,6 +11695,7 @@
       "minor_surcharge": 2200,
       "category_id": "CINT02",
       "categoryName": "CINTURON DE HOMBRE",
+      "gender": "Hombre",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -11543,6 +11755,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT02",
       "categoryName": "CINTURON DE HOMBRE",
+      "gender": "Hombre",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -11650,6 +11863,7 @@
       "minor_surcharge": 2000,
       "category_id": "HOMB14",
       "categoryName": "HOMBRE EXTRA LARGO",
+      "gender": "Hombre",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -11709,6 +11923,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT02",
       "categoryName": "CINTURON DE HOMBRE",
+      "gender": "Hombre",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -11912,6 +12127,7 @@
       "minor_surcharge": 2000,
       "category_id": "HOMB14",
       "categoryName": "HOMBRE EXTRA LARGO",
+      "gender": "Hombre",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -11971,6 +12187,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT02",
       "categoryName": "CINTURON DE HOMBRE",
+      "gender": "Hombre",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -12174,6 +12391,7 @@
       "minor_surcharge": 2000,
       "category_id": "HOMB14",
       "categoryName": "HOMBRE EXTRA LARGO",
+      "gender": "Hombre",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -12281,6 +12499,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT02",
       "categoryName": "CINTURON DE HOMBRE",
+      "gender": "Hombre",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -12412,6 +12631,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT02",
       "categoryName": "CINTURON DE HOMBRE",
+      "gender": "Hombre",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -12567,6 +12787,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT02",
       "categoryName": "CINTURON DE HOMBRE",
+      "gender": "Hombre",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -12722,6 +12943,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT02",
       "categoryName": "CINTURON DE HOMBRE",
+      "gender": "Hombre",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -12829,6 +13051,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT02",
       "categoryName": "CINTURON DE HOMBRE",
+      "gender": "Hombre",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -12888,6 +13111,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT02",
       "categoryName": "CINTURON DE HOMBRE",
+      "gender": "Hombre",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -12947,6 +13171,7 @@
       "minor_surcharge": 2500,
       "category_id": "350015",
       "categoryName": "$3.500",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -12982,6 +13207,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -13041,6 +13267,7 @@
       "minor_surcharge": 2000,
       "category_id": "FAJA04",
       "categoryName": "FAJA DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -13058,6 +13285,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -13093,6 +13321,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT05",
       "categoryName": "CINTURON DE NIÑO",
+      "gender": "Infantil",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -13242,6 +13471,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -13349,6 +13579,7 @@
       "minor_surcharge": 2000,
       "category_id": "FAJA04",
       "categoryName": "FAJA DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -13378,6 +13609,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -13413,6 +13645,7 @@
       "minor_surcharge": 2000,
       "category_id": "IMPO09",
       "categoryName": "IMPORTADOS",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -13436,6 +13669,7 @@
       "minor_surcharge": 2500,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -13471,6 +13705,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT02",
       "categoryName": "CINTURON DE HOMBRE",
+      "gender": "Hombre",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -13536,6 +13771,7 @@
       "minor_surcharge": 2000,
       "category_id": "RIÑO07",
       "categoryName": "RIÑONERA Y MORRAL",
+      "gender": "Unisex",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -13655,6 +13891,7 @@
       "minor_surcharge": 2000,
       "category_id": "FAJA04",
       "categoryName": "FAJA DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -13702,6 +13939,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -13761,6 +13999,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -13796,6 +14035,7 @@
       "minor_surcharge": 2000,
       "category_id": "IMPO09",
       "categoryName": "IMPORTADOS",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -13813,6 +14053,7 @@
       "minor_surcharge": 2500,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -13872,6 +14113,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -13931,6 +14173,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -13954,6 +14197,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -13989,6 +14233,7 @@
       "minor_surcharge": 2000,
       "category_id": "HOMB14",
       "categoryName": "HOMBRE EXTRA LARGO",
+      "gender": "Hombre",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -14072,6 +14317,7 @@
       "minor_surcharge": 2000,
       "category_id": "MOCH08",
       "categoryName": "MOCHILAS",
+      "gender": "Unisex",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -14125,6 +14371,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT06",
       "categoryName": "CINTURON DE NIÑA",
+      "gender": "Infantil",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -14172,6 +14419,7 @@
       "minor_surcharge": 2000,
       "category_id": "IMPO09",
       "categoryName": "IMPORTADOS",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -14195,6 +14443,7 @@
       "minor_surcharge": 2000,
       "category_id": "IMPO09",
       "categoryName": "IMPORTADOS",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -14212,6 +14461,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -14259,6 +14509,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -14342,6 +14593,7 @@
       "minor_surcharge": 2000,
       "category_id": "HOMB14",
       "categoryName": "HOMBRE EXTRA LARGO",
+      "gender": "Hombre",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -14449,6 +14701,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -14532,6 +14785,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -14615,6 +14869,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -14674,6 +14929,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -14781,6 +15037,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -14804,6 +15061,7 @@
       "minor_surcharge": 2000,
       "category_id": "MOCH08",
       "categoryName": "MOCHILAS",
+      "gender": "Unisex",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -14839,6 +15097,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -14874,6 +15133,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -14933,6 +15193,7 @@
       "minor_surcharge": 2000,
       "category_id": "FAJA04",
       "categoryName": "FAJA DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -14968,6 +15229,7 @@
       "minor_surcharge": 2000,
       "category_id": "IMPO09",
       "categoryName": "IMPORTADOS",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": []
     },
@@ -14978,6 +15240,7 @@
       "minor_surcharge": 2000,
       "category_id": "IMPO09",
       "categoryName": "IMPORTADOS",
+      "gender": "Unisex",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -15031,6 +15294,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT05",
       "categoryName": "CINTURON DE NIÑO",
+      "gender": "Infantil",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -15060,6 +15324,7 @@
       "minor_surcharge": 2000,
       "category_id": "MOCH08",
       "categoryName": "MOCHILAS",
+      "gender": "Unisex",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -15149,6 +15414,7 @@
       "minor_surcharge": 0,
       "category_id": "MOCH08",
       "categoryName": "MOCHILAS",
+      "gender": "Unisex",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -15166,6 +15432,7 @@
       "minor_surcharge": 2000,
       "category_id": "RIÑO07",
       "categoryName": "RIÑONERA Y MORRAL",
+      "gender": "Unisex",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -15297,6 +15564,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -15428,6 +15696,7 @@
       "minor_surcharge": 2000,
       "category_id": "IMPO09",
       "categoryName": "IMPORTADOS",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -15445,6 +15714,7 @@
       "minor_surcharge": 2000,
       "category_id": "IMPO09",
       "categoryName": "IMPORTADOS",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -15468,6 +15738,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -15503,6 +15774,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -15538,6 +15810,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT05",
       "categoryName": "CINTURON DE NIÑO",
+      "gender": "Juvenil",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -15693,6 +15966,7 @@
       "minor_surcharge": 2500,
       "category_id": "350015",
       "categoryName": "$3.500",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -15776,6 +16050,7 @@
       "minor_surcharge": 2500,
       "category_id": "350015",
       "categoryName": "$3.500",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -15859,6 +16134,7 @@
       "minor_surcharge": 2000,
       "category_id": "IMPO09",
       "categoryName": "IMPORTADOS",
+      "gender": "Unisex",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -15888,6 +16164,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -15971,6 +16248,7 @@
       "minor_surcharge": 2000,
       "category_id": "IMPO09",
       "categoryName": "IMPORTADOS",
+      "gender": "Unisex",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -15994,6 +16272,7 @@
       "minor_surcharge": 2200,
       "category_id": "CINT06",
       "categoryName": "CINTURON DE NIÑA",
+      "gender": "Infantil",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -16095,6 +16374,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -16202,6 +16482,7 @@
       "minor_surcharge": 2000,
       "category_id": "RIÑO07",
       "categoryName": "RIÑONERA Y MORRAL",
+      "gender": "Unisex",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -16219,6 +16500,7 @@
       "minor_surcharge": 1500,
       "category_id": "CINT02",
       "categoryName": "CINTURON DE HOMBRE",
+      "gender": "Hombre",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -16248,6 +16530,7 @@
       "minor_surcharge": 1500,
       "category_id": "CINT02",
       "categoryName": "CINTURON DE HOMBRE",
+      "gender": "Hombre",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -16265,6 +16548,7 @@
       "minor_surcharge": 1500,
       "category_id": "CINT02",
       "categoryName": "CINTURON DE HOMBRE",
+      "gender": "Hombre",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -16282,6 +16566,7 @@
       "minor_surcharge": 1500,
       "category_id": "CINT02",
       "categoryName": "CINTURON DE HOMBRE",
+      "gender": "Hombre",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -16299,6 +16584,7 @@
       "minor_surcharge": 1500,
       "category_id": "CINT02",
       "categoryName": "CINTURON DE HOMBRE",
+      "gender": "Hombre",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -16316,6 +16602,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -16351,6 +16638,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -16386,6 +16674,7 @@
       "minor_surcharge": 2300,
       "category_id": "CINT06",
       "categoryName": "CINTURON DE NIÑA",
+      "gender": "Infantil",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -16415,6 +16704,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -16474,6 +16764,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -16509,6 +16800,7 @@
       "minor_surcharge": 5000,
       "category_id": "MOCH08",
       "categoryName": "MOCHILAS",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -16532,6 +16824,7 @@
       "minor_surcharge": 2000,
       "category_id": "MUJE13",
       "categoryName": "MUJER EXTRA LARGO",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -16567,6 +16860,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -16626,6 +16920,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -16685,6 +16980,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -16744,6 +17040,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -16767,6 +17064,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -16790,6 +17088,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -16807,6 +17106,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT02",
       "categoryName": "CINTURON DE HOMBRE",
+      "gender": "Hombre",
       "store_id": "DSC-02",
       "variations": []
     },
@@ -16817,6 +17117,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -16900,6 +17201,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -16935,6 +17237,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -16970,6 +17273,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -16993,6 +17297,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -17016,6 +17321,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -17039,6 +17345,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -17062,6 +17369,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -17085,6 +17393,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -17120,6 +17429,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -17203,6 +17513,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -17286,6 +17597,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -17369,6 +17681,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -17404,6 +17717,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -17439,6 +17753,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": []
     },
@@ -17449,6 +17764,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -17484,6 +17800,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -17519,6 +17836,7 @@
       "minor_surcharge": 2000,
       "category_id": "RIÑO07",
       "categoryName": "RIÑONERA Y MORRAL",
+      "gender": "Unisex",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -17542,6 +17860,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": []
     },
@@ -17552,6 +17871,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -17587,6 +17907,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -17610,6 +17931,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -17633,6 +17955,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -17656,6 +17979,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -17691,6 +18015,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -17714,6 +18039,7 @@
       "minor_surcharge": 2000,
       "category_id": "MOCH08",
       "categoryName": "MOCHILAS",
+      "gender": "Unisex",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -17737,6 +18063,7 @@
       "minor_surcharge": 2000,
       "category_id": "IMPO09",
       "categoryName": "IMPORTADOS",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -17754,6 +18081,7 @@
       "minor_surcharge": 2000,
       "category_id": "RIÑO07",
       "categoryName": "RIÑONERA Y MORRAL",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -17777,6 +18105,7 @@
       "minor_surcharge": 2000,
       "category_id": "RIÑO07",
       "categoryName": "RIÑONERA Y MORRAL",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": []
     },
@@ -17787,6 +18116,7 @@
       "minor_surcharge": 2000,
       "category_id": "FAJA04",
       "categoryName": "FAJA DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -17804,6 +18134,7 @@
       "minor_surcharge": 2000,
       "category_id": "FAJA04",
       "categoryName": "FAJA DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -17839,6 +18170,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -17862,6 +18194,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -17885,6 +18218,7 @@
       "minor_surcharge": 1000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -17944,6 +18278,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -17991,6 +18326,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -18014,6 +18350,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT02",
       "categoryName": "CINTURON DE HOMBRE",
+      "gender": "Hombre",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -18079,6 +18416,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -18138,6 +18476,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -18197,6 +18536,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -18280,6 +18620,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
@@ -18363,6 +18704,7 @@
       "minor_surcharge": 2000,
       "category_id": "CINT03",
       "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
         {
