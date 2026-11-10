@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T11:34:17.509Z",
+  "generated_at": "2026-11-10T15:34:18.925Z",
   "stores": {
     "DSC-02": {
       "name": "TARTAGAL",
@@ -478,18 +478,8 @@
       "svg": ""
     },
     {
-      "id": "MUJE13",
-      "name": "MUJER EXTRA LARGO",
-      "svg": ""
-    },
-    {
       "id": "HOMB14",
       "name": "HOMBRE EXTRA LARGO",
-      "svg": ""
-    },
-    {
-      "id": "350015",
-      "name": "$3.500",
       "svg": ""
     }
   ],
@@ -980,7 +970,7 @@
       "price": 8000,
       "minor_surcharge": 2000,
       "category_id": "MUJE13",
-      "categoryName": "MUJER EXTRA LARGO",
+      "categoryName": "",
       "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
@@ -1040,7 +1030,7 @@
       "price": 3500,
       "minor_surcharge": 2500,
       "category_id": "350015",
-      "categoryName": "$3.500",
+      "categoryName": "",
       "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
@@ -1087,7 +1077,7 @@
       "price": 6000,
       "minor_surcharge": 2000,
       "category_id": "MUJE13",
-      "categoryName": "MUJER EXTRA LARGO",
+      "categoryName": "",
       "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
@@ -1459,7 +1449,7 @@
       "price": 4000,
       "minor_surcharge": 2500,
       "category_id": "350015",
-      "categoryName": "$3.500",
+      "categoryName": "",
       "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
@@ -1801,7 +1791,7 @@
       "price": 8500,
       "minor_surcharge": 2000,
       "category_id": "MUJE13",
-      "categoryName": "MUJER EXTRA LARGO",
+      "categoryName": "",
       "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
@@ -2148,7 +2138,7 @@
       "price": 6000,
       "minor_surcharge": 2000,
       "category_id": "MUJE13",
-      "categoryName": "MUJER EXTRA LARGO",
+      "categoryName": "",
       "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
@@ -3593,7 +3583,7 @@
       "price": 3500,
       "minor_surcharge": 2500,
       "category_id": "350015",
-      "categoryName": "$3.500",
+      "categoryName": "",
       "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
@@ -4498,7 +4488,7 @@
       "price": 3500,
       "minor_surcharge": 2500,
       "category_id": "350015",
-      "categoryName": "$3.500",
+      "categoryName": "",
       "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
@@ -4558,7 +4548,7 @@
       "price": 3500,
       "minor_surcharge": 2500,
       "category_id": "350015",
-      "categoryName": "$3.500",
+      "categoryName": "",
       "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
@@ -5493,7 +5483,7 @@
       "price": 3500,
       "minor_surcharge": 2500,
       "category_id": "350015",
-      "categoryName": "$3.500",
+      "categoryName": "",
       "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
@@ -6902,7 +6892,7 @@
       "price": 3500,
       "minor_surcharge": 2500,
       "category_id": "350015",
-      "categoryName": "$3.500",
+      "categoryName": "",
       "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
@@ -7735,7 +7725,7 @@
       "price": 3500,
       "minor_surcharge": 2500,
       "category_id": "350015",
-      "categoryName": "$3.500",
+      "categoryName": "",
       "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
@@ -9546,7 +9536,7 @@
       "price": 3500,
       "minor_surcharge": 2500,
       "category_id": "350015",
-      "categoryName": "$3.500",
+      "categoryName": "",
       "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
@@ -10314,7 +10304,7 @@
       "price": 3500,
       "minor_surcharge": 2500,
       "category_id": "350015",
-      "categoryName": "$3.500",
+      "categoryName": "",
       "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
@@ -13170,7 +13160,7 @@
       "price": 3500,
       "minor_surcharge": 2500,
       "category_id": "350015",
-      "categoryName": "$3.500",
+      "categoryName": "",
       "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
@@ -15965,7 +15955,7 @@
       "price": 3500,
       "minor_surcharge": 2500,
       "category_id": "350015",
-      "categoryName": "$3.500",
+      "categoryName": "",
       "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
@@ -16049,7 +16039,7 @@
       "price": 3500,
       "minor_surcharge": 2500,
       "category_id": "350015",
-      "categoryName": "$3.500",
+      "categoryName": "",
       "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
@@ -16823,7 +16813,7 @@
       "price": 9000,
       "minor_surcharge": 2000,
       "category_id": "MUJE13",
-      "categoryName": "MUJER EXTRA LARGO",
+      "categoryName": "",
       "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
