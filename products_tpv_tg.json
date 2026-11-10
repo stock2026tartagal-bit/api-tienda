@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T15:34:18.925Z",
+  "generated_at": "2026-11-10T19:34:18.517Z",
   "stores": {
     "DSC-02": {
       "name": "TARTAGAL",
@@ -18732,6 +18732,30 @@
           "size": "3XL",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-7455a4f0-Beige-3XL"
+        }
+      ]
+    },
+    {
+      "id": "58cc5d9b",
+      "model": "HPP STRASS",
+      "price": 13000,
+      "minor_surcharge": 2000,
+      "category_id": "CINT03",
+      "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
+      "store_id": "DSC-02",
+      "variations": [
+        {
+          "color": "Negro",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-58cc5d9b-Negro-S/T"
+        },
+        {
+          "color": "Blanco",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-58cc5d9b-Blanco-S/T"
         }
       ]
     }
