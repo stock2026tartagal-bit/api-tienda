@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T14:29:33.631Z",
+  "generated_at": "2026-11-11T15:34:19.907Z",
   "stores": {
     "DSC-02": {
       "name": "TARTAGAL",
@@ -5420,7 +5420,7 @@
     {
       "id": "59155920",
       "model": "ESCOLAR",
-      "price": 2400,
+      "price": 2600,
       "minor_surcharge": 2100,
       "category_id": "CINT05",
       "categoryName": "CINTURON DE NIÑO",
@@ -14998,7 +14998,7 @@
     {
       "id": "ee05493a",
       "model": "FAJA RECTA",
-      "price": 9000,
+      "price": 10000,
       "minor_surcharge": 2000,
       "category_id": "FAJA04",
       "categoryName": "FAJA DE MUJER",
