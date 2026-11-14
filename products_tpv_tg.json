@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T11:34:15.524Z",
+  "generated_at": "2026-11-14T15:34:17.035Z",
   "stores": {
     "DSC-02": {
       "name": "TARTAGAL",
@@ -17778,6 +17778,18 @@
           "size": "3XL",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-9b6db466-Negro-3XL"
+        },
+        {
+          "color": "Marron",
+          "size": "2XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-9b6db466-Marron-2XL"
+        },
+        {
+          "color": "Marron",
+          "size": "3XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-9b6db466-Marron-3XL"
         }
       ]
     },
@@ -17933,6 +17945,12 @@
           "size": "23",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-54b73de6-Negro-23"
+        },
+        {
+          "color": "Marron",
+          "size": "23",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-54b73de6-Marron-23"
         }
       ]
     },
@@ -18779,6 +18797,42 @@
           "size": "80",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-5f2fc222-Blanco-80"
+        }
+      ]
+    },
+    {
+      "id": "2ac21413",
+      "model": "CHAPON UNIVERSO P.V EXTRA",
+      "price": 9000,
+      "minor_surcharge": 2000,
+      "category_id": "CINT03",
+      "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
+      "store_id": "DSC-02",
+      "variations": [
+        {
+          "color": "Negro",
+          "size": "2XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-2ac21413-Negro-2XL"
+        },
+        {
+          "color": "Negro",
+          "size": "3XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-2ac21413-Negro-3XL"
+        },
+        {
+          "color": "Marron",
+          "size": "2XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-2ac21413-Marron-2XL"
+        },
+        {
+          "color": "Marron",
+          "size": "3XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-2ac21413-Marron-3XL"
         }
       ]
     }
