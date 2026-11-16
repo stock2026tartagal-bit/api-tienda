@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T11:34:16.677Z",
+  "generated_at": "2026-11-16T15:34:19.159Z",
   "stores": {
     "DSC-02": {
       "name": "TARTAGAL",
@@ -18833,6 +18833,30 @@
           "size": "3XL",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-2ac21413-Marron-3XL"
+        }
+      ]
+    },
+    {
+      "id": "012c5d62",
+      "model": "FAJA CIRCULAR NIQUEL 25",
+      "price": 10500,
+      "minor_surcharge": 4500,
+      "category_id": "FAJA04",
+      "categoryName": "FAJA DE MUJER",
+      "gender": "Mujer",
+      "store_id": "DSC-02",
+      "variations": [
+        {
+          "color": "Negro",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-012c5d62-Negro-S/T"
+        },
+        {
+          "color": "Marron",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-012c5d62-Marron-S/T"
         }
       ]
     }
