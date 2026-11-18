@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T11:34:19.918Z",
+  "generated_at": "2026-11-18T15:34:19.616Z",
   "stores": {
     "DSC-02": {
       "name": "TARTAGAL",
@@ -16078,7 +16078,7 @@
       "id": "fb87af34",
       "model": "HPP DE 25",
       "price": 3000,
-      "minor_surcharge": 2200,
+      "minor_surcharge": 2000,
       "category_id": "CINT06",
       "categoryName": "CINTURON DE NIÑA",
       "gender": "Infantil",
