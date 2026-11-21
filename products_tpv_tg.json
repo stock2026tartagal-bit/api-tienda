@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T07:35:01.550Z",
+  "generated_at": "2026-11-21T11:34:17.703Z",
   "stores": {
     "DSC-02": {
       "name": "TARTAGAL",
@@ -17932,7 +17932,7 @@
     },
     {
       "id": "54b73de6",
-      "model": "FAJA CIRCULO CHICO EXTRA",
+      "model": "FAJA DIJE SOL EXTRA",
       "price": 9500,
       "minor_surcharge": 2000,
       "category_id": "FAJA04",
@@ -17951,12 +17951,24 @@
           "size": "23",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-54b73de6-Marron-23"
+        },
+        {
+          "color": "Negro",
+          "size": "12",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-54b73de6-Negro-12"
+        },
+        {
+          "color": "Marron",
+          "size": "12",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-54b73de6-Marron-12"
         }
       ]
     },
     {
       "id": "328e2dea",
-      "model": "FAJA CIRCULO CHICO",
+      "model": "FAJA DIJE SOL",
       "price": 7500,
       "minor_surcharge": 2000,
       "category_id": "FAJA04",
@@ -17987,6 +17999,30 @@
           "size": "19",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-328e2dea-Marron-19"
+        },
+        {
+          "color": "Negro",
+          "size": "8",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-328e2dea-Negro-8"
+        },
+        {
+          "color": "Negro",
+          "size": "10",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-328e2dea-Negro-10"
+        },
+        {
+          "color": "Marron",
+          "size": "8",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-328e2dea-Marron-8"
+        },
+        {
+          "color": "Marron",
+          "size": "10",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-328e2dea-Marron-10"
         }
       ]
     },
