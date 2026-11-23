@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T11:34:16.751Z",
+  "generated_at": "2026-11-23T15:34:17.994Z",
   "stores": {
     "DSC-02": {
       "name": "TARTAGAL",
@@ -17942,18 +17942,6 @@
       "variations": [
         {
           "color": "Negro",
-          "size": "23",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-54b73de6-Negro-23"
-        },
-        {
-          "color": "Marron",
-          "size": "23",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-54b73de6-Marron-23"
-        },
-        {
-          "color": "Negro",
           "size": "12",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-54b73de6-Negro-12"
@@ -17976,30 +17964,6 @@
       "gender": "Mujer",
       "store_id": "DSC-02",
       "variations": [
-        {
-          "color": "Negro",
-          "size": "17",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-328e2dea-Negro-17"
-        },
-        {
-          "color": "Negro",
-          "size": "19",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-328e2dea-Negro-19"
-        },
-        {
-          "color": "Marron",
-          "size": "17",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-328e2dea-Marron-17"
-        },
-        {
-          "color": "Marron",
-          "size": "19",
-          "store_id": "DSC-02",
-          "variation_id": "DSC-02-328e2dea-Marron-19"
-        },
         {
           "color": "Negro",
           "size": "8",
