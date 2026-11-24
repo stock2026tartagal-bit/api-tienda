@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T19:34:16.934Z",
+  "generated_at": "2026-11-24T23:34:18.400Z",
   "stores": {
     "DSC-02": {
       "name": "TARTAGAL",
@@ -18859,6 +18859,17 @@
           "variation_id": "DSC-02-012c5d62-Marron-S/T"
         }
       ]
+    },
+    {
+      "id": "661d93b7",
+      "model": "CADENA ARGOLLA",
+      "price": 7000,
+      "minor_surcharge": 2000,
+      "category_id": "CINT03",
+      "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
+      "store_id": "DSC-02",
+      "variations": []
     }
   ]
 }
