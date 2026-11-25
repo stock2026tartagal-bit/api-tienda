@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T11:34:17.622Z",
+  "generated_at": "2026-11-25T15:34:16.676Z",
   "stores": {
     "DSC-02": {
       "name": "TARTAGAL",
@@ -4730,7 +4730,7 @@
     {
       "id": "4980d9b0",
       "model": "FAJA CIRCULO ESPEJO",
-      "price": 14000,
+      "price": 12000,
       "minor_surcharge": 2000,
       "category_id": "FAJA04",
       "categoryName": "FAJA DE MUJER",
@@ -4994,6 +4994,30 @@
           "size": "95/100",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-4f56c69f-Negro-95/100"
+        },
+        {
+          "color": "Marron",
+          "size": "85/90",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-4f56c69f-Marron-85/90"
+        },
+        {
+          "color": "Marron",
+          "size": "95/100",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-4f56c69f-Marron-95/100"
+        },
+        {
+          "color": "Marron",
+          "size": "105/110",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-4f56c69f-Marron-105/110"
+        },
+        {
+          "color": "Marron",
+          "size": "115/120",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-4f56c69f-Marron-115/120"
         }
       ]
     },
