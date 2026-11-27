@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T07:34:21.124Z",
+  "generated_at": "2026-11-27T11:34:16.305Z",
   "stores": {
     "DSC-02": {
       "name": "TARTAGAL",
@@ -18922,6 +18922,60 @@
           "size": "S/T",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-c38b8292-Salmon-S/T"
+        }
+      ]
+    },
+    {
+      "id": "624f934d",
+      "model": "ALGODON DE 40 EXTRA",
+      "price": 9000,
+      "minor_surcharge": 2000,
+      "category_id": "CINT02",
+      "categoryName": "CINTURON DE HOMBRE",
+      "gender": "Hombre",
+      "store_id": "DSC-02",
+      "variations": [
+        {
+          "color": "Negro",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-624f934d-Negro-S/T"
+        },
+        {
+          "color": "Blanco",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-624f934d-Blanco-S/T"
+        },
+        {
+          "color": "Marron",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-624f934d-Marron-S/T"
+        },
+        {
+          "color": "Verde",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-624f934d-Verde-S/T"
+        },
+        {
+          "color": "Azul",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-624f934d-Azul-S/T"
+        },
+        {
+          "color": "Gris",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-624f934d-Gris-S/T"
+        },
+        {
+          "color": "Amarillo mostaza",
+          "size": "S/T",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-624f934d-Amarillo mostaza-S/T"
         }
       ]
     }
