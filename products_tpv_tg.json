@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T11:34:16.622Z",
+  "generated_at": "2026-11-28T15:34:18.646Z",
   "stores": {
     "DSC-02": {
       "name": "TARTAGAL",
@@ -18886,7 +18886,7 @@
     },
     {
       "id": "661d93b7",
-      "model": "CADENA ARGOLLA",
+      "model": "CADENA DIJE",
       "price": 7000,
       "minor_surcharge": 2000,
       "category_id": "CINT03",
@@ -18976,6 +18976,24 @@
           "size": "S/T",
           "store_id": "DSC-02",
           "variation_id": "DSC-02-624f934d-Amarillo mostaza-S/T"
+        }
+      ]
+    },
+    {
+      "id": "e65ec729",
+      "model": "CADENA DIJE EXTRA",
+      "price": 9000,
+      "minor_surcharge": 2000,
+      "category_id": "CINT03",
+      "categoryName": "CINTURON DE MUJER",
+      "gender": "Mujer",
+      "store_id": "DSC-02",
+      "variations": [
+        {
+          "color": "Blanco",
+          "size": "3XL",
+          "store_id": "DSC-02",
+          "variation_id": "DSC-02-e65ec729-Blanco-3XL"
         }
       ]
     }
